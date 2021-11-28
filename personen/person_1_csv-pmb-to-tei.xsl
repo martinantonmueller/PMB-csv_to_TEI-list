@@ -284,6 +284,11 @@
                     </xsl:choose>
                 </xsl:for-each>
             </xsl:if>
+            <xsl:if test="gender[fn:string-length(text()) &gt; 0]">
+                <xsl:element name="sex" namespace="http://www.tei-c.org/ns/1.0">
+                    <xsl:value-of select="gender"/>
+                </xsl:element>
+            </xsl:if>
         </xsl:element>
     </xsl:template>
     <xsl:template match="person[preceding-sibling::person/xmlid = xmlid]"/>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+    <item>
+        <ID>35597</ID>
+        <orgName>Deutsches Theater Berlin</orgName>
+        <start_date>1849-07-02</start_date>
+        <kind>1012.0</kind>
+        <start_date_written>1849</start_date_written>
+        <end_date_written/>
+        <end_date/>
+    </item>
+    <item>
+        <ID>36246</ID>
+        <orgName>Kaiserlich-Königliches Hof-Burgtheater</orgName>
+        <start_date>1848-04-01</start_date>
+        <kind>1012.0</kind>
+        <start_date_written>April 1848</start_date_written>
+        <end_date_written>August 1852</end_date_written>
+        <end_date>1852-08-01</end_date>
+    </item>
+    <item>
+        <ID>36247</ID>
+        <orgName>Burgtheater</orgName>
+        <start_date>1852-07-01</start_date>
+        <kind>1012.0</kind>
+        <start_date_written>1852</start_date_written>
+        <end_date_written/>
+        <end_date/>
+    </item>
+    <item>
+        <ID>36264</ID>
+        <orgName>Jantsch-Theater</orgName>
+        <start_date/>
+        <kind>1012.0</kind>
+        <start_date_written/>
+        <end_date_written/>
+        <end_date/>
+    </item>
+    <item>
+        <ID>36430</ID>
+        <orgName>Volkstheater</orgName>
+        <start_date>1889-07-02</start_date>
+        <kind>1012.0</kind>
+        <start_date_written>1889</start_date_written>
+        <end_date_written/>
+        <end_date/>
+    </item>
+    <item>
+        <ID>36688</ID>
+        <orgName>Kärntnertor-Theater</orgName>
+        <start_date>1709-07-02</start_date>
+        <kind>1012.0</kind>
+        <start_date_written>1709</start_date_written>
+        <end_date_written>1869</end_date_written>
+        <end_date>1869-07-02</end_date>
+    </item>
+    <item>
+        <ID>36893</ID>
+        <orgName>Alberttheater (Chemnitz)</orgName>
+        <start_date/>
+        <kind>1012.0</kind>
+        <start_date_written/>
+        <end_date_written/>
+        <end_date/>
+    </item>
+    <item>
+        <ID>36940</ID>
+        <orgName>Volksbühne Berlin</orgName>
+        <start_date>1890-07-02</start_date>
+        <kind>1012.0</kind>
+        <start_date_written>1890</start_date_written>
+        <end_date_written/>
+        <end_date/>
+    </item>
+    <item>
+        <ID>36996</ID>
+        <orgName>Theater an der Wien</orgName>
+        <start_date/>
+        <kind>1012.0</kind>
+        <start_date_written/>
+        <end_date_written/>
+        <end_date/>
+    </item>
+    <item>
+        <ID>37080</ID>
+        <orgName>Neues Deutsches Theater</orgName>
+        <start_date>1888-07-01</start_date>
+        <kind>1012.0</kind>
+        <start_date_written>1888</start_date_written>
+        <end_date_written>1938</end_date_written>
+        <end_date>1938-07-02</end_date>
+    </item>
+</Items>
