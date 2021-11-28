@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- falls projektspezifische handles vorhanden sind, hier vermerken,
+damit die eingetragen werden können-->
+<root>
+    <project ana="asbw">
+        <list>
+            <item type="listperson">https://hdl.handle.net/21.11115/0000-000E-753F-9</item>
+            <item type="listorg">https://hdl.handle.net/21.11115/0000-000E-753D-B</item>
+            <item type="listplace">https://hdl.handle.net/21.11115/0000-000E-753E-A</item>
+            <item type="listwork">https://hdl.handle.net/21.11115/0000-000E-7542-4</item>
+        </list>
+    </project>
+</root>

@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+   <item>
+      <ID>2</ID>
+      <pmb-type>Kabarett (K.KBR)</pmb-type>
+      <label-type>Kabarett</label-type>
+   </item>
+   <item>
+      <ID>3</ID>
+      <pmb-type>Konservatorium (K.KON)</pmb-type>
+      <label-type>Konservatorium</label-type>
+   </item>
+   <item>
+      <ID>4</ID>
+      <pmb-type>Theater (K.THE)</pmb-type>
+      <label-type>Theater</label-type>
+   </item>
+   <item>
+      <ID>5</ID>
+      <pmb-type>Veranstaltungsgebäude (K.VSB)</pmb-type>
+      <label-type>Veranstaltungsgebäude</label-type>
+   </item>
+   <item>
+      <ID>6</ID>
+      <pmb-type>Gallerie (K.GLR)</pmb-type>
+      <label-type>Gallerie</label-type>
+   </item>
+   <item>
+      <ID>7</ID>
+      <pmb-type>Bierhaus (K.BIR)</pmb-type>
+      <label-type>Bierhaus</label-type>
+   </item>
+   <item>
+      <ID>8</ID>
+      <pmb-type>Museum (K.MUS)</pmb-type>
+      <label-type>Museum</label-type>
+   </item>
+   <item>
+      <ID>9</ID>
+      <pmb-type>Grünanlage (K.GRN)</pmb-type>
+      <label-type>Grünanlage</label-type>
+   </item>
+   <item>
+      <ID>10</ID>
+      <pmb-type>Oper (K.OPR)</pmb-type>
+      <label-type>Oper</label-type>
+   </item>
+   <item>
+      <ID>12</ID>
+      <pmb-type>Hotel (K.HTL)</pmb-type>
+      <label-type>Hotel</label-type>
+   </item>
+   <item>
+      <ID>13</ID>
+      <pmb-type>Teil eines Landes (A.LNDX)</pmb-type>
+      <label-type>Teil eines Landes</label-type>
+   </item>
+   <item>
+      <ID>14</ID>
+      <pmb-type>Besiedelter Ort (A.BSO)</pmb-type>
+      <label-type>Besiedelter Ort</label-type>
+   </item>
+   <item>
+      <ID>15</ID>
+      <pmb-type>Universität (K.UNI)</pmb-type>
+      <label-type>Universität</label-type>
+   </item>
+   <item>
+      <ID>16</ID>
+      <pmb-type>Ministerium (K.MIN)</pmb-type>
+      <label-type>Ministerium</label-type>
+   </item>
+   <item>
+      <ID>17</ID>
+      <pmb-type>Gastgewerbegebäude (K.GGW)</pmb-type>
+      <label-type>Gastgewerbegebäude</label-type>
+   </item>
+   <item>
+      <ID>18</ID>
+      <pmb-type>Teil eines besiedelten Ortes (A.BSOX)</pmb-type>
+      <label-type>Teil eines besiedelten Ortes</label-type>
+   </item>
+   <item>
+      <ID>19</ID>
+      <pmb-type>Park (K.PRK)</pmb-type>
+      <label-type>Park</label-type>
+   </item>
+   <item>
+      <ID>20</ID>
+      <pmb-type>Kaffeehaus (K.KAF)</pmb-type>
+      <label-type>Kaffeehaus</label-type>
+   </item>
+   <item>
+      <ID>21</ID>
+      <pmb-type>Platz (K.PLT)</pmb-type>
+      <label-type>Platz</label-type>
+   </item>
+   <item>
+      <ID>22</ID>
+      <pmb-type>Lokal (K.LKL)</pmb-type>
+      <label-type>Lokal</label-type>
+   </item>
+   <item>
+      <ID>23</ID>
+      <pmb-type>Krankenhaus (K.KKH)</pmb-type>
+      <label-type>Krankenhaus</label-type>
+   </item>
+   <item>
+      <ID>24</ID>
+      <pmb-type>Gebäude (K.GBD)</pmb-type>
+      <label-type>Gebäude</label-type>
+   </item>
+   <item>
+      <ID>25</ID>
+      <pmb-type>Bezirk (A.BZK)</pmb-type>
+      <label-type>Bezirk</label-type>
+   </item>
+   <item>
+      <ID>26</ID>
+      <pmb-type>Straße (K.STR)</pmb-type>
+      <label-type>Straße</label-type>
+   </item>
+   <item>
+      <ID>27</ID>
+      <pmb-type>Sanatorium (K.SAN)</pmb-type>
+      <label-type>Sanatorium</label-type>
+   </item>
+   <item>
+      <ID>28</ID>
+      <pmb-type>Berg (N.BRG)</pmb-type>
+      <label-type>Berg</label-type>
+   </item>
+   <item>
+      <ID>29</ID>
+      <pmb-type>Geschäft (K.GES)</pmb-type>
+      <label-type>Geschäft</label-type>
+   </item>
+   <item>
+      <ID>30</ID>
+      <pmb-type>Freizeiteinrichtung (K.FRZ)</pmb-type>
+      <label-type>Freizeiteinrichtung</label-type>
+   </item>
+   <item>
+      <ID>31</ID>
+      <pmb-type>Gebirge (N.GBR)</pmb-type>
+      <label-type>Gebirge</label-type>
+   </item>
+   <item>
+      <ID>32</ID>
+      <pmb-type>Bahnhofsgebäude (K.BHF)</pmb-type>
+      <label-type>Bahnhofsgebäude</label-type>
+   </item>
+   <item>
+      <ID>33</ID>
+      <pmb-type>Kirche (K.KRC)</pmb-type>
+      <label-type>Kirche</label-type>
+   </item>
+   <item>
+      <ID>34</ID>
+      <pmb-type>Kloster (K.KLS)</pmb-type>
+      <label-type>Kloster</label-type>
+   </item>
+   <item>
+      <ID>35</ID>
+      <pmb-type>Schule (K.SCH)</pmb-type>
+      <label-type>Schule</label-type>
+   </item>
+   <item>
+      <ID>36</ID>
+      <pmb-type>Wohngebäude (K.WHS)</pmb-type>
+      <label-type>Wohngebäude</label-type>
+   </item>
+   <item>
+      <ID>37</ID>
+      <pmb-type>Brücke (K.BRK)</pmb-type>
+      <label-type>Brücke</label-type>
+   </item>
+   <item>
+      <ID>38</ID>
+      <pmb-type>Land (A.LND)</pmb-type>
+      <label-type>Land</label-type>
+   </item>
+   <item>
+      <ID>39</ID>
+      <pmb-type>Wanderweg (K.WND)</pmb-type>
+      <label-type>Wanderweg</label-type>
+   </item>
+   <item>
+      <ID>40</ID>
+      <pmb-type>eingemeindeter Ort (A.VOO)</pmb-type>
+      <label-type>eingemeindeter Ort</label-type>
+   </item>
+   <item>
+      <ID>41</ID>
+      <pmb-type>Schloss (K.SLS)</pmb-type>
+      <label-type>Schloss</label-type>
+   </item>
+   <item>
+      <ID>42</ID>
+      <pmb-type>Beherbergungsgebäude (K.BHB)</pmb-type>
+      <label-type>Beherbergungsgebäude</label-type>
+   </item>
+   <item>
+      <ID>43</ID>
+      <pmb-type>Halbinsel (N.HIN)</pmb-type>
+      <label-type>Halbinsel</label-type>
+   </item>
+   <item>
+      <ID>44</ID>
+      <pmb-type>See (N.SEE)</pmb-type>
+      <label-type>See</label-type>
+   </item>
+   <item>
+      <ID>45</ID>
+      <pmb-type>Konzertsaal (K.KNZ)</pmb-type>
+      <label-type>Konzertsaal</label-type>
+   </item>
+   <item>
+      <ID>46</ID>
+      <pmb-type>Kino (K.KNO)</pmb-type>
+      <label-type>Kino</label-type>
+   </item>
+   <item>
+      <ID>47</ID>
+      <pmb-type>Region</pmb-type>
+      <label-type>Region</label-type>
+   </item>
+   <item>
+      <ID>48</ID>
+      <pmb-type>Sakralbau (K.SAK)</pmb-type>
+      <label-type>Sakralbau</label-type>
+   </item>
+   <item>
+      <ID>49</ID>
+      <pmb-type>Kontinent (A.KNT)</pmb-type>
+      <label-type>Kontinent</label-type>
+   </item>
+   <item>
+      <ID>50</ID>
+      <pmb-type>Fluss (N.FLS)</pmb-type>
+      <label-type>Fluss</label-type>
+   </item>
+   <item>
+      <ID>51</ID>
+      <pmb-type>Friedhof (K.FRH)</pmb-type>
+      <label-type>Friedhof</label-type>
+   </item>
+   <item>
+      <ID>52</ID>
+      <pmb-type>Zoo (K.ZOO)</pmb-type>
+      <label-type>Zoo</label-type>
+   </item>
+   <item>
+      <ID>53</ID>
+      <pmb-type>Buchhandlung (K.BHL)</pmb-type>
+      <label-type>Buchhandlung</label-type>
+   </item>
+   <item>
+      <ID>54</ID>
+      <pmb-type>Regierungsgebäude (K.RGB)</pmb-type>
+      <label-type>Regierungsgebäude</label-type>
+   </item>
+   <item>
+      <ID>55</ID>
+      <pmb-type>Monument (K.MON)</pmb-type>
+      <label-type>Monument</label-type>
+   </item>
+   <item>
+      <ID>56</ID>
+      <pmb-type>Vergnügungspark (K.VGN)</pmb-type>
+      <label-type>Vergnügungspark</label-type>
+   </item>
+   <item>
+      <ID>57</ID>
+      <pmb-type>Insel (N.INS)</pmb-type>
+      <label-type>Insel</label-type>
+   </item>
+   <item>
+      <ID>58</ID>
+      <pmb-type>Bank (K.BNK)</pmb-type>
+      <label-type>Bank</label-type>
+   </item>
+   <item>
+      <ID>59</ID>
+      <pmb-type>Verwaltungsgebäude (K.VWL)</pmb-type>
+      <label-type>Verwaltungsgebäude</label-type>
+   </item>
+   <item>
+      <ID>60</ID>
+      <pmb-type>Landschaftlicher-Punkt</pmb-type>
+      <label-type>Landschaftlicher-Punkt</label-type>
+   </item>
+   <item>
+      <ID>61</ID>
+      <pmb-type>Landschaftlicher-Punkt</pmb-type>
+      <label-type>Landschaftlicher-Punkt</label-type>
+   </item>
+   <item>
+      <ID>62</ID>
+      <pmb-type>Ausflugsziel</pmb-type>
+      <label-type>Ausflugsziel</label-type>
+   </item>
+   <item>
+      <ID>63</ID>
+      <pmb-type>Redaktionsgebäude (K.RDK)</pmb-type>
+      <label-type>Redaktionsgebäude</label-type>
+   </item>
+   <item>
+      <ID>64</ID>
+      <pmb-type>Bürogebäude (K.BUR)</pmb-type>
+      <label-type>Bürogebäude</label-type>
+   </item>
+   <item>
+      <ID>65</ID>
+      <pmb-type>Meer (N.MER)</pmb-type>
+      <label-type>Meer</label-type>
+   </item>
+   <item>
+      <ID>66</ID>
+      <pmb-type>Vereinsgebäude (K.VRN)</pmb-type>
+      <label-type>Vereinsgebäude</label-type>
+   </item>
+   <item>
+      <ID>67</ID>
+      <pmb-type>Fleischerei (K.FLS)</pmb-type>
+      <label-type>Fleischerei</label-type>
+   </item>
+   <item>
+      <ID>68</ID>
+      <pmb-type>Pass (N.PAS)</pmb-type>
+      <label-type>Pass</label-type>
+   </item>
+   <item>
+      <ID>69</ID>
+      <pmb-type>Fabrik (K.FAB)</pmb-type>
+      <label-type>Fabrik</label-type>
+   </item>
+   <item>
+      <ID>70</ID>
+      <pmb-type>Ausbildungsstätte (K.ABS)</pmb-type>
+      <label-type>Ausbildungsstätte</label-type>
+   </item>
+   <item>
+      <ID>71</ID>
+      <pmb-type>Bucht (N.BCT)</pmb-type>
+      <label-type>Bucht</label-type>
+   </item>
+   <item>
+      <ID>72</ID>
+      <pmb-type>Schwimmbad (K.BAD)</pmb-type>
+      <label-type>Schwimmbad</label-type>
+   </item>
+   <item>
+      <ID>73</ID>
+      <pmb-type>Infrastrukturgebäude (K.INF)</pmb-type>
+      <label-type>Infrastrukturgebäude</label-type>
+   </item>
+   <item>
+      <ID>74</ID>
+      <pmb-type>Teil eines Kontinents (A.KNTX)</pmb-type>
+      <label-type>Teil eines Kontinents</label-type>
+   </item>
+   <item>
+      <ID>75</ID>
+      <pmb-type>Forschungseinrichtung (K.FRS)</pmb-type>
+      <label-type>Forschungseinrichtung</label-type>
+   </item>
+   <item>
+      <ID>76</ID>
+      <pmb-type>Bibliothek (K.BIB)</pmb-type>
+      <label-type>Bibliothek</label-type>
+   </item>
+   <item>
+      <ID>77</ID>
+      <pmb-type>Kap (N.KAP)</pmb-type>
+      <label-type>Kap</label-type>
+   </item>
+   <item>
+      <ID>78</ID>
+      <pmb-type>Volksbildungsanstalt (K.VBA)</pmb-type>
+      <label-type>Volksbildungsanstalt</label-type>
+   </item>
+   <item>
+      <ID>79</ID>
+      <pmb-type>K.SUK</pmb-type>
+      <label-type>K.SUK</label-type>
+   </item>
+   <item>
+      <ID>80</ID>
+      <pmb-type>K.OPE</pmb-type>
+      <label-type>K.OPE</label-type>
+   </item>
+   <item>
+      <ID>81</ID>
+      <pmb-type>Markt (K.MRK)</pmb-type>
+      <label-type>Markt</label-type>
+   </item>
+   <item>
+      <ID>82</ID>
+      <pmb-type>Kunsthochschule (K.KHS)</pmb-type>
+      <label-type>Kunsthochschule</label-type>
+   </item>
+   <item>
+      <ID>83</ID>
+      <pmb-type>Botschaft (K.BTS)</pmb-type>
+      <label-type>Botschaft</label-type>
+   </item>
+   <item>
+      <ID>84</ID>
+      <pmb-type>K.HFN</pmb-type>
+      <label-type>K.HFN</label-type>
+   </item>
+   <item>
+      <ID>85</ID>
+      <pmb-type>Hotel (K.HTL)</pmb-type>
+      <label-type>Hotel</label-type>
+   </item>
+   <item>
+      <ID>86</ID>
+      <pmb-type>T.MT</pmb-type>
+      <label-type>T.MT</label-type>
+   </item>
+   <item>
+      <ID>87</ID>
+      <pmb-type>no type provided</pmb-type>
+      <label-type>no type provided</label-type>
+   </item>
+   <item>
+      <ID>1103</ID>
+      <pmb-type>http://www.geonames.org/ontology#P.PPLC</pmb-type>
+      <label-type>Hauptstadt</label-type>
+   </item>
+   <item>
+      <ID>1105</ID>
+      <pmb-type>http://www.geonames.org/ontology#A.ADM4</pmb-type>
+      <label-type>Gemeinde</label-type>
+   </item>
+   <item>
+      <ID>1107</ID>
+      <pmb-type>http://www.geonames.org/ontology#A.PCLI</pmb-type>
+      <label-type>Land</label-type>
+   </item>
+   <item>
+      <ID>1108</ID>
+      <pmb-type>http://www.geonames.org/ontology#P.PPLA</pmb-type>
+      <label-type>Land</label-type>
+   </item>
+   <item>
+      <ID>1123</ID>
+      <pmb-type>http://www.geonames.org/ontology#P.PPL</pmb-type>
+      <label-type>Besiedelter Ort</label-type>
+   </item>
+   <item>
+      <ID>1124</ID>
+      <pmb-type>http://www.geonames.org/ontology#A.ADM3</pmb-type>
+      <label-type>Besiedelter Ort</label-type>
+   </item>
+   <item>
+      <ID>1128</ID>
+      <pmb-type>http://www.geonames.org/ontology#P.PPLA3</pmb-type>
+      <label-type>Besiedelter Ort</label-type>
+   </item>
+   <item>
+      <ID>1134</ID>
+      <pmb-type>http://www.geonames.org/ontology#P.PPLA2</pmb-type>
+      <label-type>Besiedelter Ort</label-type>
+   </item>
+   <item>
+      <ID>1135</ID>
+      <pmb-type>http://www.geonames.org/ontology#A.ADM2</pmb-type>
+      <label-type>Region</label-type>
+   </item>
+   <item>
+      <ID>1137</ID>
+      <pmb-type>http://www.geonames.org/ontology#A.ADM1</pmb-type>
+      <label-type>Region</label-type>
+   </item>
+   <item>
+      <ID>1152</ID>
+      <pmb-type>http://www.geonames.org/ontology#T.VAL</pmb-type>
+      <label-type>Tal</label-type>
+   </item>
+   <item>
+      <ID>1195</ID>
+      <pmb-type>http://www.geonames.org/ontology#P.PPLA4</pmb-type>
+      <label-type>Besiedelter Ort</label-type>
+   </item>
+   <item>
+      <ID>1234</ID>
+      <pmb-type>http://www.geonames.org/ontology#P.PPLX</pmb-type>
+      <label-type>Ortsteil</label-type>
+   </item>
+   <item>
+      <ID>1249</ID>
+      <pmb-type>http://www.geonames.org/ontology#S.UNIV</pmb-type>
+      <label-type>Hochschule</label-type>
+   </item>
+   <item>
+      <ID>1257</ID>
+      <pmb-type>http://www.geonames.org/ontology#L.RGNE</pmb-type>
+      <label-type>Region</label-type>
+   </item>
+   <item>
+      <ID>1278</ID>
+      <pmb-type>http://www.geonames.org/ontology#A.PCLD</pmb-type>
+      <label-type>Gegend</label-type>
+   </item>
+   <item>
+      <ID>1284</ID>
+      <pmb-type>http://www.geonames.org/ontology#L.RGN</pmb-type>
+      <label-type>Landschaft</label-type>
+   </item>
+   <item>
+      <ID>1285</ID>
+      <pmb-type>http://www.geonames.org/ontology#A.ADM3H</pmb-type>
+      <label-type>Ehemaliger Ort</label-type>
+   </item>
+   <item>
+      <ID>1297</ID>
+      <pmb-type>http://www.geonames.org/ontology#A.PCLH</pmb-type>
+      <label-type>Ehemaliges Land</label-type>
+   </item>
+   <item>
+      <ID>1298</ID>
+      <pmb-type>http://www.geonames.org/ontology#A.ADMD</pmb-type>
+      <label-type>Gegend</label-type>
+   </item>
+   <item>
+      <ID>1399</ID>
+      <pmb-type>Tal (N.TAL)</pmb-type>
+      <label-type>Tal</label-type>
+   </item>
+   <item>
+      <ID>1410</ID>
+      <pmb-type>https://www.geonames.org/ontology#P.PPLA3</pmb-type>
+      <label-type>Besiedelter Ort</label-type>
+   </item>
+   <item>
+      <ID>1411</ID>
+      <pmb-type>https://www.geonames.org/ontology#A.PCLI</pmb-type>
+      <label-type>Land</label-type>
+   </item>
+   <item>
+      <ID>1412</ID>
+      <pmb-type>https://www.geonames.org/ontology#P.PPL</pmb-type>
+      <label-type>Besiedelter Ort</label-type>
+   </item>
+   <item>
+      <ID>1415</ID>
+      <pmb-type>https://www.geonames.org/ontology#P.PPLA</pmb-type>
+      <label-type>Land</label-type>
+   </item>
+   <item>
+      <ID>1418</ID>
+      <pmb-type>https://www.geonames.org/ontology#P.PPLC</pmb-type>
+      <label-type>Hauptstadt</label-type>
+   </item>
+   <item>
+      <ID>1419</ID>
+      <pmb-type>https://www.geonames.org/ontology#P.PPLA2</pmb-type>
+      <label-type>Besiedelter Ort</label-type>
+   </item>
+   <item>
+      <ID>1434</ID>
+      <pmb-type>https://www.geonames.org/ontology#A.ADM3</pmb-type>
+      <label-type>Besiedelter Ort</label-type>
+   </item>
+   <item>
+      <ID>1480</ID>
+      <pmb-type>https://www.geonames.org/ontology#A.ADM2</pmb-type>
+      <label-type>Region</label-type>
+   </item>
+   <item>
+      <ID>1481</ID>
+      <pmb-type>https://www.geonames.org/ontology#A.PCLS</pmb-type>
+      <label-type>Besiedelter Ort</label-type>
+   </item>
+   <item>
+      <ID>1483</ID>
+      <pmb-type>https://www.geonames.org/ontology#P.PPLA4</pmb-type>
+      <label-type>Besiedelter Ort</label-type>
+   </item>
+   <item>
+      <ID>1484</ID>
+      <pmb-type>https://www.geonames.org/ontology#A.ADM1</pmb-type>
+      <label-type>Region</label-type>
+   </item>
+   <item>
+      <ID>1485</ID>
+      <pmb-type>Strand (N.STR)</pmb-type>
+      <label-type>Strand</label-type>
+   </item>
+   <item>
+      <ID>1513</ID>
+      <pmb-type>https://www.geonames.org/ontology#A.ADMD</pmb-type>
+      <label-type>Gegend</label-type>
+   </item>
+   <item>
+      <ID>1519</ID>
+      <pmb-type>https://www.geonames.org/ontology#P.PPLX</pmb-type>
+      <label-type>Ortsteil</label-type>
+   </item>
+   <item>
+      <ID>1532</ID>
+      <pmb-type>https://www.geonames.org/ontology#T.VAL</pmb-type>
+      <label-type>Tal</label-type>
+   </item>
+   <item>
+      <ID>1533</ID>
+      <pmb-type>https://www.geonames.org/ontology#A.PCLD</pmb-type>
+      <label-type>Gegend</label-type>
+   </item>
+   <item>
+      <ID>1555</ID>
+      <pmb-type>https://www.geonames.org/ontology#L.RGN</pmb-type>
+      <label-type>Landschaft</label-type>
+   </item>
+   <item>
+      <ID>1572</ID>
+      <pmb-type>https://www.geonames.org/ontology#S.ANS</pmb-type>
+      <label-type>Archäologische Ausgrabungsstätte</label-type>
+   </item>
+   <item>
+      <ID>1573</ID>
+      <pmb-type>https://www.geonames.org/ontology#L.CONT</pmb-type>
+      <label-type>Kontinent</label-type>
+   </item>
+   <item>
+      <ID>1574</ID>
+      <pmb-type>https://www.geonames.org/ontology#A.ADM4H</pmb-type>
+      <label-type>Ehemaliger Ort</label-type>
+   </item>
+   <item>
+      <ID>1575</ID>
+      <pmb-type>https://www.geonames.org/ontology#S.MSTY</pmb-type>
+      <label-type>Kloster</label-type>
+   </item>
+   <item>
+      <ID>1576</ID>
+      <pmb-type>https://www.geonames.org/ontology#T.ISL</pmb-type>
+      <label-type>Insel</label-type>
+   </item>
+   <item>
+      <ID>1577</ID>
+      <pmb-type>https://www.geonames.org/ontology#H.STM</pmb-type>
+      <label-type>Fluss</label-type>
+   </item>
+   <item>
+      <ID>1579</ID>
+      <pmb-type>https://www.geonames.org/ontology#S.HSE</pmb-type>
+      <label-type>Gebäude</label-type>
+   </item>
+   <item>
+      <ID>1580</ID>
+      <pmb-type>https://www.geonames.org/ontology#A.ADM4</pmb-type>
+      <label-type>Gemeinde</label-type>
+   </item>
+   <item>
+      <ID>1581</ID>
+      <pmb-type>https://www.geonames.org/ontology#S.CSTL</pmb-type>
+      <label-type>Schloss</label-type>
+   </item>
+   <item>
+      <ID>1585</ID>
+      <pmb-type>https://www.geonames.org/ontology#A.PCL</pmb-type>
+      <label-type>Besiedelter Ort</label-type>
+   </item>
+   <item>
+      <ID>1586</ID>
+      <pmb-type>https://www.geonames.org/ontology#S.FRM</pmb-type>
+      <label-type>Bauernhof</label-type>
+   </item>
+   <item>
+      <ID>1593</ID>
+      <pmb-type>https://www.geonames.org/ontology#T.ISLS</pmb-type>
+      <label-type>Inseln</label-type>
+   </item>
+   <item>
+      <ID>1606</ID>
+      <pmb-type>https://www.geonames.org/ontology#T.VLC</pmb-type>
+      <label-type>Vulkan</label-type>
+   </item>
+   <item>
+      <ID>1607</ID>
+      <pmb-type>https://www.geonames.org/ontology#A.PCLIX</pmb-type>
+      <label-type>Ortsteil</label-type>
+   </item>
+   <item>
+      <ID>1608</ID>
+      <pmb-type>https://www.geonames.org/ontology#T.CAPE</pmb-type>
+      <label-type>Kapp</label-type>
+   </item>
+   <item>
+      <ID>1618</ID>
+      <pmb-type>https://www.geonames.org/ontology#H.LK</pmb-type>
+      <label-type>See</label-type>
+   </item>
+   <item>
+      <ID>1620</ID>
+      <pmb-type>https://www.geonames.org/ontology#T.MTS</pmb-type>
+      <label-type>Berge</label-type>
+   </item>
+   <item>
+      <ID>1621</ID>
+      <pmb-type>https://www.geonames.org/ontology#T.PK</pmb-type>
+      <label-type>Berggipfel</label-type>
+   </item>
+   <item>
+      <ID>1623</ID>
+      <pmb-type>https://www.geonames.org/ontology#T.MT</pmb-type>
+      <label-type>Berg</label-type>
+   </item>
+   <item>
+      <ID>1626</ID>
+      <pmb-type>https://www.geonames.org/ontology#H.OCN</pmb-type>
+      <label-type>Ozean</label-type>
+   </item>
+   <item>
+      <ID>1636</ID>
+      <pmb-type>Erhebung</pmb-type>
+      <label-type>Erhebung</label-type>
+   </item>
+   <item>
+      <ID>1644</ID>
+      <pmb-type>https://www.geonames.org/ontology#A.TERR</pmb-type>
+      <label-type>Territorium</label-type>
+   </item>
+   <item>
+      <ID>1645</ID>
+      <pmb-type>https://www.geonames.org/ontology#L.RGNH</pmb-type>
+      <label-type>Ehemalige Region</label-type>
+   </item>
+   <item>
+      <ID>1646</ID>
+      <pmb-type>https://www.geonames.org/ontology#S.RUIN</pmb-type>
+      <label-type>Ruine</label-type>
+   </item>
+   <item>
+      <ID>1648</ID>
+      <pmb-type>Filmstudio</pmb-type>
+      <label-type>Filmstudio</label-type>
+   </item>
+   <item>
+      <ID>1728</ID>
+      <pmb-type>Park</pmb-type>
+      <label-type>Park</label-type>
+   </item>
+</Items>
