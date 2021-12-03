@@ -147,7 +147,7 @@
                     </xsl:element>
                 </xsl:element>
             </xsl:for-each>
-            <xsl:for-each select="item[starts-with(URL/.,'https://schnitzler-tagebuch.acdh.oeaw.ac.at/')]">
+            <xsl:for-each select="item[contains(URL/.,'schnitzler-tagebuch.acdh')]">
                 <xsl:element name="item">
                     <xsl:element name="URL">
                         <xsl:attribute name="type">

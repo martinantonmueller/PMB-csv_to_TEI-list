@@ -13082,6 +13082,7 @@
    </entity>
    <entity id="2702">
       <idno type="gnd">https://d-nb.info/gnd/118570080/</idno>
+      <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17356</idno>
       <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2702</idno>
       <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2702</idno>
    </entity>
@@ -26535,6 +26536,7 @@
    </entity>
    <entity id="35034">
       <idno type="gnd">https://d-nb.info/gnd/104320516/</idno>
+      <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13662</idno>
    </entity>
    <entity id="35523">
       <idno type="gnd">https://d-nb.info/gnd/116210877/</idno>
@@ -46407,6 +46409,11 @@
       <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb27859</idno>
       <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27859</idno>
    </entity>
+   <entity id="28356">
+      <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15026</idno>
+      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb28356</idno>
+      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28356</idno>
+   </entity>
    <entity id="5696">
       <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb5696</idno>
    </entity>
@@ -46560,10 +46567,6 @@
    <entity id="28344">
       <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb28344</idno>
       <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28344</idno>
-   </entity>
-   <entity id="28356">
-      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb28356</idno>
-      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28356</idno>
    </entity>
    <entity id="28501">
       <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb28501</idno>

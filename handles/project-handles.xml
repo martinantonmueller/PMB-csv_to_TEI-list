@@ -10,4 +10,20 @@ damit die eingetragen werden können-->
             <item type="listwork">https://hdl.handle.net/21.11115/0000-000E-7542-4</item>
         </list>
     </project>
+    <project ana="hbas">
+        <list>
+            <item type="listperson">https://hdl.handle.net/21.11115/0000-000E-856B-4</item>
+            <item type="listorg">https://hdl.handle.net/21.11115/0000-000E-856C-3</item>
+            <item type="listplace">https://hdl.handle.net/21.11115/0000-000E-856A-5</item>
+            <item type="listwork">https://hdl.handle.net/21.11115/0000-000E-8569-6</item>
+        </list>
+    </project>
+    <project ana="astb">
+        <list>
+            <item type="listperson">https://hdl.handle.net/</item>
+            <item type="listorg">https://hdl.handle.net/</item>
+            <item type="listplace">https://hdl.handle.net/</item>
+            <item type="listwork">https://hdl.handle.net/</item>
+        </list>
+    </project>
 </root>
