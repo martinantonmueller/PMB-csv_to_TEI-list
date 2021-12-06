@@ -11,7 +11,7 @@
     
     <!-- Dieses XSLT trägt die Werktypen in die Werkliste ein -->
     
-    <xsl:param name="ptype-refs" select="document('/ortslabels/ortslabels.xml')"/>
+    <xsl:param name="ptype-refs" select="document('ortslabels/ortslabels.xml')"/>
     <xsl:key name="ref-lookup" match="item" use="ID"/>  
     
     

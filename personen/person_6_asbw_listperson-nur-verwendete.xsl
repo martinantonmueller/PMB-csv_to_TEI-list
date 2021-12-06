@@ -12,8 +12,13 @@
   <!-- Dieses XSLT nimmt die komplette listperson mit allen Personen in PMB und schaut nach, ob 
   eine Person in der Liste der verwendeten @refs vorkommt -->
     
+    <!--   <xsl:param name="projektkuerzel" as="xs:string" select="'asbw'"/>
+    <xsl:param name="verwendete-refs" select="document('../projekte-refs/schnitzler-briefe-refs.xml')"/>-->
+    
+    <xsl:param name="projektkuerzel" as="xs:string" select="'hbas'"/>
+    <xsl:param name="verwendete-refs" select="document('../projekte-refs/bahr-schnitzler-refs.xml')"/>
+    
     <!-- HANDLE -->
-    <xsl:param name="projektkuerzel" as="xs:string" select="'asbw'"/>
     <xsl:param name="handle-refs" select="document('../handles/project-handles.xml')"/>
     <xsl:key name="handle-lookup" match="project" use="@ana"/>
     <xsl:param name="handle" as="xs:string?"
@@ -34,7 +39,6 @@
     </xsl:template>
     
   <!-- PERSON -->
-    <xsl:param name="verwendete-refs" select="document('../projekte-refs/schnitzler-briefe-refs.xml')"/>
     <xsl:key name="ref-lookup" match="tei:person" use="@n"/>  
     
 <xsl:template match="tei:listPerson">

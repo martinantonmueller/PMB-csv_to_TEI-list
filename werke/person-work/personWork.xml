@@ -5782,7 +5782,7 @@
 <personID>2121</personID>
 <workID>31885</workID>
 <workName>Literarisch-kritische Rundschau. Der Friedensengel</workName>
-<relation_type>1051</relation_type>
+<relation_type>1587</relation_type>
 </item>
 <item>
 <personID>10815</personID>
@@ -5823,7 +5823,7 @@
 <item>
 <personID>4287</personID>
 <workID>31901</workID>
-<workName>Der Friedensengel</workName>
+<workName>Der Friedensengel. Schauspiel in einem Aufzuge</workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
@@ -9591,7 +9591,7 @@
 <item>
 <personID>22464</personID>
 <workID>33233</workID>
-<workName>Af Livets Komedie</workName>
+<workName>Af Livets Komedie. Udvalgte Noveller og Enaktere</workName>
 <relation_type>1052</relation_type>
 </item>
 <item>
@@ -11692,12 +11692,6 @@
 <personID>2570</personID>
 <workID>34984</workID>
 <workName>Cäsar Borgia’s Ende</workName>
-<relation_type>1049</relation_type>
-</item>
-<item>
-<personID>9386</personID>
-<workID>34994</workID>
-<workName></workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
@@ -15626,7 +15620,7 @@
 </item>
 <item>
 <personID>52422</personID>
-<workID>52424</workID>
+<workID>52423</workID>
 <workName>Das Österreichische Strafverfahren. Eine systematische Darstellung.</workName>
 <relation_type>1049</relation_type>
 </item>
@@ -16911,13 +16905,13 @@
 <item>
 <personID>2121</personID>
 <workID>57814</workID>
-<workName>Frau Beata i ei a syn</workName>
+<workName>Frau Beata i eja syn</workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
 <personID>26937</personID>
 <workID>57814</workID>
-<workName>Frau Beata i ei a syn</workName>
+<workName>Frau Beata i eja syn</workName>
 <relation_type>1052</relation_type>
 </item>
 <item>
@@ -18233,12 +18227,6 @@
 <workID>59868</workID>
 <workName>Собрание сочинений [Gesammelte Werke]</workName>
 <relation_type>1049</relation_type>
-</item>
-<item>
-<personID>57766</personID>
-<workID>30213</workID>
-<workName>Die Hirtenflöte. Novelle</workName>
-<relation_type>1052</relation_type>
 </item>
 <item>
 <personID>57766</personID>
@@ -19769,6 +19757,258 @@
 <workID>61658</workID>
 <workName>Arthur Schnitzler. Der Weg ins Freie. Roman</workName>
 <relation_type>1587</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>33233</workID>
+<workName>Af Livets Komedie. Udvalgte Noveller og Enaktere</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>61691</workID>
+<workName>Pastush'ya svirel'. Novella</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>26937</personID>
+<workID>61703</workID>
+<workName>Artur Šnicler</workName>
+<relation_type>1587</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>61703</workID>
+<workName>Artur Šnicler</workName>
+<relation_type>1048</relation_type>
+</item>
+<item>
+<personID>26937</personID>
+<workID>61707</workID>
+<workName>Artur Šnicler</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>61707</workID>
+<workName>Artur Šnicler</workName>
+<relation_type>1048</relation_type>
+</item>
+<item>
+<personID>61735</personID>
+<workID>61734</workID>
+<workName>L’Action française</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>61735</personID>
+<workID>61743</workID>
+<workName>Les Aimées de l’Ennemi</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>10815</personID>
+<workID>61748</workID>
+<workName>Wunschbüchlein zur Eröffnung des Komödienhauses, 19.9.1912</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>61752</workID>
+<workName>[Lieber Lothar]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>7253</personID>
+<workID>61767</workID>
+<workName>Hieroglyphen des Lebens. Novellen und Skizzen</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>61769</workID>
+<workName>Literarisch-kritische Rundschau. Hieroglyphen des Lebens</workName>
+<relation_type>1587</relation_type>
+</item>
+<item>
+<personID>18468</personID>
+<workID>61781</workID>
+<workName>Professor Sylvan’s junge Ehe und andere Novellen</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>18468</personID>
+<workID>61784</workID>
+<workName>Das Malchen</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2167</personID>
+<workID>61787</workID>
+<workName>»Professor Sylvan’s junge Ehe«</workName>
+<relation_type>1587</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>61791</workID>
+<workName>Professor Sylvan’s junge Ehe</workName>
+<relation_type>1587</relation_type>
+</item>
+<item>
+<personID>57766</personID>
+<workID>61691</workID>
+<workName>Pastush'ya svirel'. Novella</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>11518</personID>
+<workID>61797</workID>
+<workName>Das goldene Vlies</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>18053</personID>
+<workID>61800</workID>
+<workName>Das Medeabild. Drama in einem Aufzuge</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>61803</workID>
+<workName>Das Medeabild</workName>
+<relation_type>1587</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>61813</workID>
+<workName>The Lady with the Dagger</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>19236</personID>
+<workID>61813</workID>
+<workName>The Lady with the Dagger</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>11988</personID>
+<workID>61844</workID>
+<workName>Der Walzerkavalier</workName>
+<relation_type>1048</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61851</workID>
+<workName>Joffre an Kluck</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61856</workID>
+<workName>Greys Lied</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61861</workID>
+<workName>Rückzug</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61880</workID>
+<workName>Sechste Ode von d'Annunzio</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61885</workID>
+<workName>Rumänisch</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61891</workID>
+<workName>Krisen ringsum</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61896</workID>
+<workName>Die Sechste</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61901</workID>
+<workName>Chronik.</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61906</workID>
+<workName>Montenegro</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61913</workID>
+<workName>D'Annunzios vierte Ode</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61918</workID>
+<workName>Lloyd – George</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61932</workID>
+<workName>Salandra – Dämmerung</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61937</workID>
+<workName>Die Niederlage (D'Annunzios fünfte Ode)</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61942</workID>
+<workName>Portugal</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61961</workID>
+<workName>Rumänien</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61966</workID>
+<workName>Pariser Konferenz</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61976</workID>
+<workName>Bukarest</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>61979</workID>
+<workName>Briand</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>62147</workID>
+<workName>Erinnerung an Paris</workName>
+<relation_type>1049</relation_type>
 </item>
 <item>
 <personID></personID>

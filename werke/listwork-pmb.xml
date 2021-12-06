@@ -19,7 +19,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>ACDH-CH</publisher>
-            <date>28.11.2021</date>
+            <date>04.12.2021</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/arthur-schnitzler-briefe/v1/indices/listwork.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -31,21 +31,6 @@
       <body>
          <p>
             <listBibl xml:id="listwork">
-               <bibl xml:id="pmb34994">
-                  <author role="author">
-                     <persName>
-                        <surname>Prévost</surname>
-                        <forename>Marcel</forename>
-                     </persName>
-                     <idno type="pmb">pmb9386</idno>
-                     <idno type="gnd">https://d-nb.info/gnd/11864176X/</idno>
-                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18961</idno>
-                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb9386</idno>
-                  </author>
-                  <title/>
-                  <date when="1894-01-01" when-custom="1894">1894</date>
-                  <tei:gloss type="w1060">Roman</tei:gloss>
-               </bibl>
                <bibl xml:id="pmb53621">
                   <title>?</title>
                   <date when="1927-04-30" when-custom="1927-04-30">30. 4. 1927</date>
@@ -342,6 +327,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -359,6 +345,7 @@
                      </persName>
                      <idno type="pmb">pmb2207</idno>
                      <idno type="gnd">https://d-nb.info/gnd/116040718/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14365</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2207</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2207</idno>
                   </author>
@@ -388,6 +375,23 @@
                   <title>»Nem vagyok kíváncsi Budapestre« – írja Arthur Schnitzler</title>
                   <date from="1926-11-09" from-custom="1926-11-09">9. 11. 1926</date>
                   <tei:gloss type="w1386">Zeitungsbericht</tei:gloss>
+               </bibl>
+               <bibl xml:id="pmb61787">
+                  <author role="abbreviated-name">
+                     <persName>
+                        <surname>Salten</surname>
+                        <forename>Felix</forename>
+                     </persName>
+                     <idno type="pmb">pmb2167</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
+                  </author>
+                  <title>»Professor Sylvan’s junge Ehe«</title>
+                  <date when="1891-04-15" when-custom="1891-04-15">15. 4. 1891</date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+                  <note>13419</note>
                </bibl>
                <bibl xml:id="pmb53019">
                   <title>»Rasputin« auf der Piscator-Bühne. Wilhelm II. und Franz Josef I. treten in naturgetreuen Masken auf</title>
@@ -512,6 +516,7 @@
                      </persName>
                      <idno type="pmb">pmb2563</idno>
                      <idno type="gnd">https://d-nb.info/gnd/141477482/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16629</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2563</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2563</idno>
                   </author>
@@ -746,6 +751,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -1075,6 +1081,7 @@
                         <forename>Wolfgang</forename>
                      </persName>
                      <idno type="pmb">pmb38364</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16049</idno>
                   </author>
                   <author role="author">
                      <persName>
@@ -1270,6 +1277,21 @@
                   <tei:gloss type="w1154">Aufsatz</tei:gloss>
                   <note>5751</note>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41327</idno>
+               </bibl>
+               <bibl xml:id="pmb61752">
+                  <author role="author">
+                     <persName>
+                        <surname>Schnitzler</surname>
+                        <forename>Arthur</forename>
+                     </persName>
+                     <idno type="pmb">pmb2121</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+                  </author>
+                  <title>[Lieber Lothar]</title>
+                  <date from="1912-09-19" from-custom="1912-09-19">19. 9. 1912</date>
+                  <tei:gloss type="w1083">Umfrageteilnahme</tei:gloss>
                </bibl>
                <bibl xml:id="pmb33470">
                   <title>[Man schreibt uns aus Ischl]</title>
@@ -1738,6 +1760,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -1876,9 +1899,21 @@
                      <idno type="pmb">pmb22464</idno>
                      <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18729</idno>
                   </author>
-                  <title>Af Livets Komedie</title>
+                  <author role="author">
+                     <persName>
+                        <surname>Schnitzler</surname>
+                        <forename>Arthur</forename>
+                     </persName>
+                     <idno type="pmb">pmb2121</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+                  </author>
+                  <title>Af Livets Komedie. Udvalgte Noveller og Enaktere</title>
                   <date from="1902-01-01" from-custom="1902">1902</date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
+                  <tei:gloss type="w1208">Textsammlung</tei:gloss>
+                  <note>13399</note>
+                  <note>13400</note>
                </bibl>
                <bibl xml:id="pmb30947">
                   <author role="author">
@@ -1925,6 +1960,7 @@
                      </persName>
                      <idno type="pmb">pmb2404</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118547445/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16009</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2404</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2404</idno>
                   </author>
@@ -2662,6 +2698,7 @@
                      <term>[Illustrationen]</term>
                      <idno type="pmb">pmb28645</idno>
                      <idno type="gnd">https://d-nb.info/gnd/116685972/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14283</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb28645</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28645</idno>
                   </author>
@@ -3575,6 +3612,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -3797,6 +3835,7 @@
                      </persName>
                      <idno type="pmb">pmb5704</idno>
                      <idno type="gnd">https://d-nb.info/gnd/1044992336/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19753</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb5704</idno>
                   </author>
                   <title>Arthur Schnitzler: Anatol</title>
@@ -4272,6 +4311,7 @@
                      </persName>
                      <idno type="pmb">pmb5146</idno>
                      <idno type="gnd">https://d-nb.info/gnd/138973199/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14242</idno>
                   </author>
                   <title>Arthur Schnitzler und die »Ravag«</title>
                   <date from="1927-10-01" from-custom="01.10.1927">1. 10. 1927</date>
@@ -4286,6 +4326,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -4391,6 +4432,7 @@
                      </persName>
                      <idno type="pmb">pmb2771</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118535560/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15210</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2771</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2771</idno>
                   </author>
@@ -4623,6 +4665,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -4658,6 +4701,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -4739,6 +4783,38 @@
                   <tei:gloss type="w1131">Rezension</tei:gloss>
                   <note>13131</note>
                </bibl>
+               <bibl xml:id="pmb61703">
+                  <author role="abbreviated-name">
+                     <persName>
+                        <surname>Vengerowa</surname>
+                        <forename>Zinaida A.</forename>
+                     </persName>
+                     <idno type="pmb">pmb26937</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21232</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb26937</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb26937</idno>
+                  </author>
+                  <title>Artur Šnicler</title>
+                  <date when="1898-07-02" when-custom="1898">1898</date>
+                  <tei:gloss type="w1154">Aufsatz</tei:gloss>
+                  <note>13405</note>
+               </bibl>
+               <bibl xml:id="pmb61707">
+                  <author role="author">
+                     <persName>
+                        <surname>Vengerowa</surname>
+                        <forename>Zinaida A.</forename>
+                     </persName>
+                     <idno type="pmb">pmb26937</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21232</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb26937</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb26937</idno>
+                  </author>
+                  <title>Artur Šnicler</title>
+                  <date from="1910-01-01" from-custom="1910">1910</date>
+                  <tei:gloss type="w1154">Aufsatz</tei:gloss>
+                  <note>13406</note>
+               </bibl>
                <bibl xml:id="pmb33730">
                   <author role="author">
                      <persName>
@@ -4783,6 +4859,7 @@
                      </persName>
                      <idno type="pmb">pmb2601</idno>
                      <idno type="gnd">https://d-nb.info/gnd/116653981/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16517</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2601</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2601</idno>
                   </author>
@@ -4855,6 +4932,7 @@
                      </persName>
                      <idno type="pmb">pmb2450</idno>
                      <idno type="gnd">https://d-nb.info/gnd/127899537/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14942</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2450</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2450</idno>
                   </author>
@@ -5183,6 +5261,7 @@
                      </persName>
                      <idno type="pmb">pmb2577</idno>
                      <idno type="gnd">https://d-nb.info/gnd/1030216444/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_17274</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2577</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2577</idno>
                   </author>
@@ -5394,6 +5473,7 @@
                      </persName>
                      <idno type="pmb">pmb2404</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118547445/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16009</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2404</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2404</idno>
                   </author>
@@ -5511,6 +5591,7 @@
                      </persName>
                      <idno type="pmb">pmb2211</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118649663/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_13228</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2211</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2211</idno>
                   </author>
@@ -5744,6 +5825,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -5971,6 +6053,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -6082,6 +6165,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -6925,6 +7009,7 @@
                      </persName>
                      <idno type="pmb">pmb2702</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118570080/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17356</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2702</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2702</idno>
                   </author>
@@ -7009,6 +7094,22 @@
                         to-custom="1933">1820–1933</date>
                   <tei:gloss type="w1220">Tageszeitung</tei:gloss>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41517</idno>
+               </bibl>
+               <bibl xml:id="pmb61979">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Briand</title>
+                  <date when="1916-05-24" when-custom="1916-05-24">24. 5. 1916</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
                </bibl>
                <bibl xml:id="pmb30049">
                   <author role="author">
@@ -7175,6 +7276,7 @@
                      </persName>
                      <idno type="pmb">pmb2404</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118547445/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16009</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2404</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2404</idno>
                   </author>
@@ -7242,6 +7344,7 @@
                      </persName>
                      <idno type="pmb">pmb2702</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118570080/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17356</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2702</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2702</idno>
                   </author>
@@ -7533,6 +7636,22 @@
                   <note>3167</note>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32516</idno>
                </bibl>
+               <bibl xml:id="pmb61976">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Bukarest</title>
+                  <date when="1916-04-12" when-custom="1916-04-12">12. 4. 1916</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
+               </bibl>
                <bibl xml:id="pmb43130">
                   <author role="author">
                      <persName>
@@ -7541,6 +7660,7 @@
                      </persName>
                      <idno type="pmb">pmb2450</idno>
                      <idno type="gnd">https://d-nb.info/gnd/127899537/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14942</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2450</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2450</idno>
                   </author>
@@ -7665,6 +7785,7 @@
                      </persName>
                      <idno type="pmb">pmb2586</idno>
                      <idno type="gnd">https://d-nb.info/gnd/178627976/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15624</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2586</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2586</idno>
                   </author>
@@ -7737,6 +7858,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -7754,6 +7876,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -7988,6 +8111,7 @@
                      </persName>
                      <idno type="pmb">pmb3557</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118632302/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_21294</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3557</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3557</idno>
                   </author>
@@ -8056,6 +8180,7 @@
                      </persName>
                      <idno type="pmb">pmb3124</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118627813/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20987</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3124</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3124</idno>
                   </author>
@@ -8493,6 +8618,22 @@
                   <tei:gloss type="w1055">Text</tei:gloss>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31827</idno>
                </bibl>
+               <bibl xml:id="pmb61901">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Chronik.</title>
+                  <date when="1916-01-16" when-custom="1916-01-16">16. 1. 1916</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
+               </bibl>
                <bibl xml:id="pmb32678">
                   <author role="author">
                      <persName>
@@ -8791,6 +8932,22 @@
                   <date from="1897-01-01" from-custom="1897">1897</date>
                   <tei:gloss type="w1055">Text</tei:gloss>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31073</idno>
+               </bibl>
+               <bibl xml:id="pmb61913">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>D'Annunzios vierte Ode</title>
+                  <date when="1916-01-22" when-custom="1916-01-22">22. 1. 1916</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
                </bibl>
                <bibl xml:id="pmb58584">
                   <title>Dagens Nyheter</title>
@@ -9551,6 +9708,7 @@
                      </persName>
                      <idno type="pmb">pmb2702</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118570080/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17356</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2702</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2702</idno>
                   </author>
@@ -9651,6 +9809,7 @@
                      </persName>
                      <idno type="pmb">pmb3603</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118638289/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20823</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3603</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3603</idno>
                   </author>
@@ -10102,6 +10261,26 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30455</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30455</idno>
                </bibl>
+               <bibl xml:id="pmb61797">
+                  <author role="author">
+                     <persName>
+                        <surname>Grillparzer</surname>
+                        <forename>Franz</forename>
+                     </persName>
+                     <idno type="pmb">pmb11518</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118542192/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15661</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11518</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11518</idno>
+                  </author>
+                  <title>Das goldene Vlies</title>
+                  <date from="1818-09-29"
+                        from-custom="1818-09-29"
+                        to="1820-01-27"
+                        to-custom="1820-01-27">29. 9. 1818–27. 1. 1820</date>
+                  <tei:gloss type="w1790"/>
+                  <note>13421</note>
+               </bibl>
                <bibl xml:id="pmb30153">
                   <author role="author">
                      <persName>
@@ -10246,6 +10425,7 @@
                      </persName>
                      <idno type="pmb">pmb2771</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118535560/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15210</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2771</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2771</idno>
                   </author>
@@ -10583,6 +10763,19 @@
                   <tei:gloss type="w1067">Gedicht</tei:gloss>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51442</idno>
                </bibl>
+               <bibl xml:id="pmb61784">
+                  <author role="author">
+                     <persName>
+                        <surname>Holmblad</surname>
+                        <forename>Alexandrine von</forename>
+                     </persName>
+                     <idno type="pmb">pmb18468</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16320</idno>
+                  </author>
+                  <title>Das Malchen</title>
+                  <date from="1891-04-02" from-custom="1891-04-02">2. 4. 1891</date>
+                  <tei:gloss type="w1340">Novelle</tei:gloss>
+               </bibl>
                <bibl xml:id="pmb33540">
                   <title>Das Märchen</title>
                   <date from="1894-07-07" from-custom="07.07.1894">7. 7. 1894</date>
@@ -10654,6 +10847,34 @@
                   <date when="1912-01-01" when-custom="1912">1912</date>
                   <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb40211</idno>
+               </bibl>
+               <bibl xml:id="pmb61803">
+                  <author role="abbreviated-name">
+                     <persName>
+                        <surname>Schnitzler</surname>
+                        <forename>Arthur</forename>
+                     </persName>
+                     <idno type="pmb">pmb2121</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+                  </author>
+                  <title>Das Medeabild</title>
+                  <date from="1891-04-15" from-custom="1891-04-15">15. 4. 1891</date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+               </bibl>
+               <bibl xml:id="pmb61800">
+                  <author role="author">
+                     <persName>
+                        <surname>Heitmüller</surname>
+                        <forename>Franz Ferdinand</forename>
+                     </persName>
+                     <idno type="pmb">pmb18053</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16055</idno>
+                  </author>
+                  <title>Das Medeabild. Drama in einem Aufzuge</title>
+                  <date from="1891-01-01" from-custom="1891">1891</date>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
                </bibl>
                <bibl xml:id="pmb32953">
                   <author role="author">
@@ -10739,6 +10960,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -10773,10 +10995,6 @@
                         to-custom="1910">1891–1910</date>
                </bibl>
                <bibl xml:id="pmb52423">
-                  <title>Das Österreichische Strafverfahren. Eine systematische Darstellung.</title>
-                  <date from="1904-01-01" from-custom="1904">1904</date>
-               </bibl>
-               <bibl xml:id="pmb52424">
                   <author role="author">
                      <persName>
                         <surname>von Gleispach</surname>
@@ -10786,6 +11004,7 @@
                   </author>
                   <title>Das Österreichische Strafverfahren. Eine systematische Darstellung.</title>
                   <date from="1904-01-01" from-custom="1904">1904</date>
+                  <note>13418</note>
                </bibl>
                <bibl xml:id="pmb55112">
                   <author role="author">
@@ -11032,6 +11251,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -11361,6 +11581,7 @@
                      </persName>
                      <idno type="pmb">pmb2702</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118570080/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17356</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2702</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2702</idno>
                   </author>
@@ -11485,6 +11706,7 @@
                      </persName>
                      <idno type="pmb">pmb3155</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118582143/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18148</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3155</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3155</idno>
                   </author>
@@ -12019,6 +12241,7 @@
                      </persName>
                      <idno type="pmb">pmb4947</idno>
                      <idno type="gnd">https://d-nb.info/gnd/119208946/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18174</idno>
                   </author>
                   <author role="author">
                      <persName>
@@ -12155,6 +12378,7 @@
                      </persName>
                      <idno type="pmb">pmb3603</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118638289/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20823</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3603</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3603</idno>
                   </author>
@@ -12171,6 +12395,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -12247,6 +12472,7 @@
                      </persName>
                      <idno type="pmb">pmb4947</idno>
                      <idno type="gnd">https://d-nb.info/gnd/119208946/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18174</idno>
                   </author>
                   <title>Der Bettelstudent</title>
                   <date from="1882-01-01" from-custom="1882">1882</date>
@@ -12818,6 +13044,7 @@
                      </persName>
                      <idno type="pmb">pmb35034</idno>
                      <idno type="gnd">https://d-nb.info/gnd/104320516/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13662</idno>
                   </author>
                   <author role="translator">
                      <persName>
@@ -12855,6 +13082,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -13033,9 +13261,9 @@
                      <idno type="gnd">https://d-nb.info/gnd/117402516/</idno>
                      <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20137</idno>
                   </author>
-                  <title>Der Friedensengel</title>
+                  <title>Der Friedensengel. Schauspiel in einem Aufzuge</title>
                   <date from="1891-01-01" from-custom="1891">1891</date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31901</idno>
                </bibl>
                <bibl xml:id="pmb33750">
@@ -13328,6 +13556,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -13345,6 +13574,7 @@
                      </persName>
                      <idno type="pmb">pmb4865</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118670263/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14293</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb4865</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4865</idno>
                   </author>
@@ -13431,6 +13661,7 @@
                      </persName>
                      <idno type="pmb">pmb4057</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118702866/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15120</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4057</idno>
                   </author>
                   <title>Der Goldene</title>
@@ -13813,6 +14044,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -13830,6 +14062,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -14085,6 +14318,7 @@
                      </persName>
                      <term>[Herausgeber*in]</term>
                      <idno type="pmb">pmb38364</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16049</idno>
                   </author>
                   <title>Der Kampf um den Reigen</title>
                   <date from="1922-01-01" from-custom="1922">1922</date>
@@ -14155,6 +14389,7 @@
                      </persName>
                      <idno type="pmb">pmb3603</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118638289/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20823</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3603</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3603</idno>
                   </author>
@@ -14417,6 +14652,7 @@
                      </persName>
                      <idno type="pmb">pmb4326</idno>
                      <idno type="gnd">https://d-nb.info/gnd/126290911/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14652</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb4326</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4326</idno>
                   </author>
@@ -14742,6 +14978,7 @@
                      </persName>
                      <idno type="pmb">pmb2563</idno>
                      <idno type="gnd">https://d-nb.info/gnd/141477482/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16629</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2563</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2563</idno>
                   </author>
@@ -14935,6 +15172,7 @@
                      </persName>
                      <idno type="pmb">pmb2601</idno>
                      <idno type="gnd">https://d-nb.info/gnd/116653981/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16517</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2601</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2601</idno>
                   </author>
@@ -15326,7 +15564,7 @@
                   </author>
                   <title>Der Roman der XII</title>
                   <date from="1909-01-01" from-custom="1909">1909</date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
+                  <tei:gloss type="w1060">Roman</tei:gloss>
                   <note>2533</note>
                   <note>2534</note>
                   <note>2535</note>
@@ -16031,12 +16269,60 @@
                   <note>5796</note>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41560</idno>
                </bibl>
+               <bibl xml:id="pmb61894">
+                  <title>Der Tag, 07.03.1917</title>
+                  <date when="1917-03-07" when-custom="1917-03-07">7. 3. 1917</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13440</note>
+               </bibl>
+               <bibl xml:id="pmb61883">
+                  <title>Der Tag, 08.10.1916</title>
+                  <date when="1916-10-08" when-custom="1916-10-08">8. 10. 1916</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13434</note>
+               </bibl>
+               <bibl xml:id="pmb61930">
+                  <title>Der Tag, 09.02.1916</title>
+                  <date when="1916-02-09" when-custom="1916-02-09">9. 2. 1916</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13446</note>
+               </bibl>
+               <bibl xml:id="pmb61940">
+                  <title>Der Tag, 11.03.1916</title>
+                  <date when="1916-03-11" when-custom="1916-03-11">11. 3. 1916</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13448</note>
+               </bibl>
+               <bibl xml:id="pmb61972">
+                  <title>Der Tag, 12.04.1916</title>
+                  <date when="1916-04-12" when-custom="1916-04-12">12. 4. 1916</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13464</note>
+               </bibl>
+               <bibl xml:id="pmb61889">
+                  <title>Der Tag, 13.12.1916</title>
+                  <date when="1916-12-13" when-custom="1916-12-13">13. 12. 1916</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13435</note>
+               </bibl>
+               <bibl xml:id="pmb61849">
+                  <title>Der Tag, 15.10.1914</title>
+                  <date when="1914-10-15" when-custom="1914-10-15">15. 10. 1914</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13436</note>
+               </bibl>
                <bibl xml:id="pmb55199">
                   <title>Der Tag, 15.3.1928</title>
                   <date when="1928-03-15" when-custom="1928-03-15">15. 3. 1928</date>
                   <tei:gloss type="w1220">Tageszeitung</tei:gloss>
                   <note>11315</note>
                   <note>11316</note>
+               </bibl>
+               <bibl xml:id="pmb61899">
+                  <title>Der Tag, 16.01.1916</title>
+                  <date when="1916-01-16" when-custom="1916-01-16">16. 1. 1916</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13441</note>
                </bibl>
                <bibl xml:id="pmb50647">
                   <author role="editor">
@@ -16056,11 +16342,77 @@
                   <note>10002</note>
                   <note>10004</note>
                </bibl>
+               <bibl xml:id="pmb61904">
+                  <title>Der Tag, 19.01.1916</title>
+                  <date when="1916-01-19" when-custom="1916-01-19">19. 1. 1916</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13442</note>
+               </bibl>
+               <bibl xml:id="pmb61859">
+                  <title>Der Tag, 19.12.1914</title>
+                  <date when="1914-12-19" when-custom="1914-12-19">19. 12. 1914</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13438</note>
+               </bibl>
+               <bibl xml:id="pmb61878">
+                  <title>Der Tag, 21.05.1916</title>
+                  <date when="1916-05-21" when-custom="1916-05-21">21. 5. 1916</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13433</note>
+               </bibl>
+               <bibl xml:id="pmb61910">
+                  <title>Der Tag, 22.01.1916</title>
+                  <date when="1916-01-22" when-custom="1916-01-22">22. 1. 1916</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13443</note>
+               </bibl>
+               <bibl xml:id="pmb61959">
+                  <title>Der Tag, 24.03.1916</title>
+                  <date when="1916-03-24" when-custom="1916-03-24">24. 3. 1916</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13460</note>
+               </bibl>
+               <bibl xml:id="pmb61974">
+                  <title>Der Tag, 24.05.1916</title>
+                  <date when="1916-05-24" when-custom="1916-05-24">24. 5. 1916</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13465</note>
+               </bibl>
+               <bibl xml:id="pmb61935">
+                  <title>Der Tag, 26.02.1916</title>
+                  <date when="1916-02-26" when-custom="1916-02-26">26. 2. 1916</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13447</note>
+               </bibl>
                <bibl xml:id="pmb52811">
                   <title>Der Tag, 26.11.1926</title>
                   <tei:gloss type="w1220">Tageszeitung</tei:gloss>
                   <note>10672</note>
                   <note>10673</note>
+               </bibl>
+               <bibl xml:id="pmb61864">
+                  <title>Der Tag, 27.01.1915</title>
+                  <date when="1915-01-27" when-custom="1915-01-27">27. 1. 1915</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13439</note>
+               </bibl>
+               <bibl xml:id="pmb61916">
+                  <title>Der Tag, 28.01.1916</title>
+                  <date when="1916-01-28" when-custom="1916-01-28">28. 1. 1916</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13444</note>
+               </bibl>
+               <bibl xml:id="pmb61964">
+                  <title>Der Tag, 30.03.1916</title>
+                  <date when="1916-03-30" when-custom="1916-03-30">30. 3. 1916</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13461</note>
+               </bibl>
+               <bibl xml:id="pmb61854">
+                  <title>Der Tag, 30.12.1914</title>
+                  <date when="1914-12-30" when-custom="1914-12-30">30. 12. 1914</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13437</note>
                </bibl>
                <bibl xml:id="pmb57288">
                   <title>Der Tag, 7.5.1929</title>
@@ -16573,6 +16925,11 @@
                   <tei:gloss type="w1075">Gattungsunspezifisch</tei:gloss>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30781</idno>
                </bibl>
+               <bibl xml:id="pmb61844">
+                  <title>Der Walzerkavalier</title>
+                  <date from="1935-01-01" from-custom="1935">1935</date>
+                  <tei:gloss type="w1070">Operette</tei:gloss>
+               </bibl>
                <bibl xml:id="pmb43849">
                   <author role="editor">
                      <persName>
@@ -16756,6 +17113,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -17161,6 +17519,7 @@
                      </persName>
                      <idno type="pmb">pmb2586</idno>
                      <idno type="gnd">https://d-nb.info/gnd/178627976/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15624</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2586</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2586</idno>
                   </author>
@@ -17210,6 +17569,7 @@
                      </persName>
                      <idno type="pmb">pmb2586</idno>
                      <idno type="gnd">https://d-nb.info/gnd/178627976/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15624</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2586</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2586</idno>
                   </author>
@@ -17487,6 +17847,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -17844,6 +18205,7 @@
                      </persName>
                      <idno type="pmb">pmb4107</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118531395/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14824</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb4107</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4107</idno>
                   </author>
@@ -18159,6 +18521,7 @@
                      </persName>
                      <idno type="pmb">pmb4006</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118527053/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14500</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb4006</idno>
                   </author>
                   <title>Die Brüder Karamasow</title>
@@ -19958,14 +20321,6 @@
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                   </author>
-                  <author role="translator">
-                     <persName>
-                        <surname>L’wowsky</surname>
-                        <forename>Zinovij Davydovich</forename>
-                     </persName>
-                     <term>[Übersetzung]</term>
-                     <idno type="pmb">pmb57766</idno>
-                  </author>
                   <title>Die Hirtenflöte. Novelle</title>
                   <date from="1911-09-01" from-custom="September 1911">September 1911</date>
                   <tei:gloss type="w1340">Novelle</tei:gloss>
@@ -20459,6 +20814,7 @@
                      </persName>
                      <idno type="pmb">pmb4326</idno>
                      <idno type="gnd">https://d-nb.info/gnd/126290911/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14652</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb4326</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4326</idno>
                   </author>
@@ -20474,6 +20830,7 @@
                         <forename>Jacob Julius</forename>
                      </persName>
                      <idno type="pmb">pmb28356</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15026</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb28356</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28356</idno>
                   </author>
@@ -20626,6 +20983,7 @@
                      </persName>
                      <idno type="pmb">pmb2771</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118535560/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15210</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2771</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2771</idno>
                   </author>
@@ -21033,6 +21391,7 @@
                      <term>[Herausgeber*in]</term>
                      <idno type="pmb">pmb2563</idno>
                      <idno type="gnd">https://d-nb.info/gnd/141477482/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16629</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2563</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2563</idno>
                   </author>
@@ -21314,6 +21673,7 @@
                      </persName>
                      <idno type="pmb">pmb2404</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118547445/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16009</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2404</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2404</idno>
                   </author>
@@ -21321,6 +21681,22 @@
                   <date from="1861-01-01" from-custom="1861">1861</date>
                   <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb34235</idno>
+               </bibl>
+               <bibl xml:id="pmb61937">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Die Niederlage (D'Annunzios fünfte Ode)</title>
+                  <date when="1916-02-26" when-custom="1916-02-26">26. 2. 1916</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
                </bibl>
                <bibl xml:id="pmb32454">
                   <author role="author">
@@ -21844,6 +22220,7 @@
                      </persName>
                      <idno type="pmb">pmb4006</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118527053/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14500</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb4006</idno>
                   </author>
                   <title>Die Sanfte</title>
@@ -22170,6 +22547,22 @@
                   <date from="1894-01-01" from-custom="1894">1894</date>
                   <tei:gloss type="w1086">Ausstellung</tei:gloss>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32490</idno>
+               </bibl>
+               <bibl xml:id="pmb61896">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Die Sechste</title>
+                  <date when="1917-03-07" when-custom="1917-03-07">7. 3. 1917</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
                </bibl>
                <bibl xml:id="pmb32590">
                   <author role="author">
@@ -22900,6 +23293,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -23231,6 +23625,7 @@
                      </persName>
                      <idno type="pmb">pmb2450</idno>
                      <idno type="gnd">https://d-nb.info/gnd/127899537/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14942</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2450</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2450</idno>
                   </author>
@@ -23592,6 +23987,7 @@
                      </persName>
                      <idno type="pmb">pmb3152</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118744798/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19223</idno>
                   </author>
                   <title>Die wunderliche Geschichte des Kapellmeister Kreisler</title>
                   <date from="1922-01-01" from-custom="1922">1922</date>
@@ -24016,6 +24412,7 @@
                      </persName>
                      <idno type="pmb">pmb3603</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118638289/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20823</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3603</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3603</idno>
                   </author>
@@ -24677,6 +25074,7 @@
                      </persName>
                      <idno type="pmb">pmb3603</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118638289/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20823</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3603</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3603</idno>
                   </author>
@@ -25103,6 +25501,7 @@
                      <term>[Übersetzung]</term>
                      <idno type="pmb">pmb2702</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118570080/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17356</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2702</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2702</idno>
                   </author>
@@ -25924,6 +26323,7 @@
                      <term>[mutmaßlich]</term>
                      <idno type="pmb">pmb4336</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118594893/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18829</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb4336</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4336</idno>
                   </author>
@@ -26033,6 +26433,21 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29945</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29945</idno>
                </bibl>
+               <bibl xml:id="pmb62147">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Erinnerung an Paris</title>
+                  <tei:gloss type="w1386">Zeitungsbericht</tei:gloss>
+               </bibl>
                <bibl xml:id="pmb33816">
                   <author role="author">
                      <persName>
@@ -26113,6 +26528,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -27257,6 +27673,7 @@
                      </persName>
                      <idno type="pmb">pmb2142</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118503243/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_13222</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2142</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2142</idno>
                   </author>
@@ -27449,7 +27866,7 @@
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb26937</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb26937</idno>
                   </author>
-                  <title>Frau Beata i ei a syn</title>
+                  <title>Frau Beata i eja syn</title>
                   <date from="1913-01-01" from-custom="1913">1913</date>
                   <tei:gloss type="w1340">Novelle</tei:gloss>
                   <note>13392</note>
@@ -27838,6 +28255,7 @@
                      </persName>
                      <idno type="pmb">pmb2450</idno>
                      <idno type="gnd">https://d-nb.info/gnd/127899537/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14942</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2450</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2450</idno>
                   </author>
@@ -28354,6 +28772,7 @@
                      </persName>
                      <idno type="pmb">pmb2404</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118547445/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16009</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2404</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2404</idno>
                   </author>
@@ -28606,6 +29025,7 @@
                      </persName>
                      <idno type="pmb">pmb2404</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118547445/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16009</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2404</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2404</idno>
                   </author>
@@ -28966,6 +29386,7 @@
                      </persName>
                      <idno type="pmb">pmb4057</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118702866/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15120</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4057</idno>
                   </author>
                   <title>Gesichter</title>
@@ -29030,6 +29451,7 @@
                      </persName>
                      <idno type="pmb">pmb2135</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118595822/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18916</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2135</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2135</idno>
                   </author>
@@ -29169,6 +29591,7 @@
                      </persName>
                      <idno type="pmb">pmb2142</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118503243/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_13222</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2142</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2142</idno>
                   </author>
@@ -29674,6 +30097,22 @@
                   <title>Grenzen der Kritik</title>
                   <tei:gloss type="w1211">Unveröffentlichtes Werk</tei:gloss>
                </bibl>
+               <bibl xml:id="pmb61856">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Greys Lied</title>
+                  <date when="1914-12-30" when-custom="1914-12-30">30. 12. 1914</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
+               </bibl>
                <bibl xml:id="pmb31691">
                   <author role="author">
                      <persName>
@@ -30063,6 +30502,7 @@
                      </persName>
                      <idno type="pmb">pmb2349</idno>
                      <idno type="gnd">https://d-nb.info/gnd/116932449/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15766</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2349</idno>
                   </author>
                   <author role="contributor">
@@ -30262,6 +30702,7 @@
                      </persName>
                      <idno type="pmb">pmb2404</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118547445/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16009</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2404</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2404</idno>
                   </author>
@@ -30909,6 +31350,7 @@
                      </persName>
                      <idno type="pmb">pmb4107</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118531395/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14824</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb4107</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4107</idno>
                   </author>
@@ -30979,6 +31421,7 @@
                      </persName>
                      <idno type="pmb">pmb2780</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118577719/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_17873</idno>
                   </author>
                   <title>Heptameron</title>
                   <date from="1558-01-01" from-custom="1558">1558</date>
@@ -31055,6 +31498,7 @@
                      </persName>
                      <idno type="pmb">pmb2229</idno>
                      <idno type="gnd">https://d-nb.info/gnd/116445599/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15898</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2229</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2229</idno>
                   </author>
@@ -31171,6 +31615,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -31367,6 +31812,20 @@
                   <note>3134</note>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb32344</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32344</idno>
+               </bibl>
+               <bibl xml:id="pmb61767">
+                  <author role="author">
+                     <persName>
+                        <surname>Friedmann</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb7253</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/116802014/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15227</idno>
+                  </author>
+                  <title>Hieroglyphen des Lebens. Novellen und Skizzen</title>
+                  <date from="1891-01-01" from-custom="1891">1891</date>
+                  <tei:gloss type="w1208">Textsammlung</tei:gloss>
                </bibl>
                <bibl xml:id="pmb31619">
                   <author role="author">
@@ -32292,6 +32751,7 @@
                      </persName>
                      <idno type="pmb">pmb2207</idno>
                      <idno type="gnd">https://d-nb.info/gnd/116040718/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14365</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2207</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2207</idno>
                   </author>
@@ -32509,6 +32969,22 @@
                   </author>
                   <title>Jesus</title>
                   <tei:gloss type="w1211">Unveröffentlichtes Werk</tei:gloss>
+               </bibl>
+               <bibl xml:id="pmb61851">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Joffre an Kluck</title>
+                  <date when="1914-10-15" when-custom="1914-10-15">15. 10. 1914</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
                </bibl>
                <bibl xml:id="pmb32296">
                   <author role="author">
@@ -33487,6 +33963,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -33807,6 +34284,7 @@
                      </persName>
                      <idno type="pmb">pmb4279</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118692445/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15108</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb4279</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4279</idno>
                   </author>
@@ -34202,6 +34680,7 @@
                      </persName>
                      <idno type="pmb">pmb2135</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118595822/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_18916</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2135</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2135</idno>
                   </author>
@@ -34307,6 +34786,22 @@
                   </author>
                   <title>Kriminalfilm</title>
                   <tei:gloss type="w1100">Filmskript</tei:gloss>
+               </bibl>
+               <bibl xml:id="pmb61891">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Krisen ringsum</title>
+                  <date when="1916-12-13" when-custom="1916-12-13">13. 12. 1916</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
                </bibl>
                <bibl xml:id="pmb30149">
                   <author role="author">
@@ -34527,6 +35022,7 @@
                      </persName>
                      <idno type="pmb">pmb3557</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118632302/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_21294</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3557</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3557</idno>
                   </author>
@@ -34545,6 +35041,7 @@
                      <term>[mutmaßlich]</term>
                      <idno type="pmb">pmb3557</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118632302/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_21294</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3557</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3557</idno>
                   </author>
@@ -34794,6 +35291,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -35535,6 +36033,21 @@
                   <note>3022</note>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31373</idno>
                </bibl>
+               <bibl xml:id="pmb61743">
+                  <author role="author">
+                     <persName>
+                        <surname>Pujo</surname>
+                        <forename>Maurice</forename>
+                     </persName>
+                     <idno type="pmb">pmb61735</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/119380994/</idno>
+                  </author>
+                  <title>Les Aimées de l’Ennemi</title>
+                  <date from="1919-02-22" from-custom="1919-02-22">22. 2. 1919</date>
+                  <tei:gloss type="w1386">Zeitungsbericht</tei:gloss>
+                  <note>13411</note>
+                  <note>13413</note>
+               </bibl>
                <bibl xml:id="pmb30263">
                   <author role="author">
                      <persName>
@@ -35619,6 +36132,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -35952,6 +36466,7 @@
                         <forename>Jacob Julius</forename>
                      </persName>
                      <idno type="pmb">pmb28356</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15026</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb28356</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28356</idno>
                   </author>
@@ -36097,6 +36612,7 @@
                      <term>[Illustrationen]</term>
                      <idno type="pmb">pmb28645</idno>
                      <idno type="gnd">https://d-nb.info/gnd/116685972/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14283</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb28645</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28645</idno>
                   </author>
@@ -36228,7 +36744,7 @@
                   <tei:gloss type="w1220">Tageszeitung</tei:gloss>
                </bibl>
                <bibl xml:id="pmb31885">
-                  <author role="author">
+                  <author role="abbreviated-name">
                      <persName>
                         <surname>Schnitzler</surname>
                         <forename>Arthur</forename>
@@ -36240,9 +36756,24 @@
                   </author>
                   <title>Literarisch-kritische Rundschau. Der Friedensengel</title>
                   <date from="1891-06-15" from-custom="15.06.1891">15. 6. 1891</date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
                   <note>3087</note>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31885</idno>
+               </bibl>
+               <bibl xml:id="pmb61769">
+                  <author role="abbreviated-name">
+                     <persName>
+                        <surname>Schnitzler</surname>
+                        <forename>Arthur</forename>
+                     </persName>
+                     <idno type="pmb">pmb2121</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+                  </author>
+                  <title>Literarisch-kritische Rundschau. Hieroglyphen des Lebens</title>
+                  <date when="1891-06-15" when-custom="1891-06-15">15. 6. 1891</date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
                </bibl>
                <bibl xml:id="pmb29869">
                   <author role="author">
@@ -36351,6 +36882,22 @@
                   <title>Little Novels</title>
                   <date from="1929-01-01" from-custom="1929">1929</date>
                   <tei:gloss type="w1098">Novellensammlung</tei:gloss>
+               </bibl>
+               <bibl xml:id="pmb61918">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Lloyd – George</title>
+                  <date when="1916-01-28" when-custom="1916-01-28">28. 1. 1916</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
                </bibl>
                <bibl xml:id="pmb30823">
                   <author role="author">
@@ -36572,6 +37119,7 @@
                      </persName>
                      <idno type="pmb">pmb2142</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118503243/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_13222</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2142</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2142</idno>
                   </author>
@@ -36624,6 +37172,7 @@
                      </persName>
                      <idno type="pmb">pmb3557</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118632302/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_21294</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3557</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3557</idno>
                   </author>
@@ -36648,6 +37197,25 @@
                   <date from="1897-01-01" from-custom="1897">1897</date>
                   <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb33484</idno>
+               </bibl>
+               <bibl xml:id="pmb61734">
+                  <author role="editor">
+                     <persName>
+                        <surname>Pujo</surname>
+                        <forename>Maurice</forename>
+                     </persName>
+                     <term>[Herausgeber*in]</term>
+                     <idno type="pmb">pmb61735</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/119380994/</idno>
+                  </author>
+                  <title>L’Action française</title>
+                  <date from="1908-03-21"
+                        from-custom="1908-03-21"
+                        to="1944-01-01"
+                        to-custom="1944">21. 3. 1908–1944</date>
+                  <tei:gloss type="w1220">Tageszeitung</tei:gloss>
+                  <note>13410</note>
+                  <note>13412</note>
                </bibl>
                <bibl xml:id="pmb31331">
                   <author role="author">
@@ -37046,20 +37614,6 @@
                   <tei:gloss type="w1055">Text</tei:gloss>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb33520</idno>
                </bibl>
-               <bibl xml:id="pmb31697">
-                  <author role="author">
-                     <persName>
-                        <surname>Prévost</surname>
-                        <forename>Antoine-François</forename>
-                     </persName>
-                     <idno type="pmb">pmb4112</idno>
-                     <idno type="gnd">https://d-nb.info/gnd/118596462/</idno>
-                  </author>
-                  <title>Manon Lescaut</title>
-                  <date from="1731-01-01" from-custom="1731">1731</date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31697</idno>
-               </bibl>
                <bibl xml:id="pmb30845">
                   <author role="author">
                      <persName>
@@ -37075,6 +37629,21 @@
                   <date from="1893-01-01" from-custom="1893">1893</date>
                   <tei:gloss type="w1059">Oper</tei:gloss>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30845</idno>
+               </bibl>
+               <bibl xml:id="pmb31697">
+                  <author role="author">
+                     <persName>
+                        <surname>Prévost</surname>
+                        <forename>Antoine-François</forename>
+                     </persName>
+                     <idno type="pmb">pmb4112</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118596462/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18962</idno>
+                  </author>
+                  <title>Manon Lescaut</title>
+                  <date from="1731-01-01" from-custom="1731">1731</date>
+                  <tei:gloss type="w1060">Roman</tei:gloss>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31697</idno>
                </bibl>
                <bibl xml:id="pmb40006">
                   <title>Man schreibt uns aus Gmunden</title>
@@ -37176,6 +37745,7 @@
                      </persName>
                      <idno type="pmb">pmb2404</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118547445/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16009</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2404</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2404</idno>
                   </author>
@@ -37596,6 +38166,7 @@
                      </persName>
                      <idno type="pmb">pmb3557</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118632302/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_21294</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3557</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3557</idno>
                   </author>
@@ -37721,7 +38292,7 @@
                   </author>
                   <title>Medea</title>
                   <date from="1821-01-01" from-custom="1821">1821</date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
+                  <tei:gloss type="w1056">Mehraktiges Drama</tei:gloss>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31225</idno>
                </bibl>
                <bibl xml:id="pmb31553">
@@ -37763,6 +38334,7 @@
                      </persName>
                      <idno type="pmb">pmb2211</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118649663/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_13228</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2211</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2211</idno>
                   </author>
@@ -37884,6 +38456,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -38353,6 +38926,7 @@
                      <term>[Herausgeber*in]</term>
                      <idno type="pmb">pmb2563</idno>
                      <idno type="gnd">https://d-nb.info/gnd/141477482/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16629</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2563</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2563</idno>
                   </author>
@@ -38504,6 +39078,7 @@
                      <term>[Herausgeber*in]</term>
                      <idno type="pmb">pmb2563</idno>
                      <idno type="gnd">https://d-nb.info/gnd/141477482/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16629</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2563</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2563</idno>
                   </author>
@@ -38560,6 +39135,22 @@
                <bibl xml:id="pmb59353">
                   <title>Montags-Revue aus Böhmen</title>
                   <tei:gloss type="w1221">Wochenschrift</tei:gloss>
+               </bibl>
+               <bibl xml:id="pmb61906">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Montenegro</title>
+                  <date when="1916-01-19" when-custom="1916-01-19">19. 1. 1916</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
                </bibl>
                <bibl xml:id="pmb30023">
                   <author role="author">
@@ -38801,7 +39392,7 @@
                   </author>
                   <title>Mozarteum. [Collegium musicum]</title>
                   <date from="1919-09-20" from-custom="20.09.1919">20. 9. 1919</date>
-                  <tei:gloss type="w1055">Text</tei:gloss>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
                   <note>3243</note>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32856</idno>
                </bibl>
@@ -38988,7 +39579,6 @@
                   <author role="author">
                      <persName>
                         <surname>Eckhart von Hochheim</surname>
-                        <forename>Meister Eckhart</forename>
                      </persName>
                      <idno type="pmb">pmb27845</idno>
                   </author>
@@ -39867,6 +40457,7 @@
                      </persName>
                      <idno type="pmb">pmb2488</idno>
                      <idno type="gnd">https://d-nb.info/gnd/126703019/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_17367</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2488</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2488</idno>
                   </author>
@@ -40309,6 +40900,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -40414,6 +41006,7 @@
                      </persName>
                      <idno type="pmb">pmb3603</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118638289/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20823</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3603</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3603</idno>
                   </author>
@@ -41035,6 +41628,7 @@
                      </persName>
                      <idno type="pmb">pmb3124</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118627813/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20987</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3124</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3124</idno>
                   </author>
@@ -41114,6 +41708,22 @@
                   <date when="1993-01-01" when-custom="1993">1993</date>
                   <tei:gloss type="w1212">Unveröffentlichtes dramatisches Werk</tei:gloss>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb40611</idno>
+               </bibl>
+               <bibl xml:id="pmb61966">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Pariser Konferenz</title>
+                  <date when="1916-03-30" when-custom="1916-03-30">30. 3. 1916</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
                </bibl>
                <bibl xml:id="pmb32434">
                   <author role="author">
@@ -41249,6 +41859,36 @@
                   <title>Partie in Seis am Schlern</title>
                   <tei:gloss type="w1613"/>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51884</idno>
+               </bibl>
+               <bibl xml:id="pmb61691">
+                  <author role="author">
+                     <persName>
+                        <surname>Schnitzler</surname>
+                        <forename>Arthur</forename>
+                     </persName>
+                     <idno type="pmb">pmb2121</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+                  </author>
+                  <author role="translator">
+                     <persName>
+                        <surname>L’vovskij</surname>
+                        <forename>Zinovij Davydovich</forename>
+                     </persName>
+                     <term>[Übersetzung]</term>
+                     <idno type="pmb">pmb57766</idno>
+                  </author>
+                  <title>Pastush'ya svirel'. Novella</title>
+                  <date from="1911-10-17"
+                        from-custom="1911-10-17"
+                        to="1911-11-21"
+                        to-custom="1911-11-21">17. 10. 1911–21. 11. 1911</date>
+                  <tei:gloss type="w1340">Novelle</tei:gloss>
+                  <note>13403</note>
+                  <note>13420</note>
+                  <note>13422</note>
+                  <note>13423</note>
                </bibl>
                <bibl xml:id="pmb39796">
                   <author role="author">
@@ -41551,6 +42191,7 @@
                      </persName>
                      <idno type="pmb">pmb3124</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118627813/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_20987</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3124</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3124</idno>
                   </author>
@@ -41756,6 +42397,22 @@
                   <tei:gloss type="w1055">Text</tei:gloss>
                   <note>3011</note>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31291</idno>
+               </bibl>
+               <bibl xml:id="pmb61942">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Portugal</title>
+                  <date when="1916-03-11" when-custom="1916-03-11">11. 3. 1916</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
                </bibl>
                <bibl xml:id="pmb33864">
                   <author role="author">
@@ -42165,6 +42822,34 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30203</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30203</idno>
                </bibl>
+               <bibl xml:id="pmb61791">
+                  <author role="abbreviated-name">
+                     <persName>
+                        <surname>Schnitzler</surname>
+                        <forename>Arthur</forename>
+                     </persName>
+                     <idno type="pmb">pmb2121</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+                  </author>
+                  <title>Professor Sylvan’s junge Ehe</title>
+                  <date from="1891-04-15" from-custom="1891-04-15">15. 4. 1891</date>
+                  <tei:gloss type="w1131">Rezension</tei:gloss>
+               </bibl>
+               <bibl xml:id="pmb61781">
+                  <author role="author">
+                     <persName>
+                        <surname>Holmblad</surname>
+                        <forename>Alexandrine von</forename>
+                     </persName>
+                     <idno type="pmb">pmb18468</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16320</idno>
+                  </author>
+                  <title>Professor Sylvan’s junge Ehe und andere Novellen</title>
+                  <date from="1891-04-02" from-custom="1891-04-02">2. 4. 1891</date>
+                  <tei:gloss type="w1098">Novellensammlung</tei:gloss>
+               </bibl>
                <bibl xml:id="pmb54289">
                   <title>Programmheft Nr. 6</title>
                   <date from="1930-01-01" from-custom="1930">1930</date>
@@ -42335,6 +43020,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -42574,6 +43260,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -43225,6 +43912,22 @@
                   <note>11266</note>
                   <note>11267</note>
                </bibl>
+               <bibl xml:id="pmb61861">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Rückzug</title>
+                  <date when="1914-12-19" when-custom="1914-12-19">19. 12. 1914</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
+               </bibl>
                <bibl xml:id="pmb30901">
                   <author role="author">
                      <persName>
@@ -43256,6 +43959,38 @@
                   <date from="1921-01-01" from-custom="1921">1921</date>
                   <tei:gloss type="w1055">Text</tei:gloss>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31453</idno>
+               </bibl>
+               <bibl xml:id="pmb61961">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Rumänien</title>
+                  <date when="1916-03-24" when-custom="1916-03-24">24. 3. 1916</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
+               </bibl>
+               <bibl xml:id="pmb61885">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Rumänisch</title>
+                  <date when="1916-10-08" when-custom="1916-10-08">8. 10. 1916</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
                </bibl>
                <bibl xml:id="pmb60935">
                   <author role="author">
@@ -43347,6 +44082,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -43368,7 +44104,7 @@
                <bibl xml:id="pmb59916">
                   <author role="author">
                      <persName>
-                        <surname>L’wowsky</surname>
+                        <surname>L’vovskij</surname>
                         <forename>Zinovij Davydovich</forename>
                      </persName>
                      <idno type="pmb">pmb57766</idno>
@@ -43425,6 +44161,22 @@
                   <date from="1888-01-01" from-custom="1888">1888</date>
                   <tei:gloss type="w1079">Lied</tei:gloss>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30927</idno>
+               </bibl>
+               <bibl xml:id="pmb61932">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Salandra – Dämmerung</title>
+                  <date when="1916-02-09" when-custom="1916-02-09">9. 2. 1916</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
                </bibl>
                <bibl xml:id="pmb33554">
                   <author role="author">
@@ -43547,6 +44299,7 @@
                      </persName>
                      <idno type="pmb">pmb2404</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118547445/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16009</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2404</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2404</idno>
                   </author>
@@ -44092,6 +44845,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -44312,6 +45066,7 @@
                      </persName>
                      <idno type="pmb">pmb2229</idno>
                      <idno type="gnd">https://d-nb.info/gnd/116445599/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15898</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2229</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2229</idno>
                   </author>
@@ -44351,6 +45106,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -44510,6 +45266,22 @@
                   <tei:gloss type="w1055">Text</tei:gloss>
                   <note>3075</note>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31807</idno>
+               </bibl>
+               <bibl xml:id="pmb61880">
+                  <author role="author">
+                     <persName>
+                        <surname>Kerr</surname>
+                        <forename>Alfred</forename>
+                     </persName>
+                     <idno type="pmb">pmb11910</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/11856157X/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16819</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11910</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11910</idno>
+                  </author>
+                  <title>Sechste Ode von d'Annunzio</title>
+                  <date when="1916-05-21" when-custom="1916-05-21">21. 5. 1916</date>
+                  <tei:gloss type="w1067">Gedicht</tei:gloss>
                </bibl>
                <bibl xml:id="pmb33374">
                   <author role="author">
@@ -45167,6 +45939,7 @@
                      </persName>
                      <idno type="pmb">pmb2450</idno>
                      <idno type="gnd">https://d-nb.info/gnd/127899537/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14942</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2450</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2450</idno>
                   </author>
@@ -45374,6 +46147,7 @@
                      </persName>
                      <idno type="pmb">pmb3557</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118632302/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_21294</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3557</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3557</idno>
                   </author>
@@ -45389,6 +46163,7 @@
                      </persName>
                      <idno type="pmb">pmb3557</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118632302/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_21294</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3557</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3557</idno>
                   </author>
@@ -45498,6 +46273,7 @@
                      </persName>
                      <idno type="pmb">pmb2173</idno>
                      <idno type="gnd">https://d-nb.info/gnd/116848723/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19832</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2173</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2173</idno>
                   </author>
@@ -47169,6 +47945,7 @@
                      </persName>
                      <idno type="pmb">pmb2404</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118547445/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16009</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2404</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2404</idno>
                   </author>
@@ -48098,6 +48875,29 @@
                         to-custom="1927">1922–1927</date>
                   <tei:gloss type="w1219">Zeitschrift</tei:gloss>
                </bibl>
+               <bibl xml:id="pmb61813">
+                  <author role="author">
+                     <persName>
+                        <surname>Schnitzler</surname>
+                        <forename>Arthur</forename>
+                     </persName>
+                     <idno type="pmb">pmb2121</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+                  </author>
+                  <author role="translator">
+                     <persName>
+                        <surname>Kauser</surname>
+                        <forename>Alice</forename>
+                     </persName>
+                     <term>[Übersetzung]</term>
+                     <idno type="pmb">pmb19236</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16782</idno>
+                  </author>
+                  <title>The Lady with the Dagger</title>
+                  <tei:gloss type="w1057">Einakter</tei:gloss>
+               </bibl>
                <bibl xml:id="pmb32506">
                   <author role="author">
                      <persName>
@@ -48210,6 +49010,7 @@
                      </persName>
                      <idno type="pmb">pmb4279</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118692445/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_15108</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb4279</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4279</idno>
                   </author>
@@ -48738,6 +49539,7 @@
                      </persName>
                      <idno type="pmb">pmb2142</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118503243/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_13222</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2142</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2142</idno>
                   </author>
@@ -48925,6 +49727,7 @@
                      </persName>
                      <idno type="pmb">pmb2142</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118503243/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_13222</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2142</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2142</idno>
                   </author>
@@ -49369,6 +50172,7 @@
                      </persName>
                      <idno type="pmb">pmb2142</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118503243/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_13222</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2142</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2142</idno>
                   </author>
@@ -50288,6 +51092,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -50342,6 +51147,7 @@
                      </persName>
                      <idno type="pmb">pmb2167</idno>
                      <idno type="gnd">https://d-nb.info/gnd/118840819/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_19542</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
                   </author>
@@ -51394,6 +52200,7 @@
                      </persName>
                      <idno type="pmb">pmb2601</idno>
                      <idno type="gnd">https://d-nb.info/gnd/116653981/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16517</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2601</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2601</idno>
                   </author>
@@ -51456,6 +52263,7 @@
                      </persName>
                      <idno type="pmb">pmb2577</idno>
                      <idno type="gnd">https://d-nb.info/gnd/1030216444/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_17274</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2577</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2577</idno>
                   </author>
@@ -53130,6 +53938,22 @@
                   <tei:gloss type="w1212">Unveröffentlichtes dramatisches Werk</tei:gloss>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb33654</idno>
                </bibl>
+               <bibl xml:id="pmb61748">
+                  <author role="contributor">
+                     <persName>
+                        <surname>Bahr</surname>
+                        <forename>Hermann</forename>
+                     </persName>
+                     <idno type="pmb">pmb10815</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
+                  </author>
+                  <title>Wunschbüchlein zur Eröffnung des Komödienhauses, 19.9.1912</title>
+                  <date from="1912-09-19" from-custom="1912-09-19">19. 9. 1912</date>
+                  <tei:gloss type="w1789"/>
+               </bibl>
                <bibl xml:id="pmb33604">
                   <author role="author">
                      <persName>
@@ -53214,6 +54038,7 @@
                      </persName>
                      <idno type="pmb">pmb2450</idno>
                      <idno type="gnd">https://d-nb.info/gnd/127899537/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_14942</idno>
                      <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2450</idno>
                      <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2450</idno>
                   </author>
