@@ -33,130 +33,391 @@
                             <xsl:for-each
                                 select="descendant::rs[@type = 'person']/tokenize(@ref, ' ')">
                                 <xsl:sort select="number(.)"/>
-                                <xsl:if test="string-length(substring-after(., '#')) &gt; 1">
-                                    <xsl:element namespace="http://www.tei-c.org/ns/1.0"
-                                        name="person">
-                                        <xsl:attribute name="n">
-                                            <xsl:value-of
-                                                select="normalize-space(substring-after(., '#'))"/>
-                                        </xsl:attribute>
-                                    </xsl:element>
-                                </xsl:if>
+                                <xsl:choose>
+                                    <xsl:when test="contains(.,'#pmb')">
+                                        <xsl:if test="string-length(substring-after(., '#pmb')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'pmb')">
+                                        <xsl:if test="string-length(substring-after(., 'pmb')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., 'pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'#')">
+                                        <xsl:if test="string-length(substring-after(., '#')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                </xsl:choose>
                             </xsl:for-each>
                             <xsl:for-each select="descendant::author[@ref]/@ref">
                                 <xsl:sort select="number(substring-after(., '#'))"/>
-                                <xsl:if test="string-length(substring-after(., '#')) &gt; 0">
-                                    <xsl:element namespace="http://www.tei-c.org/ns/1.0"
-                                        name="person">
-                                        <xsl:attribute name="n">
-                                            <xsl:value-of
-                                                select="normalize-space(substring-after(., '#'))"/>
-                                        </xsl:attribute>
-                                    </xsl:element>
-                                </xsl:if>
+                                <xsl:choose>
+                                    <xsl:when test="contains(.,'#pmb')">
+                                        <xsl:if test="string-length(substring-after(., '#pmb')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'pmb')">
+                                        <xsl:if test="string-length(substring-after(., 'pmb')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., 'pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'#')">
+                                        <xsl:if test="string-length(substring-after(., '#')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                </xsl:choose>
                             </xsl:for-each>
                             <xsl:for-each select="descendant::persName[@ref]/@ref">
                                 <xsl:sort select="number(substring-after(., '#'))"/>
-                                <xsl:if test="string-length(substring-after(., '#')) &gt; 0">
-                                    <xsl:element namespace="http://www.tei-c.org/ns/1.0"
-                                        name="person">
-                                        <xsl:attribute name="n">
-                                            <xsl:value-of
-                                                select="normalize-space(substring-after(., '#'))"/>
-                                        </xsl:attribute>
-                                    </xsl:element>
-                                </xsl:if>
+                                <xsl:choose>
+                                    <xsl:when test="contains(.,'#pmb')">
+                                        <xsl:if test="string-length(substring-after(., '#pmb')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'pmb')">
+                                        <xsl:if test="string-length(substring-after(., 'pmb')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., 'pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'#')">
+                                        <xsl:if test="string-length(substring-after(., '#')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                </xsl:choose>
                             </xsl:for-each>
                             <xsl:for-each select="descendant::handShift[@scribe]/@scribe">
                                 <xsl:sort select="number(substring-after(., '#'))"/>
-                                <xsl:if test="string-length(substring-after(., '#')) &gt; 0">
-                                    <xsl:element namespace="http://www.tei-c.org/ns/1.0"
-                                        name="person">
-                                        <xsl:attribute name="n">
-                                            <xsl:value-of
-                                                select="normalize-space(substring-after(., '#'))"/>
-                                        </xsl:attribute>
-                                    </xsl:element>
-                                </xsl:if>
+                                <xsl:choose>
+                                    <xsl:when test="contains(.,'#pmb')">
+                                        <xsl:if test="string-length(substring-after(., '#pmb')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'pmb')">
+                                        <xsl:if test="string-length(substring-after(., 'pmb')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., 'pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'#')">
+                                        <xsl:if test="string-length(substring-after(., '#')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                </xsl:choose>
                             </xsl:for-each>
                             <xsl:for-each
                                 select="descendant::handNote[@corresp and not(@corresp = 'Schreibkraft')]/@corresp">
                                 <xsl:sort select="number(substring-after(., '#'))"/>
-                                <xsl:if test="string-length(substring-after(., '#')) &gt; 0">
-                                    <xsl:element namespace="http://www.tei-c.org/ns/1.0"
-                                        name="person">
-                                        <xsl:attribute name="n">
-                                            <xsl:value-of
-                                                select="normalize-space(substring-after(., '#'))"/>
-                                        </xsl:attribute>
-                                    </xsl:element>
-                                </xsl:if>
+                                <xsl:choose>
+                                    <xsl:when test="contains(.,'#pmb')">
+                                        <xsl:if test="string-length(substring-after(., '#pmb')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'pmb')">
+                                        <xsl:if test="string-length(substring-after(., 'pmb')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., 'pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'#')">
+                                        <xsl:if test="string-length(substring-after(., '#')) &gt; 1">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="person">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                </xsl:choose>
                             </xsl:for-each>
                         </xsl:element>
                         <xsl:element name="list" namespace="http://www.tei-c.org/ns/1.0">
                             <xsl:for-each
                                 select="descendant::rs[@type = 'work']/tokenize(@ref, ' ')">
                                 <xsl:sort select="number(.)"/>
-                                <xsl:if test="string-length(substring-after(., '#')) &gt; 0">
-                                    <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="item">
-                                        <xsl:attribute name="n">
-                                            <xsl:value-of
-                                                select="normalize-space(substring-after(., '#'))"/>
-                                        </xsl:attribute>
-                                    </xsl:element>
-                                </xsl:if>
+                                <xsl:choose>
+                                    <xsl:when test="contains(.,'#pmb')">
+                                        <xsl:if test="string-length(substring-after(., '#pmb')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="item">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'pmb')">
+                                        <xsl:if test="string-length(substring-after(., 'pmb')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="item">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., 'pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'#')">
+                                        <xsl:if test="string-length(substring-after(., '#')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="item">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                </xsl:choose>
+                                
+                                
+                                
                             </xsl:for-each>
                             <xsl:for-each
                                 select="descendant::biblStruct//title[@ref]/tokenize(@ref, ' ')">
                                 <xsl:sort select="number(.)"/>
-                                <xsl:if test="string-length(substring-after(., '#')) &gt; 0">
-                                    <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="item">
-                                        <xsl:attribute name="n">
-                                            <xsl:value-of
-                                                select="normalize-space(substring-after(., '#'))"/>
-                                        </xsl:attribute>
-                                    </xsl:element>
-                                </xsl:if>
+                                <xsl:choose>
+                                    <xsl:when test="contains(.,'#pmb')">
+                                        <xsl:if test="string-length(substring-after(., '#pmb')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="item">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'pmb')">
+                                        <xsl:if test="string-length(substring-after(., 'pmb')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="item">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., 'pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'#')">
+                                        <xsl:if test="string-length(substring-after(., '#')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="item">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                </xsl:choose>
                             </xsl:for-each>
                         </xsl:element>
                         <xsl:element name="listOrg" namespace="http://www.tei-c.org/ns/1.0">
                             <xsl:for-each select="descendant::rs[@type = 'org']/tokenize(@ref, ' ')">
                                 <xsl:sort select="number(.)"/>
-                                <xsl:if test="string-length(substring-after(., '#')) &gt; 0">
-                                    <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="org">
-                                        <xsl:attribute name="n">
-                                            <xsl:value-of
-                                                select="normalize-space(substring-after(., '#'))"/>
-                                        </xsl:attribute>
-                                    </xsl:element>
-                                </xsl:if>
+                                <xsl:choose>
+                                    <xsl:when test="contains(.,'#pmb')">
+                                        <xsl:if test="string-length(substring-after(., '#pmb')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="org">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'pmb')">
+                                        <xsl:if test="string-length(substring-after(., 'pmb')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="org">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., 'pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'#')">
+                                        <xsl:if test="string-length(substring-after(., '#')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0" name="org">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                </xsl:choose>
+                                
+                                
                             </xsl:for-each>
                         </xsl:element>
                         <xsl:element name="listPlace" namespace="http://www.tei-c.org/ns/1.0">
                             <xsl:for-each
                                 select="descendant::rs[@type = 'place']/tokenize(@ref, ' ')">
                                 <xsl:sort select="number(.)"/>
-                                <xsl:if test="string-length(substring-after(., '#')) &gt; 0">
-                                    <xsl:element namespace="http://www.tei-c.org/ns/1.0"
-                                        name="place">
-                                        <xsl:attribute name="n">
-                                            <xsl:value-of
-                                                select="normalize-space(substring-after(., '#'))"/>
-                                        </xsl:attribute>
-                                    </xsl:element>
-                                </xsl:if>
+                                <xsl:choose>
+                                    <xsl:when test="contains(.,'#pmb')">
+                                        <xsl:if test="string-length(substring-after(., '#pmb')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="place">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'pmb')">
+                                        <xsl:if test="string-length(substring-after(., 'pmb')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="place">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., 'pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'#')">
+                                        <xsl:if test="string-length(substring-after(., '#')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="place">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                </xsl:choose>
+                                
+                                
                             </xsl:for-each>
                             <xsl:for-each select="descendant::placeName[@ref]/tokenize(@ref, ' ')">
                                 <xsl:sort select="number(substring-after(., '#'))"/>
-                                <xsl:if test="string-length(substring-after(., '#')) &gt; 0">
-                                    <xsl:element namespace="http://www.tei-c.org/ns/1.0"
-                                        name="place">
-                                        <xsl:attribute name="n">
-                                            <xsl:value-of
-                                                select="normalize-space(substring-after(., '#'))"/>
-                                        </xsl:attribute>
-                                    </xsl:element>
-                                </xsl:if>
+                                <xsl:choose>
+                                    <xsl:when test="contains(.,'#pmb')">
+                                        <xsl:if test="string-length(substring-after(., '#pmb')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="place">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'pmb')">
+                                        <xsl:if test="string-length(substring-after(., 'pmb')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="place">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., 'pmb'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                    <xsl:when test="contains(.,'#')">
+                                        <xsl:if test="string-length(substring-after(., '#')) &gt; 0">
+                                            <xsl:element namespace="http://www.tei-c.org/ns/1.0"
+                                                name="place">
+                                                <xsl:attribute name="n">
+                                                    <xsl:value-of
+                                                        select="normalize-space(substring-after(., '#'))"/>
+                                                </xsl:attribute>
+                                            </xsl:element>
+                                        </xsl:if>
+                                    </xsl:when>
+                                </xsl:choose>
                             </xsl:for-each>
                         </xsl:element>
                     </xsl:element>
