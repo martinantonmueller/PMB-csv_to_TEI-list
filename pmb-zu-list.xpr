@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>werke/listwork-pmb.xml</String>
+                                    <String>personen/listperson-pmb.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>listwork-pmb</String>
+                                        <String>listperson-PMB-gesamt</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -30,11 +30,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>personen/listperson-pmb.xml</String>
+                                    <String>../../../Dropbox/Arthur%20Schnitzler/Interviews/XML/indices/listorg.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>listperson-PMB-gesamt</String>
+                                        <String>listorg-PMB-gesamt</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -70,11 +70,51 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>../../../Dropbox/Arthur%20Schnitzler/Interviews/XML/indices/listplace.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>listPlace-PMB-gesamt</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>orte/listplace-pmb.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
                                         <String>listPlace-PMB-gesamt</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>werke/listwork-pmb.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>listwork-pmb</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -441,7 +481,6 @@
                                 </field>
                                 <field name="cascadingStylesheets">
                                     <String-array>
-                                        <String>${pdu}/personen/person_2_listperson-occupation-eintragen.xsl</String>
                                         <String>${pdu}/personen/person_2_listperson-occupation-eintragen.xsl</String>
                                         <String>${pdu}/personen/person_3_listperson-orte-eintragen.xsl</String>
                                         <String>${pdu}/personen/person_4_uris-eintragen.xsl</String>

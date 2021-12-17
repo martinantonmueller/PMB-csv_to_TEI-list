@@ -16,12 +16,23 @@
     
     
     <xsl:template match="tei:occupation">
-       
+        <xsl:variable name="gender" select="parent::tei:person/tei:sex[1]" as="xs:string?"/>
         <xsl:element name="occupation" namespace="http://www.tei-c.org/ns/1.0">
             <xsl:attribute name="code">
                 <xsl:value-of select="."/>
             </xsl:attribute>
-            <xsl:value-of select="key('ref-lookup', ., $ptype-refs)/name"/>
+            <xsl:variable name="beruf" as="xs:string?" select="key('ref-lookup', ., $ptype-refs)/name"/>
+            <xsl:choose>
+                <xsl:when test="$gender='male' and contains($beruf, '/')">
+                    <xsl:value-of select="tokenize($beruf,'/')[1]"/>
+                </xsl:when>
+                <xsl:when test="$gender='female' and contains($beruf, '/')">
+                    <xsl:value-of select="tokenize($beruf,'/')[2]"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="$beruf"/>
+                </xsl:otherwise>
+            </xsl:choose>
         </xsl:element>
     </xsl:template>
 </xsl:stylesheet>

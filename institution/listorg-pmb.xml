@@ -19,7 +19,7 @@
          </tei:titleStmt>
          <tei:publicationStmt>
             <tei:publisher>ACDH-CH</tei:publisher>
-            <tei:date>04.12.2021</tei:date>
+            <tei:date>17.12.2021</tei:date>
             <tei:idno type="URI">https://id.acdh.oeaw.ac.at/arthur-schnitzler-briefe/v1/indices/listorg.xml</tei:idno>
          </tei:publicationStmt>
          <tei:sourceDesc>
@@ -31,13 +31,7 @@
       <tei:body>
          <tei:p>
             <tei:listOrg xml:id="listorg">
-               <org xml:id="pmb">
-                  <tei:orgName/>
-                  <tei:desc/>
-                  <tei:place corresp="pmb">
-                     <tei:placeName/>
-                  </tei:place>
-               </org>
+               
                <org xml:id="pmb29503">
                   <tei:orgName>[Russische Zeitschrift, in der 1914 gefälschtes Interview  von Schnitzler erschien]</tei:orgName>
                   <tei:desc>
@@ -211,6 +205,19 @@
                      <tei:placeName>Prag</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">50.08333 14.46667</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb62336">
+                  <tei:orgName>Aftonbladet</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1830-12-06" from-custom="1830-12-06">6. 12. 1830</tei:date>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb1119">
+                     <tei:placeName>Stockholm</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">59.325 18.05</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -1547,6 +1554,18 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb62164">
+                  <tei:orgName>Bayerische Staatsbibliothek</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1007">Bibliothek</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb45258">
+                     <tei:placeName>München</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb29811">
                   <tei:orgName>Bayreuther Festspiele</tei:orgName>
                   <tei:desc>
@@ -2462,10 +2481,17 @@
                   </tei:place>
                </org>
                <org xml:id="pmb29740">
-                  <tei:orgName>Bukum (Aktiengesellschaft für Buch-, Kunst- und Musikalienhandlung</tei:orgName>
+                  <tei:orgName>Bukum A. G. (vormals Heller’sche Buchhandlung)</tei:orgName>
                   <tei:desc>
+                     <tei:date from="1904-01-01" from-custom="1904">1904</tei:date>
                      <tei:gloss ana="i975">Verlag</tei:gloss>
                   </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29740</idno>
                </org>
                <org xml:id="pmb36950">
@@ -3210,8 +3236,7 @@
                      </tei:location>
                   </tei:place>
                   <tei:place corresp="pmb61755">
-                     <tei:placeName>Cottage-Sanatorium für Nerven- und
-                     Stoffwechselkranke</tei:placeName>
+                     <tei:placeName>Cottage-Sanatorium für Nerven- und Stoffwechselkranke</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.233056 16.333056</tei:geo>
                      </tei:location>
@@ -3295,6 +3320,12 @@
                         <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
+               </org>
+               <org xml:id="pmb62216">
+                  <tei:orgName>Das Kleine Journal</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb29509">
                   <tei:orgName>Das neue Jahrhundert</tei:orgName>
@@ -4687,6 +4718,19 @@
                      </tei:location>
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41793</idno>
+               </org>
+               <org xml:id="pmb62240">
+                  <tei:orgName>Dramaten</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1788-01-01" from-custom="1788">1788</tei:date>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb1119">
+                     <tei:placeName>Stockholm</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">59.325 18.05</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb37465">
                   <tei:orgName>Drei Hahnen-Saal</tei:orgName>
@@ -6950,6 +6994,7 @@
                <org xml:id="pmb29747">
                   <tei:orgName>Hugo Heller</tei:orgName>
                   <tei:desc>
+                     <tei:date from="1904-01-01" from-custom="1904">1904</tei:date>
                      <tei:gloss ana="i975">Verlag</tei:gloss>
                   </tei:desc>
                   <tei:place corresp="pmb50">
@@ -7423,6 +7468,13 @@
                      <tei:gloss ana="i1036">Druckerei</tei:gloss>
                   </tei:desc>
                </org>
+               <org xml:id="pmb62254">
+                  <tei:orgName>Johann Wolfgang Goethe-Universität Frankfurt am Main</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1914-10-18" from-custom="1914-10-18">18. 10. 1914</tei:date>
+                     <tei:gloss ana="i1032">Universität</tei:gloss>
+                  </tei:desc>
+               </org>
                <org xml:id="pmb56539">
                   <tei:orgName>Jonathan Cap%26amp; Harrison Smith</tei:orgName>
                   <tei:desc>
@@ -7609,7 +7661,9 @@
                </org>
                <org xml:id="pmb37167">
                   <tei:orgName>Junge Bühne München</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i985">Theatergruppe</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb45258">
                      <tei:placeName>München</tei:placeName>
                      <tei:location>
@@ -8529,6 +8583,19 @@
                      <tei:gloss ana="i1023">Rassistische Vereinigung</tei:gloss>
                   </tei:desc>
                </org>
+               <org xml:id="pmb62210">
+                  <tei:orgName>Kungliga Musikaliska Akademien</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1771-01-01" from-custom="1771">1771</tei:date>
+                     <tei:gloss ana="i1040">Akademie der Künste</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb1119">
+                     <tei:placeName>Stockholm</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">59.325 18.05</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb29530">
                   <tei:orgName>Kungliga Vetenskapsakademien</tei:orgName>
                   <tei:desc>
@@ -8833,7 +8900,9 @@
                </org>
                <org xml:id="pmb36836">
                   <tei:orgName>Landgericht I München</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb45258">
                      <tei:placeName>München</tei:placeName>
                      <tei:location>
@@ -9697,13 +9766,6 @@
                      <tei:gloss ana="i975">Verlag</tei:gloss>
                   </tei:desc>
                </org>
-               <org xml:id="pmb29745">
-                  <tei:orgName>Mitchell Kennerley</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i975">Verlag</tei:gloss>
-                  </tei:desc>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29745</idno>
-               </org>
                <org xml:id="pmb37225">
                   <tei:orgName>Mödendorfer</tei:orgName>
                   <tei:desc/>
@@ -9883,6 +9945,18 @@
                      </tei:location>
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb40486</idno>
+               </org>
+               <org xml:id="pmb62201">
+                  <tei:orgName>Mozarteum</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb652">
+                     <tei:placeName>Prag</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">50.08333 14.46667</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb29608">
                   <tei:orgName>Mozart Zentenarfeier 14.–17. 7. 1891</tei:orgName>
@@ -10614,6 +10688,19 @@
                   <tei:orgName>Nordische Bank</tei:orgName>
                   <tei:desc/>
                </org>
+               <org xml:id="pmb62213">
+                  <tei:orgName>Nordiska musikförlaget</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1915-01-01" from-custom="1915">1915</tei:date>
+                     <tei:gloss ana="i1013">Musikalienverlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb1119">
+                     <tei:placeName>Stockholm</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">59.325 18.05</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb29409">
                   <tei:orgName>Nordisk Films Kompagni</tei:orgName>
                   <tei:desc>
@@ -10863,7 +10950,9 @@
                </org>
                <org xml:id="pmb36858">
                   <tei:orgName>Oberstes Landesgericht München</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb45258">
                      <tei:placeName>München</tei:placeName>
                      <tei:location>
@@ -11178,6 +11267,7 @@
                <org xml:id="pmb29800">
                   <tei:orgName>Österreichischer Journalistenbund</tei:orgName>
                   <tei:desc>
+                     <tei:date from="1903-01-01" from-custom="1903">1903</tei:date>
                      <tei:gloss ana="i999">Interessensvertretung</tei:gloss>
                   </tei:desc>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29800</idno>
@@ -11690,6 +11780,18 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb62598">
+                  <tei:orgName>Polizeikommissariat Hernals</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1240">Polizeibehörde</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb67">
+                     <tei:placeName>XVII., Hernals</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.22707 16.31006</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb60334">
                   <tei:orgName>Polizeikommissariat Kreindlgasse</tei:orgName>
                   <tei:desc>
@@ -12058,6 +12160,19 @@
                      <tei:placeName>Kharkiv</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">49.98081 36.25272</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb62529">
+                  <tei:orgName>Rädda Barnen</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1919-11-19" from-custom="1919-11-19">19. 11. 1919</tei:date>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb44335">
+                     <tei:placeName>Schweden</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">62.0 15.0</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -13304,6 +13419,10 @@
                <org xml:id="pmb29714">
                   <tei:orgName>Simplicissimus</tei:orgName>
                   <tei:desc>
+                     <tei:date from="1896-04-04"
+                               from-custom="1896-04-04"
+                               to="1944-09-13"
+                               to-custom="1944-09-13">4. 4. 1896–13. 9. 1944</tei:date>
                      <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
                   </tei:desc>
                   <tei:place corresp="pmb45258">
@@ -13699,6 +13818,18 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb62307">
+                  <tei:orgName>Städtische Bühne Düsseldorf</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb863">
+                     <tei:placeName>Düsseldorf</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">51.22172 6.77616</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb37035">
                   <tei:orgName>Städtische Bühnen Dortmund</tei:orgName>
                   <tei:desc/>
@@ -13726,6 +13857,18 @@
                      <tei:placeName>Charlottenburg</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.516667 13.3</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb62287">
+                  <tei:orgName>Städtische Oper Köln</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1479">Oper</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb145">
+                     <tei:placeName>Köln</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">50.93835 6.95427</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -14134,6 +14277,19 @@
                      </tei:location>
                   </tei:place>
                   <idno type="gnd">https://d-nb.info/gnd/300755-8/</idno>
+               </org>
+               <org xml:id="pmb62330">
+                  <tei:orgName>Svenska teatern</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1875-01-01" from-custom="1875">1875</tei:date>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb1119">
+                     <tei:placeName>Stockholm</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">59.325 18.05</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb29517">
                   <tei:orgName>Svensk Dagbladet</tei:orgName>
@@ -15376,6 +15532,18 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb62299">
+                  <tei:orgName>Verlag Richard Lányi</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb29293">
                   <tei:orgName>Verlagsanstalt Tyrolia</tei:orgName>
                   <tei:desc>
@@ -15647,6 +15815,18 @@
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29331</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29331</idno>
+               </org>
+               <org xml:id="pmb62602">
+                  <tei:orgName>Wachstube Neuwaldegg</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1240">Polizeibehörde</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb170">
+                     <tei:placeName>Neuwaldegg</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.233119188484 16.28610371233</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb37672">
                   <tei:orgName>Waldek-Saal</tei:orgName>
@@ -16148,6 +16328,18 @@
                <org xml:id="pmb36927">
                   <tei:orgName>Wiener Rechtsanwaltskammer</tei:orgName>
                   <tei:desc/>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb62251">
+                  <tei:orgName>Wiener Rundfunk</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1018">Rundfunkgesellschaft</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
