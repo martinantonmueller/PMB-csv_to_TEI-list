@@ -264,24 +264,28 @@
                 </xsl:element>
                 <xsl:variable name="EID" select="ID"/>
                 <xsl:for-each select="following-sibling::row[ID = $EID]/profession">
-                    <xsl:choose>
-                        <xsl:when test="ends-with(profession, '.0')">
-                            <xsl:value-of select="substring-before(profession,'.0')"/>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:value-of select="profession"/>
-                        </xsl:otherwise>
-                    </xsl:choose>
+                    <xsl:element name="tei:occupation">
+                        <xsl:choose>
+                            <xsl:when test="ends-with(., '.0')">
+                                <xsl:value-of select="substring-before(.,'.0')"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:value-of select="."/>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:element>
                 </xsl:for-each>
                 <xsl:for-each select="following-sibling::item[ID = $EID]/profession">
+                    <xsl:element name="tei:occupation">
                     <xsl:choose>
-                        <xsl:when test="ends-with(profession, '.0')">
-                            <xsl:value-of select="substring-before(profession,'.0')"/>
+                        <xsl:when test="ends-with(., '.0')">
+                            <xsl:value-of select="substring-before(.,'.0')"/>
                         </xsl:when>
                         <xsl:otherwise>
-                            <xsl:value-of select="profession"/>
+                            <xsl:value-of select="."/>
                         </xsl:otherwise>
                     </xsl:choose>
+                    </xsl:element>
                 </xsl:for-each>
             </xsl:if>
             <xsl:if test="gender[fn:string-length(text()) &gt; 0]">
