@@ -19,7 +19,7 @@
          </tei:titleStmt>
          <tei:publicationStmt>
             <tei:publisher>ACDH-CH</tei:publisher>
-            <tei:date>17.12.2021</tei:date>
+            <tei:date>17.02.2022</tei:date>
             <tei:idno type="URI">https://id.acdh.oeaw.ac.at/arthur-schnitzler-briefe/v1/indices/listorg.xml</tei:idno>
          </tei:publicationStmt>
          <tei:sourceDesc>
@@ -68,6 +68,12 @@
                         <tei:geo decls="LatLng">59.9387 30.36301</tei:geo>
                      </tei:location>
                   </tei:place>
+               </org>
+               <org xml:id="pmb62987">
+                  <tei:orgName>21. Zivilkammer für Urheberrecht (Landgericht I Berlin)</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb36278">
                   <tei:orgName>28. Congress der deutschen Gesellschaft für Chirurgie</tei:orgName>
@@ -365,6 +371,19 @@
                      </tei:location>
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb43988</idno>
+               </org>
+               <org xml:id="pmb63051">
+                  <tei:orgName>Akademische Lesehalle</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1871-01-01" from-custom="1871">1871</tei:date>
+                     <tei:gloss ana="i997">Literarische Vereinigung</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb36889">
                   <tei:orgName>Akademischer Verband für Literatur und Musik in Wien</tei:orgName>
@@ -1866,6 +1885,18 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb63665">
+                  <tei:orgName>Bezirksgericht Schladming</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb35496">
+                     <tei:placeName>Schladming</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">47.39655 13.67761</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb29602">
                   <tei:orgName>Bezirksgericht Wien Floridsdorf</tei:orgName>
                   <tei:desc>
@@ -2369,6 +2400,18 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb63000">
+                  <tei:orgName>Buchhandlung Gsellius</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1020">Buchhandlung</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb582">
+                     <tei:placeName>Mohrenstraße</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.5123 13.39281</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb50728">
                   <tei:orgName>Buchhandlung Richard Lányi</tei:orgName>
                   <tei:desc>
@@ -2618,7 +2661,9 @@
                </org>
                <org xml:id="pmb36974">
                   <tei:orgName>Bürgermeisteramt Köln</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i984">Amt</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb145">
                      <tei:placeName>Köln</tei:placeName>
                      <tei:location>
@@ -2935,6 +2980,19 @@
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29612</idno>
                </org>
+               <org xml:id="pmb63031">
+                  <tei:orgName>Carl-Theater</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1847-01-01" from-custom="1847">1847</tei:date>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb118">
+                     <tei:placeName>Carl-Theater</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.215 16.384444</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb33911">
                   <tei:orgName>Čecho-slavische ethnographische Ausstellung</tei:orgName>
                   <tei:desc>
@@ -3012,6 +3070,19 @@
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb63680">
+                  <tei:orgName>Christian-Albrechts-Universität zu Kiel</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1665-01-01" from-custom="1665">1665</tei:date>
+                     <tei:gloss ana="i1032">Universität</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb907">
+                     <tei:placeName>Kiel</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">54.32133 10.13489</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -3317,6 +3388,22 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb62834">
+                  <tei:orgName>Danzer’s Orpheum</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1872-01-01"
+                               from-custom="1872"
+                               to="1907-01-01"
+                               to-custom="1907">1872–1907</tei:date>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50681">
+                     <tei:placeName>Wasagasse</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.219653 16.358922</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb37384">
                   <tei:orgName>Das kleine Blatt</tei:orgName>
                   <tei:desc/>
@@ -3508,6 +3595,12 @@
                <org xml:id="pmb37341">
                   <tei:orgName>Der geistige Arbeiter</tei:orgName>
                   <tei:desc/>
+               </org>
+               <org xml:id="pmb63203">
+                  <tei:orgName>Der geistige Arbeiter. Deutsche Urheber-Zeitung</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1766"/>
+                  </tei:desc>
                </org>
                <org xml:id="pmb37382">
                   <tei:orgName>Der Kampf</tei:orgName>
@@ -3848,6 +3941,12 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb62795">
+                  <tei:orgName>Deutsche Gesandtschaft in Paris</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1726"/>
+                  </tei:desc>
+               </org>
                <org xml:id="pmb37017">
                   <tei:orgName>Deutsche Gesandtschaft in Prag</tei:orgName>
                   <tei:desc>
@@ -3914,6 +4013,13 @@
                      </tei:location>
                   </tei:place>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29769</idno>
+               </org>
+               <org xml:id="pmb63122">
+                  <tei:orgName>Deutsche Republik</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1926-01-01" from-custom="1926">1926</tei:date>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb37020">
                   <tei:orgName>Deutsche Rote Hilfe Berlin</tei:orgName>
@@ -4426,8 +4532,12 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29566</idno>
                </org>
                <org xml:id="pmb29493">
-                  <tei:orgName>Die Hilfe</tei:orgName>
+                  <tei:orgName>Die Hilfe. Zeitschrift für Politik, Wirtschaft und geistige Bewegung</tei:orgName>
                   <tei:desc>
+                     <tei:date from="1894-01-01"
+                               from-custom="1894"
+                               to="1944-01-01"
+                               to-custom="1944">1894–1944</tei:date>
                      <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
                   </tei:desc>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29493</idno>
@@ -4568,6 +4678,12 @@
                      <tei:placeName>IX., Alsergrund</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb50643">
+                     <tei:placeName>Canisiusgasse</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.228159 16.353186</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -4737,6 +4853,7 @@
                         <tei:geo decls="LatLng">59.325 18.05</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <idno type="gnd">https://d-nb.info/gnd/43676-8/</idno>
                </org>
                <org xml:id="pmb37465">
                   <tei:orgName>Drei Hahnen-Saal</tei:orgName>
@@ -5171,6 +5288,20 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29661</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29661</idno>
                </org>
+               <org xml:id="pmb63067">
+                  <tei:orgName>F. Freund</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1887-01-01" from-custom="1887">1887</tei:date>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb864">
+                     <tei:placeName>Leipzig</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">51.33962 12.37129</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <idno type="gnd">https://d-nb.info/gnd/1072902354/</idno>
+               </org>
                <org xml:id="pmb48451">
                   <tei:orgName>F. Tempsky</tei:orgName>
                   <tei:desc>
@@ -5400,6 +5531,19 @@
                      <tei:placeName>Prag</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">50.08333 14.46667</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb63620">
+                  <tei:orgName>Folketeatret</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1857-01-01" from-custom="1857">1857</tei:date>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb36300">
+                     <tei:placeName>Kopenhagen</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -6100,7 +6244,7 @@
                   </tei:desc>
                </org>
                <org xml:id="pmb29275">
-                  <tei:orgName>Genossenschaft dramatischer Autoren und Komponisten in Wien/Union dramatischer Autoren und Komponisten in Wien</tei:orgName>
+                  <tei:orgName>Genossenschaft dramatischer Autoren und Komponisten in Wien</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i999">Interessensvertretung</tei:gloss>
                   </tei:desc>
@@ -6997,6 +7141,21 @@
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29616</idno>
                </org>
+               <org xml:id="pmb63854">
+                  <tei:orgName>Hugenberg-Konzern</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1916-01-01"
+                               from-custom="1916"
+                               to="1943-01-01"
+                               to-custom="1943">1916–1943</tei:date>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb29747">
                   <tei:orgName>Hugo Heller</tei:orgName>
                   <tei:desc>
@@ -7093,6 +7252,12 @@
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb52510">
+                     <tei:placeName>Berggasse</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.218776849348906 16.36345511169916</tei:geo>
                      </tei:location>
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29720</idno>
@@ -7684,7 +7849,7 @@
                   </tei:desc>
                </org>
                <org xml:id="pmb36689">
-                  <tei:orgName>K.K. Hof-Operntheater in Wien</tei:orgName>
+                  <tei:orgName>K.K. Hof-Oper</tei:orgName>
                   <tei:desc>
                      <tei:date from="1869-05-25"
                                from-custom="25.05.1869"
@@ -7885,6 +8050,12 @@
                      <tei:placeName>Schöneberg</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.46667 13.38333</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb659">
+                     <tei:placeName>Bülowstraße</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.49737 13.36385</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -8893,6 +9064,12 @@
                         <tei:geo decls="LatLng">52.516669 13.366669</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <tei:place corresp="pmb62994">
+                     <tei:placeName>Grunerstraße</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.5198281 13.413936</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb36834">
                   <tei:orgName>Landgericht III Berlin</tei:orgName>
@@ -8935,6 +9112,19 @@
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb62887">
+                  <tei:orgName>Landtag von Niederösterreich</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1861-01-01" from-custom="1861">1861</tei:date>
+                     <tei:gloss ana="i1723"/>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -9244,6 +9434,12 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb63386">
+                  <tei:orgName>Lippowitz-Preis der »Concordia«</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i993">Literaturpreis</tei:gloss>
+                  </tei:desc>
+               </org>
                <org xml:id="pmb29772">
                   <tei:orgName>Literarische Gesellschaft</tei:orgName>
                   <tei:desc>
@@ -9304,6 +9500,23 @@
                   <tei:desc>
                      <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
                   </tei:desc>
+               </org>
+               <org xml:id="pmb62965">
+                  <tei:orgName>Lobe-Theater</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1896-01-01"
+                               from-custom="1896"
+                               to="1935-01-01"
+                               to-custom="1935">1896–1935</tei:date>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb525">
+                     <tei:placeName>Lobe-Theater</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">51.10862 17.0454</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <idno type="gnd">https://d-nb.info/gnd/1086775961/</idno>
                </org>
                <org xml:id="pmb29314">
                   <tei:orgName>Lokal-Anzeiger</tei:orgName>
@@ -9500,6 +9713,35 @@
                   <tei:desc>
                      <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
                   </tei:desc>
+               </org>
+               <org xml:id="pmb62745">
+                  <tei:orgName>Malik Verlag</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1917-01-01"
+                               from-custom="1917"
+                               to="1939-01-01"
+                               to-custom="1939">1917–1939</tei:date>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb652">
+                     <tei:placeName>Prag</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">50.08333 14.46667</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb62748">
+                     <tei:placeName>London</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">51.50853 -0.12574</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <idno type="gnd">https://d-nb.info/gnd/44419-4/</idno>
                </org>
                <org xml:id="pmb57806">
                   <tei:orgName>Maly-Theater</tei:orgName>
@@ -9771,6 +10013,19 @@
                   <tei:desc>
                      <tei:gloss ana="i975">Verlag</tei:gloss>
                   </tei:desc>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29745</idno>
+               </org>
+               <org xml:id="pmb63985">
+                  <tei:orgName>Modehaus Krupnik</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1014">Kleidergeschäft</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb51509">
+                     <tei:placeName>Kaiserstraße</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.20367166559042 16.34043721173768</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb37225">
                   <tei:orgName>Mödendorfer</tei:orgName>
@@ -9939,6 +10194,13 @@
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb46218</idno>
                </org>
+               <org xml:id="pmb62789">
+                  <tei:orgName>Morning Leader</tei:orgName>
+                  <tei:desc>
+                     <tei:date to="1912-01-01" to-custom="1912">1912</tei:date>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
+               </org>
                <org xml:id="pmb40486">
                   <tei:orgName>Mosersche Buchhandlung</tei:orgName>
                   <tei:desc>
@@ -10085,6 +10347,12 @@
                         <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <tei:place corresp="pmb11">
+                     <tei:placeName>Münchner Schauspielhaus</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.138122 11.582478</tei:geo>
+                     </tei:location>
+                  </tei:place>
                   <idno type="gnd">https://d-nb.info/gnd/44467-4/</idno>
                </org>
                <org xml:id="pmb37440">
@@ -10094,6 +10362,19 @@
                      <tei:placeName>München</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb63428">
+                  <tei:orgName>Musée du Louvre</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1793-01-01" from-custom="1793" to-custom="-">1793–-</tei:date>
+                     <tei:gloss ana="i1009">Museum</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb182">
+                     <tei:placeName>Paris</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.85341 2.3488</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -10124,6 +10405,18 @@
                      <tei:placeName>Ballgasse</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.20628 16.37308</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb63904">
+                  <tei:orgName>Národní divadlo Brno</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb833">
+                     <tei:placeName>Brünn</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">49.19522 16.60796</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -10249,6 +10542,18 @@
                         <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <tei:place corresp="pmb716">
+                     <tei:placeName>Fichtegasse</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.203009170069 16.375663258442</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb63189">
+                     <tei:placeName>Schubertring</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.20281 16.37602</tei:geo>
+                     </tei:location>
+                  </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29351</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29351</idno>
                </org>
@@ -10365,6 +10670,19 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb60458">
+                  <tei:orgName>Neues dramatisches Theater</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1909-09-19" from-custom="1909-09-19">19. 9. 1909</tei:date>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb433">
+                     <tei:placeName>Sankt Petersburg</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">59.93863 30.31413</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb57136">
                   <tei:orgName>Neues Leipziger Operettentheater</tei:orgName>
                   <tei:desc>
@@ -10415,19 +10733,6 @@
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb45434</idno>
                </org>
-               <org xml:id="pmb60458">
-                  <tei:orgName>Neues Theater</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1901-01-01" from-custom="1901">1901</tei:date>
-                     <tei:gloss ana="i1012">Theater</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb433">
-                     <tei:placeName>Sankt Petersburg</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">59.93863 30.31413</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </org>
                <org xml:id="pmb37473">
                   <tei:orgName>Neues Wiener Abendblatt</tei:orgName>
                   <tei:desc/>
@@ -10457,6 +10762,12 @@
                      <tei:placeName>Nussdorfer Straße</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.22921 16.35461</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb52670">
+                     <tei:placeName>Biberstraße</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.209725072054226 16.381223898207065</tei:geo>
                      </tei:location>
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29320</idno>
@@ -10535,14 +10846,6 @@
                         <tei:geo decls="LatLng">48.219653 16.358922</tei:geo>
                      </tei:location>
                   </tei:place>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb37214</idno>
-               </org>
-               <org xml:id="pmb60476">
-                  <tei:orgName>Neue Wiener Bühne</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1908-01-01" from-custom="1908">1908</tei:date>
-                     <tei:gloss ana="i1012">Theater</tei:gloss>
-                  </tei:desc>
                   <tei:place corresp="pmb34399">
                      <tei:placeName>Neue Wiener Bühne</tei:placeName>
                      <tei:location>
@@ -10555,6 +10858,7 @@
                         <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb37214</idno>
                </org>
                <org xml:id="pmb29672">
                   <tei:orgName>Neue Zürcher Zeitung</tei:orgName>
@@ -10746,6 +11050,18 @@
                      </tei:location>
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb34277</idno>
+               </org>
+               <org xml:id="pmb62644">
+                  <tei:orgName>Nya Dagligt Allehanda</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb1119">
+                     <tei:placeName>Stockholm</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">59.325 18.05</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb57072">
                   <tei:orgName>Oberbühnenschiedsgericht</tei:orgName>
@@ -11210,6 +11526,19 @@
                   <tei:desc>
                      <tei:date from="1891-01-01" from-custom="1891">1891</tei:date>
                      <tei:gloss ana="i1022">Politische Vereinigung</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb63534">
+                  <tei:orgName>Österreichische Gesellschaft zur Bekämpfung der Geschlechtskrankheiten</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1907-04-25" from-custom="1907-04-25">25. 4. 1907</tei:date>
+                     <tei:gloss ana="i1031">Gelehrtenvereinigung</tei:gloss>
                   </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
@@ -11890,7 +12219,9 @@
                </org>
                <org xml:id="pmb37157">
                   <tei:orgName>Postamt Wien I</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1538">Postamt</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -12385,6 +12716,18 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29304</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29304</idno>
                </org>
+               <org xml:id="pmb63683">
+                  <tei:orgName>Reimar Hobbing Verlag</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb45417">
                   <tei:orgName>Reinhardt-Bühnen</tei:orgName>
                   <tei:desc>
@@ -12657,6 +13000,12 @@
                <org xml:id="pmb37100">
                   <tei:orgName>Rohrer (Druckerei)</tei:orgName>
                   <tei:desc/>
+                  <tei:place corresp="pmb833">
+                     <tei:placeName>Brünn</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">49.19522 16.60796</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb46040">
                   <tei:orgName>Roland von Berlin</tei:orgName>
@@ -14492,7 +14841,9 @@
                </org>
                <org xml:id="pmb37011">
                   <tei:orgName>Theater am Schiffbauerdamm</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb36737">
                      <tei:placeName>Mitte</tei:placeName>
                      <tei:location>
@@ -15073,6 +15424,12 @@
                      <tei:placeName>Karlsplatz</tei:placeName>
                   </tei:place>
                </org>
+               <org xml:id="pmb63833">
+                  <tei:orgName>Universität für Musik und darstellende Kunst Wien</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1032">Universität</tei:gloss>
+                  </tei:desc>
+               </org>
                <org xml:id="pmb29353">
                   <tei:orgName>Universitätsbibliothek Salzburg</tei:orgName>
                   <tei:desc>
@@ -15139,6 +15496,19 @@
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb64017">
+                  <tei:orgName>University of Exeter</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1955-12-21" from-custom="1955-12-21">21. 12. 1955</tei:date>
+                     <tei:gloss ana="i1032">Universität</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb1001">
+                     <tei:placeName>Exeter</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">50.7236 -3.52751</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -15410,6 +15780,13 @@
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29598</idno>
                </org>
+               <org xml:id="pmb63039">
+                  <tei:orgName>Vereinigung Jüdischer Hochschüler in Österreich</tei:orgName>
+                  <tei:desc>
+                     <tei:date when-custom="-">-</tei:date>
+                  </tei:desc>
+                  <idno type="gnd">https://d-nb.info/gnd/409030-5/</idno>
+               </org>
                <org xml:id="pmb61421">
                   <tei:orgName>Verein Naturschutzpark</tei:orgName>
                   <tei:desc>
@@ -15451,8 +15828,26 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb63963">
+                  <tei:orgName>Verlag "Die Aktion"</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb593">
+                     <tei:placeName>Wilmersdorf</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.48333 13.31667</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb53508">
                   <tei:orgName>Verlag der Arbeiter-Zeitung Dr. Adler-Emmerling</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+               </org>
+               <org xml:id="pmb63923">
+                  <tei:orgName>Verlag der Hamburger Nachrichten</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i975">Verlag</tei:gloss>
                   </tei:desc>
@@ -15694,6 +16089,35 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb63157">
+                  <tei:orgName>Volksoper Wien</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1904-01-01"
+                               from-custom="1904"
+                               to="1929-01-01"
+                               to-custom="1929">1904–1929</tei:date>
+                     <tei:gloss ana="i1479">Oper</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb59">
+                     <tei:placeName>IX., Alsergrund</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb618">
+                     <tei:placeName>Kaiserjubiläum-Stadttheater</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.224472 16.350361</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <idno type="gnd">https://d-nb.info/gnd/1212284-1/</idno>
+               </org>
                <org xml:id="pmb42042">
                   <tei:orgName>Volks-Schillerpreis</tei:orgName>
                   <tei:desc>
@@ -15757,10 +16181,20 @@
                   </tei:place>
                </org>
                <org xml:id="pmb61362">
-                  <tei:orgName>Volkszeitung</tei:orgName>
+                  <tei:orgName>Volks-Zeitung</tei:orgName>
                   <tei:desc>
+                     <tei:date from="1918-01-01"
+                               from-custom="1918"
+                               to="1944-01-01"
+                               to-custom="1944">1918–1944</tei:date>
                      <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
                   </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb29783">
                   <tei:orgName>Vorwärts</tei:orgName>
@@ -15896,6 +16330,22 @@
                   <tei:desc>
                      <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
                   </tei:desc>
+               </org>
+               <org xml:id="pmb63444">
+                  <tei:orgName>Weltausstellung 1873</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1873-05-01"
+                               from-custom="1873-05-01"
+                               to="1873-11-01"
+                               to-custom="1873-11-01">1. 5. 1873–1. 11. 1873</tei:date>
+                     <tei:gloss ana="i1127">Ausstellung</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb29318">
                   <tei:orgName>Weltausstellung 1893</tei:orgName>
@@ -16131,7 +16581,7 @@
                      </tei:location>
                   </tei:place>
                   <tei:place corresp="pmb280">
-                     <tei:placeName>Volksbühne</tei:placeName>
+                     <tei:placeName>Renaissancetheater</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.201139 16.349222</tei:geo>
                      </tei:location>

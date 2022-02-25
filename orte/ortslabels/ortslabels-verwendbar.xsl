@@ -34,7 +34,7 @@
                         <xsl:text>Land</xsl:text>
                     </xsl:when>
                     <xsl:when test="ends-with(., '#P.PPLA')">
-                        <xsl:text>Land</xsl:text>
+                        <xsl:text>Besiedelter Ort</xsl:text>
                     </xsl:when>
                     <xsl:when test="ends-with(., '#P.PPL')">
                         <xsl:text>Besiedelter Ort</xsl:text>
@@ -73,7 +73,7 @@
                         <xsl:text>Gegend</xsl:text>
                     </xsl:when>
                     <xsl:when test="ends-with(., '#L.RGN')">
-                        <xsl:text>Landschaft</xsl:text>
+                        <xsl:text>Region</xsl:text>
                     </xsl:when>
                     <xsl:when test="ends-with(., '#A.ADM3H')">
                         <xsl:text>Ehemaliger Ort</xsl:text>

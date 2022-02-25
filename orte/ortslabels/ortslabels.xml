@@ -453,7 +453,7 @@
    <item>
       <ID>1124</ID>
       <pmb-type>http://www.geonames.org/ontology#A.ADM3</pmb-type>
-      <label-type>Besiedelter Ort</label-type>
+      <label-type>Ort</label-type>
    </item>
    <item>
       <ID>1128</ID>
@@ -563,7 +563,7 @@
    <item>
       <ID>1434</ID>
       <pmb-type>https://www.geonames.org/ontology#A.ADM3</pmb-type>
-      <label-type>Besiedelter Ort</label-type>
+      <label-type>Ort</label-type>
    </item>
    <item>
       <ID>1480</ID>
@@ -573,7 +573,7 @@
    <item>
       <ID>1481</ID>
       <pmb-type>https://www.geonames.org/ontology#A.PCLS</pmb-type>
-      <label-type>Besiedelter Ort</label-type>
+      <label-type>Ort</label-type>
    </item>
    <item>
       <ID>1483</ID>
@@ -663,7 +663,7 @@
    <item>
       <ID>1585</ID>
       <pmb-type>https://www.geonames.org/ontology#A.PCL</pmb-type>
-      <label-type>Besiedelter Ort</label-type>
+      <label-type>Ort</label-type>
    </item>
    <item>
       <ID>1586</ID>

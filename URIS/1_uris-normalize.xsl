@@ -179,11 +179,28 @@
                     </xsl:element>
                 </xsl:element>
             </xsl:for-each>
+            
             <xsl:for-each select="item[starts-with(URL/.,'https://bahrschnitzler.acdh.oeaw.ac.at/')]">
                 <xsl:element name="item">
                     <xsl:element name="URL">
                         <xsl:attribute name="type">
                             <xsl:text>bahrschnitzler</xsl:text>
+                        </xsl:attribute>
+                        <xsl:value-of select="URL"/>
+                    </xsl:element>
+                    <xsl:element name="Entity_ID">
+                        <xsl:value-of select="Entity_ID"/>
+                    </xsl:element>
+                    <xsl:element name="Entity">
+                        <xsl:value-of select="Entity"/>
+                    </xsl:element>
+                </xsl:element>
+            </xsl:for-each>
+            <xsl:for-each select="item[starts-with(URL/.,'https://schnitzler-lektueren')]">
+                <xsl:element name="item">
+                    <xsl:element name="URL">
+                        <xsl:attribute name="type">
+                            <xsl:text>schnitzler-lektueren</xsl:text>
                         </xsl:attribute>
                         <xsl:value-of select="URL"/>
                     </xsl:element>

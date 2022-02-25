@@ -27,7 +27,7 @@
 <item>
 <personID>11617</personID>
 <workID>29827</workID>
-<workName>Die Weber</workName>
+<workName>Die Weber. Schauspiel aus den vierziger Jahren</workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
@@ -1923,8 +1923,8 @@
 <item>
 <personID>2357</personID>
 <workID>30470</workID>
-<workName>»Elskovsleg«s Forfatter</workName>
-<relation_type>1051</relation_type>
+<workName>Arthur Schnitzler. »Elskovsleg«s Forfatter</workName>
+<relation_type>1587</relation_type>
 </item>
 <item>
 <personID>10815</personID>
@@ -2954,9 +2954,9 @@
 </item>
 <item>
 <personID>3210</personID>
-<workID>30923</workID>
+<workID>30921</workID>
 <workName>Der verlorene Sohn</workName>
-<relation_type>1049</relation_type>
+<relation_type>1217</relation_type>
 </item>
 <item>
 <personID>10806</personID>
@@ -4114,7 +4114,7 @@
 <personID>21891</personID>
 <workID>31311</workID>
 <workName>Liebelei. Oper in drei Akten</workName>
-<relation_type>1049</relation_type>
+<relation_type>1217</relation_type>
 </item>
 <item>
 <personID>27903</personID>
@@ -4125,7 +4125,7 @@
 <item>
 <personID>11617</personID>
 <workID>31317</workID>
-<workName>Rose Bernd</workName>
+<workName>Rose Bernd. Schauspiel in fünf Akten</workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
@@ -5491,7 +5491,7 @@
 <relation_type>1049</relation_type>
 </item>
 <item>
-<personID>28467</personID>
+<personID>13467</personID>
 <workID>31781</workID>
 <workName>Der goldene Esel</workName>
 <relation_type>1049</relation_type>
@@ -5577,7 +5577,7 @@
 <item>
 <personID>11941</personID>
 <workID>31809</workID>
-<workName>Die Wahrheit/Nuda veritas</workName>
+<workName>Nuda veritas</workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
@@ -7131,7 +7131,7 @@
 <item>
 <personID>2337</personID>
 <workID>32356</workID>
-<workName>Gebildete Menschen</workName>
+<workName>Gebildete Menschen. Zeitbild in drei Acten</workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
@@ -8708,7 +8708,7 @@
 </item>
 <item>
 <personID>29018</personID>
-<workID>32925</workID>
+<workID>32923</workID>
 <workName>Am Telephon</workName>
 <relation_type>1049</relation_type>
 </item>
@@ -8721,8 +8721,8 @@
 <item>
 <personID>12501</personID>
 <workID>32929</workID>
-<workName>Das süße Mädel</workName>
-<relation_type>1049</relation_type>
+<workName>Das süße Mädel. Operette in drei Akten</workName>
+<relation_type>1217</relation_type>
 </item>
 <item>
 <personID>12365</personID>
@@ -8733,13 +8733,13 @@
 <item>
 <personID>14328</personID>
 <workID>32933</workID>
-<workName>Im weißen Rössel</workName>
+<workName>Im weißen Rößl</workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
 <personID>11845</personID>
-<workID>32935</workID>
-<workName>Im weißen Rössel</workName>
+<workID>32933</workID>
+<workName>Im weißen Rößl</workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
@@ -8857,18 +8857,6 @@
 <relation_type>1049</relation_type>
 </item>
 <item>
-<personID>29030</personID>
-<workID>32975</workID>
-<workName>Die Statue des Kommandeurs</workName>
-<relation_type>1049</relation_type>
-</item>
-<item>
-<personID>29035</personID>
-<workID>32977</workID>
-<workName>Die Statue des Kommandeurs</workName>
-<relation_type>1049</relation_type>
-</item>
-<item>
 <personID>27150</personID>
 <workID>32981</workID>
 <workName>Bei Artur Schnitzler</workName>
@@ -8931,8 +8919,8 @@
 <item>
 <personID>13791</personID>
 <workID>33009</workID>
-<workName>Ein Besuch bei Artur Schnitzler</workName>
-<relation_type>1049</relation_type>
+<workName>Wiener Theatergeschichten XIV. Ein Besuch bei Artur Schnitzler</workName>
+<relation_type>1050</relation_type>
 </item>
 <item>
 <personID>29023</personID>
@@ -9051,7 +9039,7 @@
 <item>
 <personID>11904</personID>
 <workID>33051</workID>
-<workName>Herzls Lehrjahre</workName>
+<workName>Theodor Herzls Lehrjahre</workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
@@ -9147,7 +9135,7 @@
 <item>
 <personID>18308</personID>
 <workID>33083</workID>
-<workName>Lumpen</workName>
+<workName>Die Lumpen. Komödie in drei Acten</workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
@@ -10298,8 +10286,8 @@
 </item>
 <item>
 <personID>2456</personID>
-<workID>33500</workID>
-<workName>Widmungen zur Feier des siebzigsten Geburtstages Ferdinand von Saar’s</workName>
+<workID>50519</workID>
+<workName>Widmungen zur Feier des siebzigsten Geburtstages Ferdinand von Saar’s.</workName>
 <relation_type>1053</relation_type>
 </item>
 <item>
@@ -11187,7 +11175,7 @@
 <item>
 <personID>2121</personID>
 <workID>33822</workID>
-<workName>Frühlingsnacht im Seziersaal</workName>
+<workName>Frühlingsnacht im Seziersaal. Phantasie</workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
@@ -12513,7 +12501,7 @@
 <item>
 <personID>2121</personID>
 <workID>36067</workID>
-<workName>Собрание сочинений  [Gesammelte Werke]</workName>
+<workName>Sobraniye sochineniy  [Gesammelte Werke]</workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
@@ -15257,12 +15245,6 @@
 <workID>50519</workID>
 <workName>Widmungen zur Feier des siebzigsten Geburtstages Ferdinand von Saar’s.</workName>
 <relation_type>1048</relation_type>
-</item>
-<item>
-<personID>2456</personID>
-<workID>50519</workID>
-<workName>Widmungen zur Feier des siebzigsten Geburtstages Ferdinand von Saar’s.</workName>
-<relation_type>1053</relation_type>
 </item>
 <item>
 <personID>12769</personID>
@@ -20579,6 +20561,858 @@
 <workID>31771</workID>
 <workName>Ein Ehrenbeleidigungsproceß</workName>
 <relation_type>1048</relation_type>
+</item>
+<item>
+<personID>29090</personID>
+<workID>56541</workID>
+<workName>The Runaway Countess</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>62662</workID>
+<workName>[Zu Gerhart Hauptmanns 60. Geburtstag]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11752</personID>
+<workID>62664</workID>
+<workName>Festschrift zum 60. Geburtstag Gerhart Hauptmanns</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>11617</personID>
+<workID>62664</workID>
+<workName>Festschrift zum 60. Geburtstag Gerhart Hauptmanns</workName>
+<relation_type>1048</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>62669</workID>
+<workName>Die letzten Verfügungen Artur Schnitzlers</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>62695</workID>
+<workName>Fink och Fliederbusch. Komedi i tre akter</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>20474</personID>
+<workID>62695</workID>
+<workName>Fink och Fliederbusch. Komedi i tre akter</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>62713</workID>
+<workName>Tagebuch eines Hirnwesens</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2323</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1048</relation_type>
+</item>
+<item>
+<personID>7209</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>11570</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>12170</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>11435</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>9756</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>11820</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>11205</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>8422</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>62727</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>62732</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>8740</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>6303</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>12543</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>13055</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>11187</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>62716</workID>
+<workName>Für Gorki. Glückwünsche der Freunde</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>12809</personID>
+<workID>62751</workID>
+<workName>Adolf Sonnenthal. Zu seinem fünfzigjährigen Schauspieler-Jubiläum</workName>
+<relation_type>1048</relation_type>
+</item>
+<item>
+<personID>14328</personID>
+<workID>62751</workID>
+<workName>Adolf Sonnenthal. Zu seinem fünfzigjährigen Schauspieler-Jubiläum</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>2935</personID>
+<workID>62751</workID>
+<workName>Adolf Sonnenthal. Zu seinem fünfzigjährigen Schauspieler-Jubiläum</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>11216</personID>
+<workID>62751</workID>
+<workName>Adolf Sonnenthal. Zu seinem fünfzigjährigen Schauspieler-Jubiläum</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>11391</personID>
+<workID>62751</workID>
+<workName>Adolf Sonnenthal. Zu seinem fünfzigjährigen Schauspieler-Jubiläum</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>7496</personID>
+<workID>62751</workID>
+<workName>Adolf Sonnenthal. Zu seinem fünfzigjährigen Schauspieler-Jubiläum</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>4064</personID>
+<workID>62751</workID>
+<workName>Adolf Sonnenthal. Zu seinem fünfzigjährigen Schauspieler-Jubiläum</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>11701</personID>
+<workID>62751</workID>
+<workName>Adolf Sonnenthal. Zu seinem fünfzigjährigen Schauspieler-Jubiläum</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>11740</personID>
+<workID>62751</workID>
+<workName>Adolf Sonnenthal. Zu seinem fünfzigjährigen Schauspieler-Jubiläum</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>12078</personID>
+<workID>62751</workID>
+<workName>Adolf Sonnenthal. Zu seinem fünfzigjährigen Schauspieler-Jubiläum</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>2570</personID>
+<workID>62751</workID>
+<workName>Adolf Sonnenthal. Zu seinem fünfzigjährigen Schauspieler-Jubiläum</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>12674</personID>
+<workID>62751</workID>
+<workName>Adolf Sonnenthal. Zu seinem fünfzigjährigen Schauspieler-Jubiläum</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>62751</workID>
+<workName>Adolf Sonnenthal. Zu seinem fünfzigjährigen Schauspieler-Jubiläum</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>12974</personID>
+<workID>62751</workID>
+<workName>Adolf Sonnenthal. Zu seinem fünfzigjährigen Schauspieler-Jubiläum</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>11113</personID>
+<workID>62768</workID>
+<workName>Halten Sie die Schaffung der Vereinigten Staaten von Europa für notwendig? Halten Sie das Zustandekommen der Vereinigten Staaten von Europa für möglich?</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>62768</workID>
+<workName>Halten Sie die Schaffung der Vereinigten Staaten von Europa für notwendig? Halten Sie das Zustandekommen der Vereinigten Staaten von Europa für möglich?</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>11237</personID>
+<workID>62768</workID>
+<workName>Halten Sie die Schaffung der Vereinigten Staaten von Europa für notwendig? Halten Sie das Zustandekommen der Vereinigten Staaten von Europa für möglich?</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>11113</personID>
+<workID>62772</workID>
+<workName>Paneuropa</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>2823</personID>
+<workID>62775</workID>
+<workName>Mein Leopold</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>62810</workID>
+<workName>Bleibt unverwirrt</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>23605</personID>
+<workID>62815</workID>
+<workName>[Brief von Moritz Rosenthal an Das Kleine Journal]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>62826</personID>
+<workID>62825</workID>
+<workName>"Die Tragödie Deutschlands". Von einem Deutschen</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11381</personID>
+<workID>62830</workID>
+<workName>Kriegstagebuch [Alfred H. Fried]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>62852</personID>
+<workID>62854</workID>
+<workName>Der Triumph des Thersites</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>62858</personID>
+<workID>62857</workID>
+<workName>Die Abenteuer des braven Soldaten Schwejk</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>62865</personID>
+<workID>62863</workID>
+<workName>Reisebücher deutscher Schriftsteller</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>62868</workID>
+<workName>Yankee-Land. Eine Reise</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>37800</personID>
+<workID>62873</workID>
+<workName>Über die Wiener Küche.</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>62878</workID>
+<workName>Berliner Briefe [26.09.1897]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39101</personID>
+<workID>62911</workID>
+<workName>Die Weisheit des Brahmanen</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11910</personID>
+<workID>62920</workID>
+<workName>Eulenspiegel</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>24203</personID>
+<workID>57974</workID>
+<workName>Hos Österrikes mest framstående dramatiska författare</workName>
+<relation_type>1051</relation_type>
+</item>
+<item>
+<personID>3162</personID>
+<workID>58646</workID>
+<workName>Volks-Zeitung</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>2577</personID>
+<workID>32929</workID>
+<workName>Das süße Mädel. Operette in drei Akten</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>25372</personID>
+<workID>32929</workID>
+<workName>Das süße Mädel. Operette in drei Akten</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63044</workID>
+<workName>Vom jungen Herzl. (Ein Brief aus dem Jahre 1892*)</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63041</workID>
+<workName>Paralimpomena zu »Der Weg ins Freie«</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11673</personID>
+<workID>63044</workID>
+<workName>Vom jungen Herzl. (Ein Brief aus dem Jahre 1892*)</workName>
+<relation_type>1048</relation_type>
+</item>
+<item>
+<personID>11673</personID>
+<workID>63060</workID>
+<workName>Die causa Hirschkorn. Lustspiel in einem Act</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11673</personID>
+<workID>63062</workID>
+<workName>Tabarin. Schauspiel in einem Act. Frei nach Catulle Mendès</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11673</personID>
+<workID>63065</workID>
+<workName>Buch der Narrheit</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11673</personID>
+<workID>63070</workID>
+<workName>Neues von der Venus</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11673</personID>
+<workID>63073</workID>
+<workName>Der Flüchtling. Lustspiel in einem Aufzug</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11673</personID>
+<workID>63083</workID>
+<workName>Die Enttäuschten. Komödie in vier Acten</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2815</personID>
+<workID>63090</workID>
+<workName>Der Schierling. Lustspiel in 2 Akten</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>63093</personID>
+<workID>63090</workID>
+<workName>Der Schierling. Lustspiel in 2 Akten</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>11691</personID>
+<workID>63098</workID>
+<workName>Im Bunde der Dritte. Charakterbild in einem Akt</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>13791</personID>
+<workID>63131</workID>
+<workName>[Verkaufszahlen von Der junge Medardus]</workName>
+<relation_type>1050</relation_type>
+</item>
+<item>
+<personID>13791</personID>
+<workID>63134</workID>
+<workName>Wiener Theatergeschichten</workName>
+<relation_type>1050</relation_type>
+</item>
+<item>
+<personID>13791</personID>
+<workID>41484</workID>
+<workName>Illustriertes Wiener Extrablatt</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>2150</personID>
+<workID>41484</workID>
+<workName>Illustriertes Wiener Extrablatt</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>18308</personID>
+<workID>63146</workID>
+<workName>Komödie der Irrungen</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>63164</personID>
+<workID>63168</workID>
+<workName>Novelle vom dicken Zimmermann</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63170</workID>
+<workName>Kundgebungen für das Andenken Moriz Benedikts</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>11740</personID>
+<workID>63170</workID>
+<workName>Kundgebungen für das Andenken Moriz Benedikts</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>10875</personID>
+<workID>63170</workID>
+<workName>Kundgebungen für das Andenken Moriz Benedikts</workName>
+<relation_type>1048</relation_type>
+</item>
+<item>
+<personID>10875</personID>
+<workID>36374</workID>
+<workName>Neue Freie Presse</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>10872</personID>
+<workID>36374</workID>
+<workName>Neue Freie Presse</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63177</workID>
+<workName>Briefe von Adolf Sonnenthal</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>12809</personID>
+<workID>63177</workID>
+<workName>Briefe von Adolf Sonnenthal</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>4884</personID>
+<workID>63177</workID>
+<workName>Briefe von Adolf Sonnenthal</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>5208</personID>
+<workID>63181</workID>
+<workName>Der Meister von Palmyra. Dramatische Dichtung in fünf Aufzügen</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>4412</personID>
+<workID>63183</workID>
+<workName>Schnitzler and the Military Censorship. Unpublished Correspondence</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>13791</personID>
+<workID>63193</workID>
+<workName>[Mein erster Durchfall]</workName>
+<relation_type>1050</relation_type>
+</item>
+<item>
+<personID>2150</personID>
+<workID>63193</workID>
+<workName>[Mein erster Durchfall]</workName>
+<relation_type>1050</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63193</workID>
+<workName>[Mein erster Durchfall]</workName>
+<relation_type>1048</relation_type>
+</item>
+<item>
+<personID>63199</personID>
+<workID>63201</workID>
+<workName>Der geistige Arbeiter. Deutsche Urheber-Zeitung</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>63225</personID>
+<workID>63231</workID>
+<workName>Filmhölle</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>11988</personID>
+<workID>63240</workID>
+<workName>Literatur und Lüge</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>38969</personID>
+<workID>63251</workID>
+<workName>Ludwig Börne oder: die Überwindung des Judentums</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63301</workID>
+<workName>Ein bisher unveröffentlichter Brief Schnitzlers</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>63206</personID>
+<workID>63301</workID>
+<workName>Ein bisher unveröffentlichter Brief Schnitzlers</workName>
+<relation_type>1048</relation_type>
+</item>
+<item>
+<personID>12163</personID>
+<workID>63305</workID>
+<workName>Gustav Mahler †</workName>
+<relation_type>1048</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63305</workID>
+<workName>Gustav Mahler †</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>11740</personID>
+<workID>63305</workID>
+<workName>Gustav Mahler †</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63310</workID>
+<workName>[Kondolenz zum Tod von Gustav Mahler]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2173</personID>
+<workID>63310</workID>
+<workName>[Kondolenz zum Tod von Gustav Mahler]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63314</workID>
+<workName>Thérèse. Chronique de la vie d'une femme.</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>15015</personID>
+<workID>63314</workID>
+<workName>Thérèse. Chronique de la vie d'une femme.</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>20783</personID>
+<workID>63318</workID>
+<workName>Arthur Schnitzler</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>18952</personID>
+<workID>32806</workID>
+<workName>Liebelei (Film, 1927)</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>8217</personID>
+<workID>32806</workID>
+<workName>Liebelei (Film, 1927)</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63342</workID>
+<workName>Beatrice. A Novel</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>18742</personID>
+<workID>63342</workID>
+<workName>Beatrice. A Novel</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>58102</personID>
+<workID>63383</workID>
+<workName>Abbau des Rassen- und Klassenhasses. Schaffet ein internationales Schulamt</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>63413</personID>
+<workID>32975</workID>
+<workName>Die Statue des Kommandeurs. Pantomime in 3 Akten</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63430</workID>
+<workName>Comedies of Words and Other Plays</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>20624</personID>
+<workID>63430</workID>
+<workName>Comedies of Words and Other Plays</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63434</workID>
+<workName>Crumbled Blossoms</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>20624</personID>
+<workID>63434</workID>
+<workName>Crumbled Blossoms</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63439</workID>
+<workName>The Greek Dancer</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>20624</personID>
+<workID>63439</workID>
+<workName>The Greek Dancer</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>12906</personID>
+<workID>63487</workID>
+<workName>Die Waffen nieder!</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>38973</personID>
+<workID>63515</workID>
+<workName>Die Wupper</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>17169</personID>
+<workID>63526</workID>
+<workName>Die Tragödie des Triumphes</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11988</personID>
+<workID>63541</workID>
+<workName>Ö. G. Z. B. D. G.</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11308</personID>
+<workID>63547</workID>
+<workName>Aus dem Reich der Schminke und der Tinte. Aphorismen und Karikaturen</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63547</workID>
+<workName>Aus dem Reich der Schminke und der Tinte. Aphorismen und Karikaturen</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>10815</personID>
+<workID>63547</workID>
+<workName>Aus dem Reich der Schminke und der Tinte. Aphorismen und Karikaturen</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>10788</personID>
+<workID>63547</workID>
+<workName>Aus dem Reich der Schminke und der Tinte. Aphorismen und Karikaturen</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>18489</personID>
+<workID>63547</workID>
+<workName>Aus dem Reich der Schminke und der Tinte. Aphorismen und Karikaturen</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>11848</personID>
+<workID>63547</workID>
+<workName>Aus dem Reich der Schminke und der Tinte. Aphorismen und Karikaturen</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>9706</personID>
+<workID>63547</workID>
+<workName>Aus dem Reich der Schminke und der Tinte. Aphorismen und Karikaturen</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>12671</personID>
+<workID>63547</workID>
+<workName>Aus dem Reich der Schminke und der Tinte. Aphorismen und Karikaturen</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>21733</personID>
+<workID>63547</workID>
+<workName>Aus dem Reich der Schminke und der Tinte. Aphorismen und Karikaturen</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>63579</personID>
+<workID>63583</workID>
+<workName>Briefe an Auguste Hauschner</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>2524</personID>
+<workID>63583</workID>
+<workName>Briefe an Auguste Hauschner</workName>
+<relation_type>1048</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63583</workID>
+<workName>Briefe an Auguste Hauschner</workName>
+<relation_type>1224</relation_type>
+</item>
+<item>
+<personID>37872</personID>
+<workID>63583</workID>
+<workName>Briefe an Auguste Hauschner</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63589</workID>
+<workName>[Brief an Auguste Hauschner, 23.1.1909]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2524</personID>
+<workID>63589</workID>
+<workName>[Brief an Auguste Hauschner, 23.1.1909]</workName>
+<relation_type>1048</relation_type>
+</item>
+<item>
+<personID>19288</personID>
+<workID>63600</workID>
+<workName>Sodom und Gomorrha. Die Legende von Sünde und Strafe</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63602</workID>
+<workName>Elskovsleg. Skuespil i 3 akter</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>58998</personID>
+<workID>63602</workID>
+<workName>Elskovsleg. Skuespil i 3 akter</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>63606</personID>
+<workID>63602</workID>
+<workName>Elskovsleg. Skuespil i 3 akter</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>63610</workID>
+<workName>Anatol. Fem enaktere</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2357</personID>
+<workID>63610</workID>
+<workName>Anatol. Fem enaktere</workName>
+<relation_type>1052</relation_type>
 </item>
 <item>
 <personID></personID>
