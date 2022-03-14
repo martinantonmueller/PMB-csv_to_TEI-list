@@ -12202,7 +12202,7 @@
 <personID>12790</personID>
 <workID>35935</workID>
 <workName>Die Zeit</workName>
-<relation_type>1048</relation_type>
+<relation_type>1053</relation_type>
 </item>
 <item>
 <personID>2121</personID>
@@ -16287,13 +16287,13 @@
 <item>
 <personID>55848</personID>
 <workID>55886</workID>
-<workName>Karl Kraus: "Die Unüberwindlichen"</workName>
+<workName>Karl Kraus: „Die Unüberwindlichen“</workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
 <personID>11988</personID>
 <workID>55886</workID>
-<workName>Karl Kraus: "Die Unüberwindlichen"</workName>
+<workName>Karl Kraus: „Die Unüberwindlichen“</workName>
 <relation_type>1048</relation_type>
 </item>
 <item>
@@ -18879,13 +18879,13 @@
 <item>
 <personID>2121</personID>
 <workID>60863</workID>
-<workName>[Zeilen über Čechov]</workName>
+<workName>Tschechow</workName>
 <relation_type>1049</relation_type>
 </item>
 <item>
 <personID>3603</personID>
 <workID>60863</workID>
-<workName>[Zeilen über Čechov]</workName>
+<workName>Tschechow</workName>
 <relation_type>1048</relation_type>
 </item>
 <item>
@@ -21413,6 +21413,324 @@
 <workID>63610</workID>
 <workName>Anatol. Fem enaktere</workName>
 <relation_type>1052</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63650</workID>
+<workName>Das Jubiläums-Arbeiter-Symphoniekonzert.</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>63677</personID>
+<workID>63676</workID>
+<workName>Recht und Staat im neuen Deutschland. Vorlesungen gehalten in der Deutschen Vereinigung für staatswissenschaftliche Fortbildung</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63838</workID>
+<workName>Die neue Stadt</workName>
+<relation_type>1217</relation_type>
+</item>
+<item>
+<personID>12790</personID>
+<workID>36340</workID>
+<workName>Die Zeit. Wiener Wochenschrift</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>11867</personID>
+<workID>36340</workID>
+<workName>Die Zeit. Wiener Wochenschrift</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>10815</personID>
+<workID>36340</workID>
+<workName>Die Zeit. Wiener Wochenschrift</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>11527</personID>
+<workID>63864</workID>
+<workName>Die beiden Adler</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>7875</personID>
+<workID>63868</workID>
+<workName>Jahrbuch für sexuelle Zwischenstufen mit besonderer Berücksichtigung der Homosexualität</workName>
+<relation_type>1053</relation_type>
+</item>
+<item>
+<personID>55048</personID>
+<workID>63872</workID>
+<workName>Das Gut Waldegg</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63880</workID>
+<workName>Internationales Musikfest in Lüttich.</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>13007</personID>
+<workID>63885</workID>
+<workName>Simon Boccanegra</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63889</workID>
+<workName>Verdis ‚Simone Boccanegra‘ in der Wiener Staatsoper. Uraufführung der Werfelschen Neufassung.</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63894</workID>
+<workName>Wiener Theater (19.02.1930)</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63899</workID>
+<workName>Wiener Premieren (20.03.1930)</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63908</workID>
+<workName>Theaterkarneval in Wien.</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63913</workID>
+<workName>Wiener Lustspielpremieren (17.01.1930)</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63918</workID>
+<workName>Wiener Premieren (29.01.1930)</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63927</workID>
+<workName>Wiener Premieren (26.02.1930)</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63932</workID>
+<workName>Uraufführung einer neuen Sinfonie in Wien</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63936</workID>
+<workName>Wiener Theaterbrief</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63942</workID>
+<workName>Wiener Premierenhochflut</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63947</workID>
+<workName>Eine nachgelassene Janaček-Oper.</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63952</workID>
+<workName>Neues Theater in Wien.</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>63957</workID>
+<workName>Wiener Osterpremieren.</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>26198</personID>
+<workID>63966</workID>
+<workName>Die permanente Revolution</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>25105</personID>
+<workID>64023</workID>
+<workName>Nichts als Brot und Freiheit</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>64028</personID>
+<workID>64027</workID>
+<workName>Arbeitersang. Neue Arbeiterchöre</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>64028</personID>
+<workID>64032</workID>
+<workName>Arbeitersang. Chorkonzerte</workName>
+<relation_type>1335</relation_type>
+</item>
+<item>
+<personID>10815</personID>
+<workID>64048</workID>
+<workName>15. Juni [1919]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>64061</workID>
+<workName>Neobozrimoe pole</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>26937</personID>
+<workID>64061</workID>
+<workName>Neobozrimoe pole</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>64068</workID>
+<workName>Obširnaja strana</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>64067</personID>
+<workID>64068</workID>
+<workName>Obširnaja strana</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>64077</workID>
+<workName>Obširnaja strana [II]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>64083</personID>
+<workID>64077</workID>
+<workName>Obširnaja strana [II]</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>64085</personID>
+<workID>64077</workID>
+<workName>Obširnaja strana [II]</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>64114</workID>
+<workName>[Der Ruf des Lebens, russisch]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2992</personID>
+<workID>64114</workID>
+<workName>[Der Ruf des Lebens, russisch]</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>64123</workID>
+<workName>[Der einsame Weg, russisch]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2992</personID>
+<workID>64123</workID>
+<workName>[Der einsame Weg, russisch]</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>64127</workID>
+<workName>[Der einsame Weg, russisch II]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>15214</personID>
+<workID>64127</workID>
+<workName>[Der einsame Weg, russisch II]</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>64131</workID>
+<workName>[Das Schicksal des Freiherrn von Leisenbohg, russisch]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2992</personID>
+<workID>64131</workID>
+<workName>[Das Schicksal des Freiherrn von Leisenbohg, russisch]</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>2121</personID>
+<workID>64136</workID>
+<workName>[Zwischenspiel, russisch]</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2992</personID>
+<workID>64136</workID>
+<workName>[Zwischenspiel, russisch]</workName>
+<relation_type>1052</relation_type>
+</item>
+<item>
+<personID>39325</personID>
+<workID>64525</workID>
+<workName>Schönberg-Uraufführungen in Wien.</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>38100</personID>
+<workID>64528</workID>
+<workName>Auf den Straßen zu singen</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>65142</personID>
+<workID>63838</workID>
+<workName>Die neue Stadt</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>11212</personID>
+<workID>65202</workID>
+<workName>Romane und Novellen</workName>
+<relation_type>1587</relation_type>
+</item>
+<item>
+<personID>38100</personID>
+<workID>65229</workID>
+<workName>Naturbetrachtung</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2524</personID>
+<workID>65249</workID>
+<workName>Die Familie Lowositz. Roman</workName>
+<relation_type>1049</relation_type>
+</item>
+<item>
+<personID>2524</personID>
+<workID>65252</workID>
+<workName>Rudolf und Camilla. Roman</workName>
+<relation_type>1049</relation_type>
 </item>
 <item>
 <personID></personID>
