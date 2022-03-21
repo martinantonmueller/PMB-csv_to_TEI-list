@@ -10,13 +10,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_5435	pmb13068		
 1049	http://schnitzler-werkimport/work_5437	pmb13068		
 1049	http://schnitzler-werkimport/work_1362	pmb10815		
-1049	http://schnitzler-werkimport/D22_n1_w2	pmb10815		
-1049	http://schnitzler-werkimport/D22_n1_w8	pmb10815		
-1049	http://schnitzler-werkimport/work_1368	pmb10815		
-1049	http://schnitzler-werkimport/work_1382	pmb10815		
-1049	http://schnitzler-werkimport/work_1387	pmb10815		
-1049	http://schnitzler-werkimport/work_1391	pmb10815		
-1049	http://schnitzler-werkimport/work_1398	pmb10815		
 1049	http://schnitzler-werkimport/work_3137	pmb11740		
 1049	http://schnitzler-werkimport/work_3138	pmb11740		
 1049	http://schnitzler-werkimport/work_3140	pmb11740		
@@ -31,7 +24,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_3161	pmb11740		
 1049	http://schnitzler-werkimport/work_3158	pmb11740		
 1049	http://schnitzler-werkimport/work_3150	pmb11740		
-1049	http://schnitzler-werkimport/work_3151	pmb11740		
 1049	http://schnitzler-werkimport/work_3153	pmb11740		
 1049	http://schnitzler-werkimport/work_3159	pmb11740		
 1049	http://schnitzler-werkimport/work_3160	pmb11740		
@@ -82,39 +74,10 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_2098	pmb2207		
 1049	http://schnitzler-werkimport/work_2097	pmb2207		
 1049	http://schnitzler-werkimport/work_2097	pmb3354		
-1049	http://schnitzler-werkimport/D7_n1_w4	pmb2147		
 1049	http://schnitzler-werkimport/D7_n1_w3	pmb2147		
-1049	http://schnitzler-werkimport/work_29935	pmb2121		
 1049	http://schnitzler-werkimport/work_35764	pmb2121		
-1049	http://schnitzler-werkimport/work_33205	pmb2121		
-1049	http://schnitzler-werkimport/work_30615	pmb2121		
-1049	http://schnitzler-werkimport/work_32157	pmb2121		
-1049	http://schnitzler-werkimport/work_30257	pmb2121		
-1049	http://schnitzler-werkimport/work_35786	pmb2121		
-1049	http://schnitzler-werkimport/work_30486	pmb2121		
-1049	http://schnitzler-werkimport/work_29899	pmb2121		
-1049	http://schnitzler-werkimport/work_30811	pmb2121		
 1049	http://schnitzler-werkimport/work_36095	pmb2121		
-1049	http://schnitzler-werkimport/work_35833	pmb2121		
-1049	http://schnitzler-werkimport/work_35505	pmb2121		
-1049	http://schnitzler-werkimport/work_30073	pmb2121		
-1049	http://schnitzler-werkimport/work_33688	pmb2121		
-1049	http://schnitzler-werkimport/work_30389	pmb2121		
-1049	http://schnitzler-werkimport/work_36065	pmb2121		
-1049	http://schnitzler-werkimport/work_35673	pmb2121		
-1049	http://schnitzler-werkimport/work_30277	pmb2121		
-1049	http://schnitzler-werkimport/work_29855	pmb2121		
-1049	http://schnitzler-werkimport/work_36071	pmb2121		
-1049	http://schnitzler-werkimport/work_30117	pmb2121		
-1049	http://schnitzler-werkimport/work_33868	pmb2121		
 1049	http://schnitzler-werkimport/work_35767	pmb2121		
-1049	http://schnitzler-werkimport/work_32808	pmb2121		
-1049	http://schnitzler-werkimport/work_33870	pmb2121		
-1049	http://schnitzler-werkimport/work_35751	pmb2121		
-1049	http://schnitzler-werkimport/work_35757	pmb2121		
-1049	http://schnitzler-werkimport/work_36012	pmb2121		
-1049	http://schnitzler-werkimport/work_36061	pmb2121		
-1049	http://schnitzler-werkimport/work_33874	pmb2121		
 1049	http://schnitzler-werkimport/work_1446	pmb2150		
 1049	http://schnitzler-werkimport/work_1446	pmb22247		
 1049	http://schnitzler-werkimport/work_5292	pmb26411		
@@ -362,9 +325,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_5618	pmb13212		
 1049	http://schnitzler-werkimport/work_5620	pmb13212		
 1049	http://schnitzler-werkimport/work_5621	pmb13212		
-1049	http://schnitzler-werkimport/work_2190	pmb11187		
-1049	http://schnitzler-werkimport/work_2190	pmb2323		
-1049	http://schnitzler-werkimport/work_2190	pmb13212		
 1049	http://schnitzler-werkimport/work_5625	pmb13212		
 1049	http://schnitzler-werkimport/work_5626	pmb13212		
 1049	http://schnitzler-werkimport/work_3977	pmb3272		
@@ -420,13 +380,9 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/D63_n1_w2_t1	pmb10992		
 1049	http://schnitzler-werkimport/D63_n1_w2_o1	pmb10992		
 1049	http://schnitzler-werkimport/work_1790	pmb10992		
-1049	http://schnitzler-werkimport/work_4914	pmb2693		
-1049	http://schnitzler-werkimport/work_4915	pmb2693		
 1049	http://schnitzler-werkimport/work_4821	pmb2412		
 1049	http://schnitzler-werkimport/work_4844	pmb2412		
 1049	http://schnitzler-werkimport/work_4841	pmb2412		
-1049	http://schnitzler-werkimport/work_4825	pmb2412		
-1049	http://schnitzler-werkimport/work_4835	pmb2412		
 1049	http://schnitzler-werkimport/work_4836	pmb2412		
 1049	http://schnitzler-werkimport/work_4839	pmb2412		
 1049	http://schnitzler-werkimport/work_4829	pmb2412		
@@ -445,7 +401,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_5045	pmb12870		
 1049	http://schnitzler-werkimport/work_5046	pmb12870		
 1049	http://schnitzler-werkimport/work_5040	pmb12870		
-1049	http://schnitzler-werkimport/work_5047	pmb12870		
 1049	http://schnitzler-werkimport/work_5048	pmb12870		
 1049	http://schnitzler-werkimport/work_5051	pmb12870		
 1049	http://schnitzler-werkimport/work_5052	pmb12870		
@@ -526,7 +481,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_2567	pmb2771		
 1049	http://schnitzler-werkimport/work_2563	pmb2771		
 1049	http://schnitzler-werkimport/work_2566	pmb2771		
-1049	http://schnitzler-werkimport/work_2564	pmb2771		
 1049	http://schnitzler-werkimport/work_2945	pmb11617		
 1049	http://schnitzler-werkimport/work_2946	pmb11617		
 1049	http://schnitzler-werkimport/work_2949	pmb11617		
@@ -1007,7 +961,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_4005	pmb12293		
 1049	http://schnitzler-werkimport/work_2196	pmb15512		
 1049	http://schnitzler-werkimport/work_2195	pmb15512		
-1049	http://schnitzler-werkimport/work_2199	pmb15512		
 1049	http://schnitzler-werkimport/R29_n1_w6_t1	pmb3739		
 1049	http://schnitzler-werkimport/R29_n1_w6_o1	pmb3739		
 1049	http://schnitzler-werkimport/work_5188	pmb3739		
@@ -1123,8 +1076,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_4009	pmb24702		
 1049	http://schnitzler-werkimport/work_3466	pmb8291		
 1049	http://schnitzler-werkimport/work_3466	pmb24702		
-1049	http://schnitzler-werkimport/work_3336	pmb11845		
-1049	http://schnitzler-werkimport/work_3336	pmb24702		
 1049	http://schnitzler-werkimport/work_4179	pmb12371		
 1049	http://schnitzler-werkimport/D316_n1_w5	pmb12254		
 1049	http://schnitzler-werkimport/work_3948	pmb12254		
@@ -1184,8 +1135,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_5230	pmb2540		
 1049	http://schnitzler-werkimport/work_5231	pmb2540		
 1049	http://schnitzler-werkimport/work_5232	pmb2540		
-1049	http://schnitzler-werkimport/work_2437	pmb16275		
-1049	http://schnitzler-werkimport/work_2437	pmb2601		
 1049	http://schnitzler-werkimport/work_2439	pmb16275		
 1049	http://schnitzler-werkimport/work_2439	pmb19080		
 1049	http://schnitzler-werkimport/work_3619	pmb18314		
@@ -1314,7 +1263,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_3446	pmb11933		
 1049	http://schnitzler-werkimport/work_5028	pmb12867		
 1049	http://schnitzler-werkimport/work_5029	pmb12867		
-1049	http://schnitzler-werkimport/work_5036	pmb12867		
 1049	http://schnitzler-werkimport/work_5033	pmb12867		
 1049	http://schnitzler-werkimport/work_5031	pmb12867		
 1049	http://schnitzler-werkimport/work_5034	pmb12867		
@@ -1550,7 +1498,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_3554	pmb12040		
 1049	http://schnitzler-werkimport/work_2163	pmb11168		
 1049	http://schnitzler-werkimport/work_2164	pmb11168		
-1049	http://schnitzler-werkimport/work_2165	pmb11168		
 1049	http://schnitzler-werkimport/work_2452	pmb11330		
 1049	http://schnitzler-werkimport/F50_n1_w4	pmb11330		
 1049	http://schnitzler-werkimport/work_2454	pmb11330		
@@ -1647,7 +1594,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/F19_n1_w9	pmb4026		
 1049	http://schnitzler-werkimport/F19_n1_w6	pmb4026		
 1049	http://schnitzler-werkimport/work_1819	pmb11021		
-1049	http://schnitzler-werkimport/work_3989	pmb21558		
 1049	http://schnitzler-werkimport/work_3992	pmb21558		
 1049	http://schnitzler-werkimport/work_3995	pmb21558		
 1049	http://schnitzler-werkimport/U8_n1_w1	pmb21558		
@@ -1661,7 +1607,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_2783	pmb5067		
 1049	http://schnitzler-werkimport/work_2782	pmb5067		
 1049	http://schnitzler-werkimport/work_4928	pmb2646		
-1049	http://schnitzler-werkimport/work_1453	pmb10854		
 1049	http://schnitzler-werkimport/work_1455	pmb10854		
 1049	http://schnitzler-werkimport/D24_n1_w2	pmb10854		
 1049	http://schnitzler-werkimport/work_1454	pmb10854		
@@ -1763,7 +1708,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_1670	pmb2400		
 1049	http://schnitzler-werkimport/N7_n1_w3_t1	pmb2400		
 1049	http://schnitzler-werkimport/N7_n1_w3_o1	pmb2400		
-1049	http://schnitzler-werkimport/N7_n1_w9_o1	pmb2400		
 1049	http://schnitzler-werkimport/N7_n1_w7_o1	pmb2400		
 1049	http://schnitzler-werkimport/work_1669	pmb2400		
 1049	http://schnitzler-werkimport/N7_n1_w2_t1	pmb2400		
@@ -1843,7 +1787,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_2664	pmb25246		
 1049	http://schnitzler-werkimport/work_2665	pmb3138		
 1049	http://schnitzler-werkimport/work_2698	pmb11450		
-1049	http://schnitzler-werkimport/work_2701	pmb11450		
 1049	http://schnitzler-werkimport/work_5548	pmb13152		
 1049	http://schnitzler-werkimport/work_5549	pmb13152		
 1049	http://schnitzler-werkimport/F40_n1_w1	pmb11157		
@@ -1929,10 +1872,8 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_3020	pmb11632		
 1049	http://schnitzler-werkimport/D191_n1_w2_o2	pmb11632		
 1049	http://schnitzler-werkimport/work_4355	pmb12457		
-1049	http://schnitzler-werkimport/work_4351	pmb12457		
 1049	http://schnitzler-werkimport/work_4352	pmb12457		
 1049	http://schnitzler-werkimport/work_4356	pmb12457		
-1049	http://schnitzler-werkimport/work_3054	pmb11657		
 1049	http://schnitzler-werkimport/work_3055	pmb11657		
 1049	http://schnitzler-werkimport/work_3053	pmb11657		
 1049	http://schnitzler-werkimport/F72_n1_w1	pmb11657		
@@ -1952,7 +1893,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/F118_n1_w1_o1	pmb12311		
 1049	http://schnitzler-werkimport/F118_n1_w4	pmb12311		
 1049	http://schnitzler-werkimport/F118_n1_w2_o1	pmb12311		
-1049	http://schnitzler-werkimport/F118_n1_w6_o1	pmb12311		
 1049	http://schnitzler-werkimport/F118_n1_w5_o3	pmb12311		
 1049	http://schnitzler-werkimport/F118_n1_w3	pmb12311		
 1049	http://schnitzler-werkimport/F118_n1_w1_t1	pmb12311		
@@ -2879,7 +2819,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/D443_n1_w2	pmb26054		
 1049	http://schnitzler-werkimport/D446_n1_w1	pmb26420		
 1049	http://schnitzler-werkimport/D447_n1_w1	pmb64905		
-1049	http://schnitzler-werkimport/D448_n1_w1	pmb64906		
 1049	http://schnitzler-werkimport/work_5325	pmb10360		
 1049	http://schnitzler-werkimport/D449_n1_w1	pmb10360		
 1049	http://schnitzler-werkimport/D449_n1_w2	pmb10360		
@@ -3064,8 +3003,8 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/F76_n1_w1	pmb64953		
 1049	http://schnitzler-werkimport/F77_n1_w1_o1	pmb64954		
 1049	http://schnitzler-werkimport/F77_n1_w1_o2	pmb64954		
-1049	http://schnitzler-werkimport/F78_n1_w1_t1	pmb64955		
-1049	http://schnitzler-werkimport/F78_n1_w1_o1	pmb64955		
+1049	http://schnitzler-werkimport/F78_n1_w1_t1	pmb5583		
+1049	http://schnitzler-werkimport/F78_n1_w1_o1	pmb5583		
 1049	http://schnitzler-werkimport/F79_n1_w1	pmb64956		
 1049	http://schnitzler-werkimport/F80_n1_w1	pmb64957		
 1049	http://schnitzler-werkimport/F81_n1_w2	pmb19365		
@@ -3460,7 +3399,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/U6_n1_w6_t1	pmb18956		
 1049	http://schnitzler-werkimport/U6_n1_w3_o1	pmb18956		
 1049	http://schnitzler-werkimport/U6_n1_w3_t1	pmb18956		
-1049	http://schnitzler-werkimport/U7_n1_w1_t1	pmb65054		
 1049	http://schnitzler-werkimport/U7_n1_w1_o1	pmb65054		
 1049	http://schnitzler-werkimport/U9_n1_w1_o1	pmb22480		
 1049	http://schnitzler-werkimport/U9_n1_w1_t1	pmb22480		
@@ -3633,7 +3571,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/N48_n1_w3_o1	pmb65083		
 1049	http://schnitzler-werkimport/N48_n1_w2_t1	pmb65083		
 1049	http://schnitzler-werkimport/N48_n1_w2_o1	pmb65083		
-1049	http://schnitzler-werkimport/N49_n1_w1_t1	pmb65084		
 1049	http://schnitzler-werkimport/N49_n1_w1_o1	pmb65084		
 1049	http://schnitzler-werkimport/N50_n1_w1_o1	pmb65085		
 1049	http://schnitzler-werkimport/N50_n1_w1_t1	pmb65085		
@@ -3836,7 +3773,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_1433	pmb13757		
 1049	http://schnitzler-werkimport/work_1439	pmb6142		
 1049	http://schnitzler-werkimport/work_1441	pmb13801		
-1049	http://schnitzler-werkimport/work_1442	pmb13801		
 1049	http://schnitzler-werkimport/work_1444	pmb6156		
 1049	http://schnitzler-werkimport/work_1445	pmb13818		
 1049	http://schnitzler-werkimport/work_1447	pmb10848		
@@ -3898,7 +3834,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_1637	pmb14197		
 1049	http://schnitzler-werkimport/work_1652	pmb6315		
 1049	http://schnitzler-werkimport/work_1652	pmb14879		
-1049	http://schnitzler-werkimport/work_1646	pmb14233		
 1049	http://schnitzler-werkimport/work_1647	pmb14233		
 1049	http://schnitzler-werkimport/work_3595	pmb20283		
 1049	http://schnitzler-werkimport/work_1649	pmb6311		
@@ -4012,7 +3947,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_1961	pmb6575		
 1049	http://schnitzler-werkimport/work_1962	pmb14871		
 1049	http://schnitzler-werkimport/work_1966	pmb14881		
-1049	http://schnitzler-werkimport/work_1971	pmb14891		
 1049	http://schnitzler-werkimport/work_1972	pmb14902		
 1049	http://schnitzler-werkimport/work_1973	pmb10708		
 1049	http://schnitzler-werkimport/work_1974	pmb27657		
@@ -4088,7 +4022,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_2083	pmb15202		
 1049	http://schnitzler-werkimport/work_2084	pmb15202		
 1049	http://schnitzler-werkimport/work_2085	pmb15224		
-1049	http://schnitzler-werkimport/work_2086	pmb15232		
 1049	http://schnitzler-werkimport/work_2087	pmb6761		
 1049	http://schnitzler-werkimport/work_2092	pmb15240		
 1049	http://schnitzler-werkimport/work_2099	pmb15248		
@@ -4197,8 +4130,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_2370	pmb7076		
 1049	http://schnitzler-werkimport/work_2370	pmb18314		
 1049	http://schnitzler-werkimport/work_2371	pmb7076		
-1049	http://schnitzler-werkimport/work_2397	pmb18308		
-1049	http://schnitzler-werkimport/work_2397	pmb18314		
 1049	http://schnitzler-werkimport/work_3615	pmb18314		
 1049	http://schnitzler-werkimport/work_3615	pmb26280		
 1049	http://schnitzler-werkimport/work_3620	pmb18314		
@@ -4449,7 +4380,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_3049	pmb18147		
 1049	http://schnitzler-werkimport/work_3056	pmb18158		
 1049	http://schnitzler-werkimport/work_3057	pmb18185		
-1049	http://schnitzler-werkimport/work_3060	pmb23522		
 1049	http://schnitzler-werkimport/work_3059	pmb23522		
 1049	http://schnitzler-werkimport/work_3061	pmb23522		
 1049	http://schnitzler-werkimport/work_3065	pmb18202		
@@ -4495,7 +4425,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_3243	pmb18680		
 1049	http://schnitzler-werkimport/work_3245	pmb18685		
 1049	http://schnitzler-werkimport/work_3247	pmb18689		
-1049	http://schnitzler-werkimport/work_3263	pmb18702		
 1049	http://schnitzler-werkimport/work_3264	pmb4445		
 1049	http://schnitzler-werkimport/work_3266	pmb7984		
 1049	http://schnitzler-werkimport/work_3267	pmb7984		
@@ -4617,8 +4546,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_3562	pmb20135		
 1049	http://schnitzler-werkimport/work_3564	pmb3135		
 1049	http://schnitzler-werkimport/work_4360	pmb12463		
-1049	http://schnitzler-werkimport/work_3565	pmb2702		
-1049	http://schnitzler-werkimport/work_3565	pmb12463		
 1049	http://schnitzler-werkimport/work_4363	pmb12463		
 1049	http://schnitzler-werkimport/work_3570	pmb8504		
 1049	http://schnitzler-werkimport/work_3571	pmb8507		
@@ -4690,7 +4617,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_3704	pmb3612		
 1049	http://schnitzler-werkimport/work_3707	pmb20599		
 1049	http://schnitzler-werkimport/work_3706	pmb20599		
-1049	http://schnitzler-werkimport/work_3710	pmb20606		
 1049	http://schnitzler-werkimport/work_3709	pmb20606		
 1049	http://schnitzler-werkimport/work_3711	pmb20606		
 1049	http://schnitzler-werkimport/work_3713	pmb21710		
@@ -4804,8 +4730,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_3999	pmb12287		
 1049	http://schnitzler-werkimport/work_4000	pmb21586		
 1049	http://schnitzler-werkimport/work_4001	pmb8972		
-1049	http://schnitzler-werkimport/work_4003	pmb21605		
-1049	http://schnitzler-werkimport/work_4003	pmb12624		
 1049	http://schnitzler-werkimport/work_4012	pmb21642		
 1049	http://schnitzler-werkimport/work_4012	pmb24083		
 1049	http://schnitzler-werkimport/work_4068	pmb21742		
@@ -4865,7 +4789,7 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_4198	pmb22216		
 1049	http://schnitzler-werkimport/work_4196	pmb22216		
 1049	http://schnitzler-werkimport/work_4197	pmb22216		
-1049	http://schnitzler-werkimport/work_4199	pmb22223		
+1049	http://schnitzler-werkimport/work_4199	pmb28982		
 1049	http://schnitzler-werkimport/work_4200	pmb9169		
 1049	http://schnitzler-werkimport/work_4201	pmb9173		
 1049	http://schnitzler-werkimport/work_4202	pmb22238		
@@ -4983,7 +4907,7 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_4485	pmb23486		
 1049	http://schnitzler-werkimport/work_4486	pmb23495		
 1049	http://schnitzler-werkimport/work_4491	pmb23504		
-1049	http://schnitzler-werkimport/work_4492	pmb23093		
+1049	http://schnitzler-werkimport/work_4492	pmb27941		
 1049	http://schnitzler-werkimport/work_4497	pmb23526		
 1049	http://schnitzler-werkimport/work_4498	pmb23526		
 1049	http://schnitzler-werkimport/work_4499	pmb23529		
@@ -5113,7 +5037,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_4901	pmb25050		
 1049	http://schnitzler-werkimport/work_4902	pmb25050		
 1049	http://schnitzler-werkimport/work_4898	pmb25050		
-1049	http://schnitzler-werkimport/work_4900	pmb25050		
 1049	http://schnitzler-werkimport/work_4903	pmb25050		
 1049	http://schnitzler-werkimport/work_4904	pmb25050		
 1049	http://schnitzler-werkimport/work_4912	pmb25128		
@@ -5226,7 +5149,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_5279	pmb26368		
 1049	http://schnitzler-werkimport/work_5280	pmb26396		
 1049	http://schnitzler-werkimport/work_5283	pmb26383		
-1049	http://schnitzler-werkimport/work_5303	pmb10335		
 1049	http://schnitzler-werkimport/work_5304	pmb10340		
 1049	http://schnitzler-werkimport/work_5318	pmb5849		
 1049	http://schnitzler-werkimport/work_5319	pmb26435		
@@ -5304,7 +5226,6 @@ relation_type	related_work	related_person	start_date	end_date
 1049	http://schnitzler-werkimport/work_5565	pmb10611		
 1049	http://schnitzler-werkimport/work_5567	pmb10611		
 1049	http://schnitzler-werkimport/work_5566	pmb10611		
-1049	http://schnitzler-werkimport/work_5568	pmb27342		
 1049	http://schnitzler-werkimport/work_5569	pmb27348		
 1049	http://schnitzler-werkimport/work_5572	pmb27407		
 1049	http://schnitzler-werkimport/work_5571	pmb27407		
