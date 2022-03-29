@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <tei:teiHeader>
       <tei:fileDesc>
          <tei:titleStmt>
@@ -19,7 +19,7 @@
          </tei:titleStmt>
          <tei:publicationStmt>
             <tei:publisher>ACDH-CH</tei:publisher>
-            <tei:date>17.02.2022</tei:date>
+            <tei:date>24.03.2022</tei:date>
             <tei:idno type="URI">https://id.acdh.oeaw.ac.at/arthur-schnitzler-briefe/v1/indices/listorg.xml</tei:idno>
          </tei:publicationStmt>
          <tei:sourceDesc>
@@ -117,6 +117,13 @@
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29557</idno>
                </org>
+               <org xml:id="pmb65379">
+                  <tei:orgName>A. Hartleben’s Verlag</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1802-01-01" from-custom="1802">1802</tei:date>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+               </org>
                <org xml:id="pmb29290">
                   <tei:orgName>Académie Française</tei:orgName>
                   <tei:desc>
@@ -146,7 +153,9 @@
                </org>
                <org xml:id="pmb37244">
                   <tei:orgName>Acht Uhr Abendblatt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -344,7 +353,9 @@
                </org>
                <org xml:id="pmb37273">
                   <tei:orgName>Akademische Gesellschaft für Dramatik</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i995">Theaterverein</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb882">
                      <tei:placeName>Heidelberg</tei:placeName>
                      <tei:location>
@@ -451,9 +462,23 @@
                      <tei:gloss ana="i1047">Theaterunternehmen</tei:gloss>
                   </tei:desc>
                </org>
+               <org xml:id="pmb37280">
+                  <tei:orgName>Aktion für Blumau</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb56">
+                     <tei:placeName>VI., Mariahilf</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.19522 16.35032</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb37278">
-                  <tei:orgName>Aktion "Rettet die Jugend"</tei:orgName>
-                  <tei:desc/>
+                  <tei:orgName>Aktion „Rettet die Jugend“</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -462,22 +487,14 @@
                   </tei:place>
                </org>
                <org xml:id="pmb37282">
-                  <tei:orgName>Aktion "Winterkleider für Schulkinder"</tei:orgName>
-                  <tei:desc/>
+                  <tei:orgName>Aktion „Winterkleider für Schulkinder“</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </org>
-               <org xml:id="pmb37280">
-                  <tei:orgName>Aktion für Blumau</tei:orgName>
-                  <tei:desc/>
-                  <tei:place corresp="pmb56">
-                     <tei:placeName>VI., Mariahilf</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.19522 16.35032</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -558,16 +575,6 @@
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb42491</idno>
                </org>
-               <org xml:id="pmb37289">
-                  <tei:orgName>Allgem. österr. israel. Taubstummeninstitut</tei:orgName>
-                  <tei:desc/>
-                  <tei:place corresp="pmb50">
-                     <tei:placeName>Wien</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </org>
                <org xml:id="pmb29244">
                   <tei:orgName>Allgemeine Bodencreditanstalt</tei:orgName>
                   <tei:desc>
@@ -587,6 +594,13 @@
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29244</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29244</idno>
+               </org>
+               <org xml:id="pmb65410">
+                  <tei:orgName>Allgemeine Deutsche Fernsehverein</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1929-01-01" from-custom="1929">1929</tei:date>
+                     <tei:gloss ana="i974">Verein</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb29585">
                   <tei:orgName>Allgemeine elsässische Bankgesellschaft</tei:orgName>
@@ -652,7 +666,19 @@
                </org>
                <org xml:id="pmb37248">
                   <tei:orgName>Allgemeiner Tarifanzeiger</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
+               </org>
+               <org xml:id="pmb37289">
+                  <tei:orgName>Allgemeines österr. israel. Taubstummeninstitut</tei:orgName>
                   <tei:desc/>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb29620">
                   <tei:orgName>Allgemeine Theater-Revue für Bühne und Welt</tei:orgName>
@@ -702,7 +728,9 @@
                </org>
                <org xml:id="pmb36905">
                   <tei:orgName>Altesse AG</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1642">Aktiengesellschaft</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb53">
                      <tei:placeName>III., Landstraße</tei:placeName>
                      <tei:location>
@@ -834,7 +862,9 @@
                </org>
                <org xml:id="pmb36909">
                   <tei:orgName>Amt der Wiener Landesregierung</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i984">Amt</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -1063,7 +1093,9 @@
                </org>
                <org xml:id="pmb36912">
                   <tei:orgName>Andre-Verlag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb53426">
                   <tei:orgName>Annoncen-Expedition Rudolf Mosse</tei:orgName>
@@ -1090,7 +1122,9 @@
                </org>
                <org xml:id="pmb37317">
                   <tei:orgName>Anstalt zur Ausbildung von später Erblindeten</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i982">Bildungseinrichtung</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb69">
                      <tei:placeName>XIX., Döbling</tei:placeName>
                      <tei:location>
@@ -1101,7 +1135,7 @@
                <org xml:id="pmb53014">
                   <tei:orgName>Antisemitenbund</tei:orgName>
                   <tei:desc>
-                     <tei:gloss ana="i1022">Politische Vereinigung</tei:gloss>
+                     <tei:gloss ana="i1023">Rassistische Vereinigung</tei:gloss>
                   </tei:desc>
                </org>
                <org xml:id="pmb47692">
@@ -1123,11 +1157,19 @@
                </org>
                <org xml:id="pmb37062">
                   <tei:orgName>Anton Schroll Verlag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -1156,7 +1198,9 @@
                </org>
                <org xml:id="pmb37321">
                   <tei:orgName>Arbeiter-Bildungsverein</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i982">Bildungseinrichtung</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -1182,11 +1226,15 @@
                </org>
                <org xml:id="pmb37260">
                   <tei:orgName>Arbeiter-Sänger-Zeitung</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb37327">
                   <tei:orgName>Arbeiterverein Kinderfreunde</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i974">Verein</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb56">
                      <tei:placeName>VI., Mariahilf</tei:placeName>
                      <tei:location>
@@ -1231,7 +1279,7 @@
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29644</idno>
                </org>
                <org xml:id="pmb53475">
-                  <tei:orgName>Arbeitsgemeinschaft der Schriftleiter, Verwaltungsbeamten und Hilfskräfte des »Abend« (Verlag Wiener Zeitungen, Ges.m.b.H.)</tei:orgName>
+                  <tei:orgName>Arbeitsgemeinschaft der Schriftleiter, Verwaltungsbeamten und Hilfskräfte des „Abend“ (Verlag Wiener Zeitungen, Ges.m.b.H.)</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i975">Verlag</tei:gloss>
                   </tei:desc>
@@ -1260,7 +1308,9 @@
                </org>
                <org xml:id="pmb37256">
                   <tei:orgName>Arbeit und Wirtschaft</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -1300,7 +1350,9 @@
                </org>
                <org xml:id="pmb36920">
                   <tei:orgName>Artiphon-Record (Schallplattenstudio)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1671">Musiklabel</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -1327,7 +1379,9 @@
                </org>
                <org xml:id="pmb37362">
                   <tei:orgName>Asylverein für Obdachlose</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i978">Wohltätigkeitsverein</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb62">
                      <tei:placeName>XII., Meidling</tei:placeName>
                      <tei:location>
@@ -1387,7 +1441,9 @@
                </org>
                <org xml:id="pmb36922">
                   <tei:orgName>Augsburger Stadttheater</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb868">
                      <tei:placeName>Augsburg</tei:placeName>
                      <tei:location>
@@ -1409,7 +1465,9 @@
                </org>
                <org xml:id="pmb37065">
                   <tei:orgName>August Scherl Verlag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -1429,7 +1487,9 @@
                </org>
                <org xml:id="pmb37266">
                   <tei:orgName>Aussiger Tag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb49331">
                      <tei:placeName>Ústí nad Labem</tei:placeName>
                      <tei:location>
@@ -1457,6 +1517,12 @@
                         <tei:geo decls="LatLng">50.08292 14.46672</tei:geo>
                      </tei:location>
                   </tei:place>
+               </org>
+               <org xml:id="pmb65521">
+                  <tei:orgName>Az Est</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb29384">
                   <tei:orgName>B. Firnberg</tei:orgName>
@@ -1536,8 +1602,12 @@
                   </tei:desc>
                </org>
                <org xml:id="pmb29675">
-                  <tei:orgName>Bauernfeldpreis</tei:orgName>
+                  <tei:orgName>Bauernfeld-Preis</tei:orgName>
                   <tei:desc>
+                     <tei:date from="1894-01-01"
+                               from-custom="1894"
+                               to="1923-01-01"
+                               to-custom="1923">1894–1923</tei:date>
                      <tei:gloss ana="i993">Literaturpreis</tei:gloss>
                   </tei:desc>
                   <tei:place corresp="pmb50">
@@ -1618,7 +1688,9 @@
                </org>
                <org xml:id="pmb37268">
                   <tei:orgName>Bayrische Staatszeitung</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb45258">
                      <tei:placeName>München</tei:placeName>
                      <tei:location>
@@ -1698,7 +1770,9 @@
                </org>
                <org xml:id="pmb37270">
                   <tei:orgName>Berliner Börsen Zeitung</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -1708,7 +1782,9 @@
                </org>
                <org xml:id="pmb37271">
                   <tei:orgName>Berliner Lokalanzeiger</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -1718,17 +1794,27 @@
                </org>
                <org xml:id="pmb36933">
                   <tei:orgName>Berliner Metropol Theater</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb36737">
                      <tei:placeName>Mitte</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.516669 13.366669</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb37275">
                   <tei:orgName>Berliner Nachtausgabe</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -1813,18 +1899,6 @@
                      </tei:location>
                   </tei:place>
                </org>
-               <org xml:id="pmb51787">
-                  <tei:orgName>Bezirksgericht (Grein)</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i1037">Gericht</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb58092">
-                     <tei:placeName>Grein</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.22862 14.85884</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </org>
                <org xml:id="pmb36778">
                   <tei:orgName>Bezirksgericht für Handelssachen</tei:orgName>
                   <tei:desc>
@@ -1834,6 +1908,18 @@
                      <tei:placeName>III., Landstraße</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.19811 16.39482</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb51787">
+                  <tei:orgName>Bezirksgericht Grein</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb58092">
+                     <tei:placeName>Grein</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.22862 14.85884</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -1931,11 +2017,19 @@
                </org>
                <org xml:id="pmb36788">
                   <tei:orgName>Bezirksgericht Wien Innere Stadt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -1960,11 +2054,19 @@
                </org>
                <org xml:id="pmb36791">
                   <tei:orgName>Bezirksgericht Wien Margareten</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb55">
                      <tei:placeName>V., Margareten</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.18646 16.35491</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -2012,11 +2114,19 @@
                </org>
                <org xml:id="pmb36793">
                   <tei:orgName>Bezirkspolizeikommissariat Wien Alsergrund</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1240">Polizeibehörde</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb59">
                      <tei:placeName>IX., Alsergrund</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -2062,11 +2172,19 @@
                </org>
                <org xml:id="pmb37387">
                   <tei:orgName>Bildungsheim Hietzing</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i982">Bildungseinrichtung</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb63">
                      <tei:placeName>XIII., Hietzing</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.17547 16.29101</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -2079,7 +2197,9 @@
                </org>
                <org xml:id="pmb36935">
                   <tei:orgName>Blinden-Erziehungs-Institut Wien</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i982">Bildungseinrichtung</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb52">
                      <tei:placeName>II., Leopoldstadt</tei:placeName>
                      <tei:location>
@@ -2092,10 +2212,18 @@
                         <tei:geo decls="LatLng">48.20635 16.39925</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb37389">
                   <tei:orgName>Blindenheim für israelitische Mädchen</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb69">
                      <tei:placeName>XIX., Döbling</tei:placeName>
                      <tei:location>
@@ -2104,8 +2232,10 @@
                   </tei:place>
                </org>
                <org xml:id="pmb37392">
-                  <tei:orgName>Blindenverein "Lindenbund"</tei:orgName>
-                  <tei:desc/>
+                  <tei:orgName>Blindenverein „Lindenbund“</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb70">
                      <tei:placeName>XX., Brigittenau</tei:placeName>
                      <tei:location>
@@ -2114,8 +2244,10 @@
                   </tei:place>
                </org>
                <org xml:id="pmb37394">
-                  <tei:orgName>Blindenwerkstätte »Typhlos«</tei:orgName>
-                  <tei:desc/>
+                  <tei:orgName>Blindenwerkstätte „Typhlos“</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb69">
                      <tei:placeName>XIX., Döbling</tei:placeName>
                      <tei:location>
@@ -2166,7 +2298,9 @@
                </org>
                <org xml:id="pmb36939">
                   <tei:orgName>Bote &amp; Bock (Musikverlag)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1013">Musikalienverlag</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -2232,7 +2366,9 @@
                </org>
                <org xml:id="pmb36942">
                   <tei:orgName>Braumüller-Deibler Verlag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -2259,7 +2395,9 @@
                </org>
                <org xml:id="pmb37410">
                   <tei:orgName>Breslauer Erwerbslosenfürsorge</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb677">
                      <tei:placeName>Breslau</tei:placeName>
                      <tei:location>
@@ -2269,7 +2407,9 @@
                </org>
                <org xml:id="pmb37412">
                   <tei:orgName>Breslauer Volksbühne</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb677">
                      <tei:placeName>Breslau</tei:placeName>
                      <tei:location>
@@ -2292,7 +2432,9 @@
                </org>
                <org xml:id="pmb37414">
                   <tei:orgName>Brigittenauer Frauen-Wohltätigkeitsverein</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i978">Wohltätigkeitsverein</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb70">
                      <tei:placeName>XX., Brigittenau</tei:placeName>
                      <tei:location>
@@ -2302,7 +2444,9 @@
                </org>
                <org xml:id="pmb37419">
                   <tei:orgName>Britisches Hilfswerk für Wiener Kinder</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -2358,7 +2502,9 @@
                </org>
                <org xml:id="pmb37290">
                   <tei:orgName>Brünner Volksfreund</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb833">
                      <tei:placeName>Brünn</tei:placeName>
                      <tei:location>
@@ -2392,7 +2538,9 @@
                </org>
                <org xml:id="pmb37422">
                   <tei:orgName>Buchhandlung Eichholz &amp; Schönfeld</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1020">Buchhandlung</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb45258">
                      <tei:placeName>München</tei:placeName>
                      <tei:location>
@@ -2450,6 +2598,16 @@
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51413</idno>
                </org>
+               <org xml:id="pmb65398">
+                  <tei:orgName>Buch-und Künstlerverlag Gerlach &amp; Wiedling</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1872-01-01"
+                               from-custom="1872"
+                               to="1976-01-01"
+                               to-custom="1976">1872–1976</tei:date>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+               </org>
                <org xml:id="pmb36948">
                   <tei:orgName>Budapester Notariatskammer</tei:orgName>
                   <tei:desc/>
@@ -2505,7 +2663,9 @@
                </org>
                <org xml:id="pmb36795">
                   <tei:orgName>Bühnenschiedsgericht Berlin</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -2521,7 +2681,9 @@
                </org>
                <org xml:id="pmb36797">
                   <tei:orgName>Bühnenschiedsgericht Wien</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -2545,7 +2707,9 @@
                </org>
                <org xml:id="pmb36950">
                   <tei:orgName>Bund der Antisemiten</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1022">Politische Vereinigung</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -2561,17 +2725,27 @@
                </org>
                <org xml:id="pmb36960">
                   <tei:orgName>Bundesgymnasium Wien V., Rainergasse</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1330">Schule</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb55">
                      <tei:placeName>V., Margareten</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.18646 16.35491</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <tei:place corresp="pmb65303">
+                     <tei:placeName>Rainergasse</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.18873674406527 16.367818669370223</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb36963">
                   <tei:orgName>Bundeskanzleramt Wien</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i984">Amt</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -2581,7 +2755,9 @@
                </org>
                <org xml:id="pmb36967">
                   <tei:orgName>Bundesministerium für Finanzen Wien</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1482">Ministerium</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -2591,7 +2767,9 @@
                </org>
                <org xml:id="pmb36799">
                   <tei:orgName>Bundespolizeidirektion Wien</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1240">Polizeibehörde</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -2668,6 +2846,18 @@
                      <tei:placeName>Köln</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">50.93835 6.95427</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb65715">
+                  <tei:orgName>Bürgermeisteramt Wien</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i984">Amt</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb51">
+                     <tei:placeName>I., Innere Stadt</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -2762,7 +2952,9 @@
                </org>
                <org xml:id="pmb37427">
                   <tei:orgName>Café Ankerhof</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1630">Café</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -2827,7 +3019,9 @@
                </org>
                <org xml:id="pmb50903">
                   <tei:orgName>Café Lebmann</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1630">Café</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb763">
                      <tei:placeName>Neuer Markt</tei:placeName>
                      <tei:location>
@@ -3055,7 +3249,9 @@
                </org>
                <org xml:id="pmb37318">
                   <tei:orgName>Chemnitzer Tagblatt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb49582">
                      <tei:placeName>Chemnitz</tei:placeName>
                      <tei:location>
@@ -3120,7 +3316,7 @@
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29798</idno>
                </org>
                <org xml:id="pmb54819">
-                  <tei:orgName>Citizen National Bank of Los Angeles (Los Angeles)</tei:orgName>
+                  <tei:orgName>Citizen National Bank of Los Angeles</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i986">Bankhaus</tei:gloss>
                   </tei:desc>
@@ -3155,7 +3351,9 @@
                </org>
                <org xml:id="pmb37003">
                   <tei:orgName>Collége de France</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1420">Hochschule</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb182">
                      <tei:placeName>Paris</tei:placeName>
                      <tei:location>
@@ -3178,7 +3376,9 @@
                </org>
                <org xml:id="pmb37005">
                   <tei:orgName>Commercia AG Budapest</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1642">Aktiengesellschaft</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb43471">
                      <tei:placeName>Budapest</tei:placeName>
                      <tei:location>
@@ -3406,7 +3606,9 @@
                </org>
                <org xml:id="pmb37384">
                   <tei:orgName>Das kleine Blatt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -3483,7 +3685,9 @@
                </org>
                <org xml:id="pmb37571">
                   <tei:orgName>Das Wort</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i998">Wochenzeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -3524,11 +3728,15 @@
                </org>
                <org xml:id="pmb37249">
                   <tei:orgName>Der Anbruch</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb37264">
                   <tei:orgName>Der Aufruf</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb652">
                      <tei:placeName>Prag</tei:placeName>
                      <tei:location>
@@ -3538,7 +3746,9 @@
                </org>
                <org xml:id="pmb37287">
                   <tei:orgName>Der Brenner</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb867">
                      <tei:placeName>Innsbruck</tei:placeName>
                      <tei:location>
@@ -3548,7 +3758,9 @@
                </org>
                <org xml:id="pmb37295">
                   <tei:orgName>Der Bücherwurm</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb864">
                      <tei:placeName>Leipzig</tei:placeName>
                      <tei:location>
@@ -3578,7 +3790,9 @@
                </org>
                <org xml:id="pmb37338">
                   <tei:orgName>Der Gegen-Angriff</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb652">
                      <tei:placeName>Prag</tei:placeName>
                      <tei:location>
@@ -3592,10 +3806,6 @@
                      </tei:location>
                   </tei:place>
                </org>
-               <org xml:id="pmb37341">
-                  <tei:orgName>Der geistige Arbeiter</tei:orgName>
-                  <tei:desc/>
-               </org>
                <org xml:id="pmb63203">
                   <tei:orgName>Der geistige Arbeiter. Deutsche Urheber-Zeitung</tei:orgName>
                   <tei:desc>
@@ -3604,7 +3814,9 @@
                </org>
                <org xml:id="pmb37382">
                   <tei:orgName>Der Kampf</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -3638,7 +3850,9 @@
                </org>
                <org xml:id="pmb37404">
                   <tei:orgName>Der Landbündler</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb44397">
                      <tei:placeName>Wels</tei:placeName>
                      <tei:location>
@@ -3698,17 +3912,27 @@
                </org>
                <org xml:id="pmb37486">
                   <tei:orgName>Der Österreichische Volkswirt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <tei:place corresp="pmb436">
+                     <tei:placeName>Porzellangasse</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.222287836145 16.362457240723</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb37519">
                   <tei:orgName>Der Querschnitt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -3718,7 +3942,9 @@
                </org>
                <org xml:id="pmb37521">
                   <tei:orgName>Der Querulant</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -3856,7 +4082,9 @@
                </org>
                <org xml:id="pmb37558">
                   <tei:orgName>Der Weltspiegel</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -3885,16 +4113,6 @@
                         <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
                      </tei:location>
                   </tei:place>
-               </org>
-               <org xml:id="pmb44019">
-                  <tei:orgName>Der Wiener Tag</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1922-01-01"
-                               from-custom="1922"
-                               to="1938-01-01"
-                               to-custom="1938">1922–1938</tei:date>
-                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
-                  </tei:desc>
                   <tei:place corresp="pmb59">
                      <tei:placeName>IX., Alsergrund</tei:placeName>
                      <tei:location>
@@ -3941,6 +4159,12 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb65411">
+                  <tei:orgName>Deutsche Fotograph-Gesellschaft</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1027">Vereinigung</tei:gloss>
+                  </tei:desc>
+               </org>
                <org xml:id="pmb62795">
                   <tei:orgName>Deutsche Gesandtschaft in Paris</tei:orgName>
                   <tei:desc>
@@ -3961,7 +4185,9 @@
                </org>
                <org xml:id="pmb37442">
                   <tei:orgName>Deutsche Kriegsblinde</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -4007,7 +4233,7 @@
                      </tei:location>
                   </tei:place>
                   <tei:place corresp="pmb57117">
-                     <tei:placeName>Schellingstraße</tei:placeName>
+                     <tei:placeName>Schellingstraße (Berlin)</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.50601010119616 13.373239969526331</tei:geo>
                      </tei:location>
@@ -4021,9 +4247,33 @@
                      <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
                   </tei:desc>
                </org>
+               <org xml:id="pmb65245">
+                  <tei:orgName>Deutsche Revue. Eine Monatsschrift</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1901-01-01"
+                               from-custom="1901"
+                               to="1922-01-01"
+                               to-custom="1922">1901–1922</tei:date>
+                     <tei:gloss ana="i1766"/>
+                  </tei:desc>
+                  <tei:place corresp="pmb872">
+                     <tei:placeName>Stuttgart</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.78232 9.17702</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb864">
+                     <tei:placeName>Leipzig</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">51.33962 12.37129</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb37020">
                   <tei:orgName>Deutsche Rote Hilfe Berlin</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -4070,7 +4320,9 @@
                </org>
                <org xml:id="pmb37074">
                   <tei:orgName>Deutscher Verband für Jugendwohlfahrt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i978">Wohltätigkeitsverein</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -4130,11 +4382,19 @@
                </org>
                <org xml:id="pmb37076">
                   <tei:orgName>Deutsches Künstlertheater Berlin</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb36914">
                      <tei:placeName>Tiergarten</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.516666 13.366666</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -4204,7 +4464,9 @@
                </org>
                <org xml:id="pmb37078">
                   <tei:orgName>Deutsches Theater Brünn</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb833">
                      <tei:placeName>Brünn</tei:placeName>
                      <tei:location>
@@ -4226,7 +4488,9 @@
                </org>
                <org xml:id="pmb37456">
                   <tei:orgName>Deutsches Theater Mährisch-Ostrau</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb41075">
                      <tei:placeName>Ostrava</tei:placeName>
                      <tei:location>
@@ -4286,6 +4550,12 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb65599">
+                  <tei:orgName>Deutsche Vereinigung für staatswissenschaftliche Fortbildung</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i982">Bildungseinrichtung</tei:gloss>
+                  </tei:desc>
+               </org>
                <org xml:id="pmb57925">
                   <tei:orgName>Deutsche Volkspartei</tei:orgName>
                   <tei:desc>
@@ -4298,7 +4568,9 @@
                </org>
                <org xml:id="pmb37023">
                   <tei:orgName>Deutsche Wandervogel Schule</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1330">Schule</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -4401,7 +4673,9 @@
                </org>
                <org xml:id="pmb37326">
                   <tei:orgName>Deutsch-Österreichische Tageszeitung</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb29779">
                   <tei:orgName>Die 11 Scharfrichter</tei:orgName>
@@ -4425,11 +4699,19 @@
                </org>
                <org xml:id="pmb37246">
                   <tei:orgName>Die Aktion</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb593">
                      <tei:placeName>Wilmersdorf</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.48333 13.31667</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -4441,7 +4723,9 @@
                </org>
                <org xml:id="pmb37283">
                   <tei:orgName>Die Börse</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -4451,7 +4735,9 @@
                </org>
                <org xml:id="pmb37298">
                   <tei:orgName>Die Bühne</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -4544,7 +4830,9 @@
                </org>
                <org xml:id="pmb37352">
                   <tei:orgName>Die jüdische Gemeinde</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1766"/>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -4554,7 +4842,9 @@
                </org>
                <org xml:id="pmb37354">
                   <tei:orgName>Die Justiz</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb57782">
                   <tei:orgName>Die Kunst. Monatsheft für freie und angewandte Kunst</tei:orgName>
@@ -4585,7 +4875,9 @@
                </org>
                <org xml:id="pmb37443">
                   <tei:orgName>Die Musik</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb29807">
                   <tei:orgName>Die Nation</tei:orgName>
@@ -4621,7 +4913,9 @@
                </org>
                <org xml:id="pmb37527">
                   <tei:orgName>Die Rote Fahne (Berlin)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -4631,7 +4925,9 @@
                </org>
                <org xml:id="pmb37525">
                   <tei:orgName>Die Rote Fahne (Wien)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -4641,7 +4937,9 @@
                </org>
                <org xml:id="pmb37531">
                   <tei:orgName>Die Rote Hilfe (Wien)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb58">
                      <tei:placeName>VIII., Josefstadt</tei:placeName>
                      <tei:location>
@@ -4650,7 +4948,7 @@
                   </tei:place>
                </org>
                <org xml:id="pmb29348">
-                  <tei:orgName>Die Schaubühne/Die Weltbühne</tei:orgName>
+                  <tei:orgName>Die Schaubühne / Die Weltbühne</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
                   </tei:desc>
@@ -4800,11 +5098,19 @@
                </org>
                <org xml:id="pmb37089">
                   <tei:orgName>Dokumentationsarchiv des österreichischen Widerstands</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1006">Archiv</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -5016,7 +5322,9 @@
                </org>
                <org xml:id="pmb37093">
                   <tei:orgName>Einhorn Verlag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb37000">
                      <tei:placeName>Schwäbisch Gmünd</tei:placeName>
                      <tei:location>
@@ -5024,7 +5332,7 @@
                      </tei:location>
                   </tei:place>
                   <tei:place corresp="pmb53690">
-                     <tei:placeName>Lange Strasse</tei:placeName>
+                     <tei:placeName>Lange Straße</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">51.34382 12.39356</tei:geo>
                      </tei:location>
@@ -5116,6 +5424,19 @@
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29750</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29750</idno>
+               </org>
+               <org xml:id="pmb65371">
+                  <tei:orgName>Erich-Reiss-Verlag</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1908-01-01" from-custom="1908">1908</tei:date>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb29756">
                   <tei:orgName>Ernst Rowohlt Verlag</tei:orgName>
@@ -5223,7 +5544,9 @@
                </org>
                <org xml:id="pmb37329">
                   <tei:orgName>Europäische Blätter</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb29736">
                   <tei:orgName>Evening Post</tei:orgName>
@@ -5546,10 +5869,13 @@
                         <tei:geo decls="LatLng">55.67594 12.56553</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <idno type="gnd">https://d-nb.info/gnd/6040459-0/</idno>
                </org>
                <org xml:id="pmb37577">
                   <tei:orgName>Fonds für die Befreiung von Kriegsgefangenen</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb56">
                      <tei:placeName>VI., Mariahilf</tei:placeName>
                      <tei:location>
@@ -5559,7 +5885,9 @@
                </org>
                <org xml:id="pmb37579">
                   <tei:orgName>Fonds zur Errichtung eines Grabsteines für Peter Altenberg</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -5568,7 +5896,7 @@
                   </tei:place>
                </org>
                <org xml:id="pmb50907">
-                  <tei:orgName>Fotografengeschäft W. Willlinger</tei:orgName>
+                  <tei:orgName>Fotografengeschäft W. Willinger</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i1016">Fotoatelier</tei:gloss>
                   </tei:desc>
@@ -5581,7 +5909,9 @@
                </org>
                <org xml:id="pmb37112">
                   <tei:orgName>Fox Film Studio (Hollywood)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i994">Filmproduktionsfirma</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb37116">
                      <tei:placeName>Los Angeles</tei:placeName>
                      <tei:location>
@@ -5594,7 +5924,9 @@
                </org>
                <org xml:id="pmb37332">
                   <tei:orgName>Frankfurter Generalanzeiger</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb146">
                      <tei:placeName>Frankfurt am Main</tei:placeName>
                      <tei:location>
@@ -5614,7 +5946,9 @@
                </org>
                <org xml:id="pmb37121">
                   <tei:orgName>Frankfurter Künstlertheater</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb146">
                      <tei:placeName>Frankfurt am Main</tei:placeName>
                      <tei:location>
@@ -5630,7 +5964,9 @@
                </org>
                <org xml:id="pmb37334">
                   <tei:orgName>Frankfurter Nachrichten</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb146">
                      <tei:placeName>Frankfurt am Main</tei:placeName>
                      <tei:location>
@@ -5697,7 +6033,9 @@
                </org>
                <org xml:id="pmb37336">
                   <tei:orgName>Fränkischer Kurier</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb44172">
                      <tei:placeName>Nürnberg</tei:placeName>
                      <tei:location>
@@ -5890,8 +6228,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/1072943751/</idno>
                </org>
                <org xml:id="pmb37584">
-                  <tei:orgName>Friends' Relief Mission / Gesellschaft der Freunde</tei:orgName>
-                  <tei:desc/>
+                  <tei:orgName>Friends’ Relief Mission / Gesellschaft der Freunde</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb61831">
                   <tei:orgName>Frisch &amp; Co.</tei:orgName>
@@ -5923,7 +6263,9 @@
                </org>
                <org xml:id="pmb56818">
                   <tei:orgName>Funk-Oper</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1479">Oper</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -5933,17 +6275,21 @@
                </org>
                <org xml:id="pmb37125">
                   <tei:orgName>Funk-Stunde Berlin</tei:orgName>
-                  <tei:desc/>
-                  <tei:place corresp="pmb168">
-                     <tei:placeName>Berlin</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1018">Rundfunkgesellschaft</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb362">
+                     <tei:placeName>Potsdamerstraße</tei:placeName>
                      <tei:location>
-                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                        <tei:geo decls="LatLng">52.5064 13.36869</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
                <org xml:id="pmb37587">
                   <tei:orgName>Fürsorge für erblindete und invalide Soldaten</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb43419">
                   <tei:orgName>G. Findeis</tei:orgName>
@@ -6010,7 +6356,9 @@
                </org>
                <org xml:id="pmb37129">
                   <tei:orgName>Gaumont British Filmgesellschaft</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i994">Filmproduktionsfirma</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb224">
                      <tei:placeName>London</tei:placeName>
                      <tei:location>
@@ -6102,6 +6450,24 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb36803">
+                  <tei:orgName>Gemeinde-Vermittlungsamt Wien</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i984">Amt</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb51">
+                     <tei:placeName>I., Innere Stadt</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb52531">
                   <tei:orgName>Gemeinde-Vermittlungsamt Wien</tei:orgName>
                   <tei:desc>
@@ -6117,16 +6483,6 @@
                      <tei:placeName>Wipplingerstraße</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.213598341107 16.368419109635</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </org>
-               <org xml:id="pmb36803">
-                  <tei:orgName>Gemeinde- Vermittlungsamt Wien</tei:orgName>
-                  <tei:desc/>
-                  <tei:place corresp="pmb51">
-                     <tei:placeName>I., Innere Stadt</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -6183,11 +6539,8 @@
                         <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
-                  <tei:place corresp="pmb56714">
-                     <tei:placeName>Berlin W 56</tei:placeName>
-                  </tei:place>
                   <tei:place corresp="pmb56971">
-                     <tei:placeName>Oberwallstrasse</tei:placeName>
+                     <tei:placeName>Oberwallstraße</tei:placeName>
                   </tei:place>
                </org>
                <org xml:id="pmb36805">
@@ -6221,12 +6574,20 @@
                   </tei:place>
                </org>
                <org xml:id="pmb36808">
-                  <tei:orgName>Generalstaatsanwalt Berlin</tei:orgName>
-                  <tei:desc/>
+                  <tei:orgName>Generalstaatsanwaltschaft Berlin</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1242">Staatsanwaltschaft</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb36809">
                      <tei:placeName>Moabit</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.52635 13.33903</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -6258,7 +6619,9 @@
                </org>
                <org xml:id="pmb37138">
                   <tei:orgName>Genossenschaftsverlag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb883">
                      <tei:placeName>Wiesbaden</tei:placeName>
                      <tei:location>
@@ -6280,16 +6643,26 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29528</idno>
                </org>
                <org xml:id="pmb37597">
-                  <tei:orgName>Georgien - Russischer Hilfsfonds</tei:orgName>
-                  <tei:desc/>
+                  <tei:orgName>Georgien – Russischer Hilfsfonds</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb37220">
                   <tei:orgName>Georg Kugel (Konzertdirektion)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1542">Konzertdirektion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb57">
                      <tei:placeName>VII., Neubau</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.2 16.35</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -6332,6 +6705,12 @@
                      <tei:placeName>Mitte</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.516669 13.366669</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -6413,7 +6792,9 @@
                </org>
                <org xml:id="pmb37598">
                   <tei:orgName>Goethe-Gesellschaft Essen</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i997">Literarische Vereinigung</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb49970">
                      <tei:placeName>Essen</tei:placeName>
                      <tei:location>
@@ -6497,6 +6878,16 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb37600">
+                  <tei:orgName>Großer Saal des Museums</tei:orgName>
+                  <tei:desc/>
+                  <tei:place corresp="pmb45258">
+                     <tei:placeName>München</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb37608">
                   <tei:orgName>Großer Saal des Volksheims</tei:orgName>
                   <tei:desc/>
@@ -6504,16 +6895,6 @@
                      <tei:placeName>XVI., Ottakring</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.21667 16.3</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </org>
-               <org xml:id="pmb37600">
-                  <tei:orgName>Große Saal des Museums</tei:orgName>
-                  <tei:desc/>
-                  <tei:place corresp="pmb45258">
-                     <tei:placeName>München</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -6587,7 +6968,9 @@
                </org>
                <org xml:id="pmb37144">
                   <tei:orgName>Gutenberg-Verlag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb146">
                      <tei:placeName>Frankfurt am Main</tei:placeName>
                      <tei:location>
@@ -6597,7 +6980,9 @@
                </org>
                <org xml:id="pmb37148">
                   <tei:orgName>Gutmann (Konzertdirektion)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1542">Konzertdirektion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb53">
                      <tei:placeName>III., Landstraße</tei:placeName>
                      <tei:location>
@@ -6668,7 +7053,9 @@
                </org>
                <org xml:id="pmb37614">
                   <tei:orgName>Hamburger Bühne</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb506">
                      <tei:placeName>Hamburg</tei:placeName>
                      <tei:location>
@@ -6678,7 +7065,9 @@
                </org>
                <org xml:id="pmb37344">
                   <tei:orgName>Hamburger Fremdenblatt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb506">
                      <tei:placeName>Hamburg</tei:placeName>
                      <tei:location>
@@ -6688,7 +7077,9 @@
                </org>
                <org xml:id="pmb37346">
                   <tei:orgName>Hamburger Nachrichten</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb506">
                      <tei:placeName>Hamburg</tei:placeName>
                      <tei:location>
@@ -6701,7 +7092,9 @@
                </org>
                <org xml:id="pmb36813">
                   <tei:orgName>Handelsbezirksgericht Prag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb652">
                      <tei:placeName>Prag</tei:placeName>
                      <tei:location>
@@ -6778,7 +7171,9 @@
                </org>
                <org xml:id="pmb37618">
                   <tei:orgName>Haus der Barmherzigkeit zur Pflege Unheilbarer</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb68">
                      <tei:placeName>XVIII., Währing</tei:placeName>
                      <tei:location>
@@ -6788,7 +7183,31 @@
                </org>
                <org xml:id="pmb37620">
                   <tei:orgName>Haus des Kindes</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
+               </org>
+               <org xml:id="pmb64534">
+                  <tei:orgName>ha- Zeman</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1904-01-01"
+                               from-custom="1904"
+                               to="1914-01-01"
+                               to-custom="1914">1904–1914</tei:date>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb60492">
+                     <tei:placeName>Vilnius</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">54.68916 25.2798</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb433">
+                     <tei:placeName>Sankt Petersburg</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">59.93863 30.31413</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb60776">
                   <tei:orgName>Hegewald-Film</tei:orgName>
@@ -6812,7 +7231,9 @@
                </org>
                <org xml:id="pmb37623">
                   <tei:orgName>Heim für Blinde Mädchen</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb52">
                      <tei:placeName>II., Leopoldstadt</tei:placeName>
                      <tei:location>
@@ -6901,7 +7322,9 @@
                </org>
                <org xml:id="pmb37348">
                   <tei:orgName>Herold Berlin</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb29240">
                   <tei:orgName>Herrmann-Bank</tei:orgName>
@@ -6949,7 +7372,9 @@
                </org>
                <org xml:id="pmb37627">
                   <tei:orgName>Hilfsverein für Lungenkranke</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -6959,7 +7384,9 @@
                </org>
                <org xml:id="pmb37629">
                   <tei:orgName>Hindenburgschule</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1330">Schule</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb42605">
                      <tei:placeName>Kaliningrad</tei:placeName>
                      <tei:location>
@@ -7033,7 +7460,9 @@
                </org>
                <org xml:id="pmb37639">
                   <tei:orgName>Hof- und Nationaltheater Mannheim</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb881">
                      <tei:placeName>Mannheim</tei:placeName>
                      <tei:location>
@@ -7078,7 +7507,9 @@
                </org>
                <org xml:id="pmb37643">
                   <tei:orgName>Hotel Bayrischer Hof</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1624">Hotel</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb45258">
                      <tei:placeName>München</tei:placeName>
                      <tei:location>
@@ -7148,6 +7579,7 @@
                                from-custom="1916"
                                to="1943-01-01"
                                to-custom="1943">1916–1943</tei:date>
+                     <tei:gloss ana="i1000">Verlagskonzern</tei:gloss>
                   </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
@@ -7190,7 +7622,9 @@
                </org>
                <org xml:id="pmb37645">
                   <tei:orgName>I. Blinden-Unterstützungsverein</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb58">
                      <tei:placeName>VIII., Josefstadt</tei:placeName>
                      <tei:location>
@@ -7445,7 +7879,9 @@
                </org>
                <org xml:id="pmb37651">
                   <tei:orgName>Israelitische Kinderbewahranstalt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb36929">
                   <tei:orgName>Israelitische Kultusgemeinde Wien</tei:orgName>
@@ -7456,10 +7892,6 @@
                         <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
-               </org>
-               <org xml:id="pmb37153">
-                  <tei:orgName>Israelitische Kultusgemeinde Wien</tei:orgName>
-                  <tei:desc/>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -7469,7 +7901,9 @@
                </org>
                <org xml:id="pmb37652">
                   <tei:orgName>Israelitisches Blindeninstitut</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb69">
                      <tei:placeName>XIX., Döbling</tei:placeName>
                      <tei:location>
@@ -7479,7 +7913,9 @@
                </org>
                <org xml:id="pmb37654">
                   <tei:orgName>Israelitisches Knaben-Waisenhaus</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb69">
                      <tei:placeName>XIX., Döbling</tei:placeName>
                      <tei:location>
@@ -7570,7 +8006,9 @@
                </org>
                <org xml:id="pmb52574">
                   <tei:orgName>Jakob (Konzertdirektion)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1542">Konzertdirektion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb37208">
                   <tei:orgName>Jakob Kraus Vereinigte Papier- und Ultramarin Fabriken</tei:orgName>
@@ -7735,7 +8173,9 @@
                </org>
                <org xml:id="pmb37656">
                   <tei:orgName>Jüdische Jugendfürsorge</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i978">Wohltätigkeitsverein</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -7751,7 +8191,9 @@
                </org>
                <org xml:id="pmb37661">
                   <tei:orgName>Jüdisches Hilfswerk</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb52">
                      <tei:placeName>II., Leopoldstadt</tei:placeName>
                      <tei:location>
@@ -7790,7 +8232,9 @@
                </org>
                <org xml:id="pmb37670">
                   <tei:orgName>Jugendfürsorge Brünn</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb833">
                      <tei:placeName>Brünn</tei:placeName>
                      <tei:location>
@@ -7800,7 +8244,9 @@
                </org>
                <org xml:id="pmb37676">
                   <tei:orgName>Jugendfürsorge Mährisch-Ostrau</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb41075">
                      <tei:placeName>Ostrava</tei:placeName>
                      <tei:location>
@@ -7808,10 +8254,10 @@
                      </tei:location>
                   </tei:place>
                </org>
-               <org xml:id="pmb57535">
-                  <tei:orgName>Jugendgericht Prag</tei:orgName>
+               <org xml:id="pmb37679">
+                  <tei:orgName>Jugendfürsorge Prag</tei:orgName>
                   <tei:desc>
-                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
                   </tei:desc>
                   <tei:place corresp="pmb652">
                      <tei:placeName>Prag</tei:placeName>
@@ -7820,9 +8266,11 @@
                      </tei:location>
                   </tei:place>
                </org>
-               <org xml:id="pmb37679">
-                  <tei:orgName>Jugenfürsorge Prag</tei:orgName>
-                  <tei:desc/>
+               <org xml:id="pmb57535">
+                  <tei:orgName>Jugendgericht Prag</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb652">
                      <tei:placeName>Prag</tei:placeName>
                      <tei:location>
@@ -7873,7 +8321,9 @@
                </org>
                <org xml:id="pmb37682">
                   <tei:orgName>k. k. n.-ö. Statthalterei zur Fürsorge für erblindete Soldaten</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb37202">
                   <tei:orgName>K. L. Köhler (Buchvertrieb)</tei:orgName>
@@ -7906,7 +8356,9 @@
                </org>
                <org xml:id="pmb37694">
                   <tei:orgName>Kabarett der Komiker</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1042">Kabarett</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -7961,11 +8413,13 @@
                </org>
                <org xml:id="pmb36815">
                   <tei:orgName>Kammergericht Berlin</tei:orgName>
-                  <tei:desc/>
-                  <tei:place corresp="pmb36816">
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb12562">
                      <tei:placeName>Schöneberg</tei:placeName>
                      <tei:location>
-                        <tei:geo decls="LatLng">52.46667 13.38333</tei:geo>
+                        <tei:geo decls="LatLng">52.483333 13.366667</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -7999,7 +8453,9 @@
                </org>
                <org xml:id="pmb37713">
                   <tei:orgName>Kammerspiele Hamburg</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb506">
                      <tei:placeName>Hamburg</tei:placeName>
                      <tei:location>
@@ -8046,10 +8502,10 @@
                <org xml:id="pmb37185">
                   <tei:orgName>Kampfausschuß gegen die Zensur</tei:orgName>
                   <tei:desc/>
-                  <tei:place corresp="pmb36816">
+                  <tei:place corresp="pmb12562">
                      <tei:placeName>Schöneberg</tei:placeName>
                      <tei:location>
-                        <tei:geo decls="LatLng">52.46667 13.38333</tei:geo>
+                        <tei:geo decls="LatLng">52.483333 13.366667</tei:geo>
                      </tei:location>
                   </tei:place>
                   <tei:place corresp="pmb659">
@@ -8101,7 +8557,9 @@
                </org>
                <org xml:id="pmb60573">
                   <tei:orgName>Karl Kraus-Gesellschaft</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i997">Literarische Vereinigung</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb51418">
                   <tei:orgName>Karl Schwarz Antiquitäten</tei:orgName>
@@ -8148,7 +8606,9 @@
                </org>
                <org xml:id="pmb37715">
                   <tei:orgName>Karolinen-Kinderspital</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1375">Krankenhaus</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb59">
                      <tei:placeName>IX., Alsergrund</tei:placeName>
                      <tei:location>
@@ -8244,8 +8704,10 @@
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29394</idno>
                </org>
                <org xml:id="pmb37719">
-                  <tei:orgName>Kinderasyl "Kahlenbergerdorf"</tei:orgName>
-                  <tei:desc/>
+                  <tei:orgName>Kinderasyl „Kahlenbergerdorf“</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -8255,21 +8717,37 @@
                </org>
                <org xml:id="pmb37190">
                   <tei:orgName>Kinderschutz- und Rettungsgesellschaft Wien</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i978">Wohltätigkeitsverein</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb59">
                      <tei:placeName>IX., Alsergrund</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.22387 16.35641</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb37195">
                   <tei:orgName>Kleine Bühne (Wien)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -8338,18 +8816,6 @@
                      <tei:placeName>Landstraßer Hauptstraße</tei:placeName>
                   </tei:place>
                </org>
-               <org xml:id="pmb60830">
-                  <tei:orgName>Knigoizd-vo Polʹza, V. Antik</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i975">Verlag</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb869">
-                     <tei:placeName>Moskau</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">55.76167 37.60667</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </org>
                <org xml:id="pmb60819">
                   <tei:orgName>Knižnaja Ekspedicija</tei:orgName>
                   <tei:desc>
@@ -8369,11 +8835,9 @@
                   </tei:desc>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29738</idno>
                </org>
-               <org xml:id="pmb56773">
-                  <tei:orgName>Koči</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i975">Verlag</tei:gloss>
-                  </tei:desc>
+               <org xml:id="pmb65605">
+                  <tei:orgName>Knzlei</tei:orgName>
+                  <tei:desc/>
                </org>
                <org xml:id="pmb56774">
                   <tei:orgName>Koči</tei:orgName>
@@ -8416,7 +8880,9 @@
                </org>
                <org xml:id="pmb37400">
                   <tei:orgName>Kölner Woche</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb145">
                      <tei:placeName>Köln</tei:placeName>
                      <tei:location>
@@ -8689,7 +9155,9 @@
                </org>
                <org xml:id="pmb36818">
                   <tei:orgName>Kreis-Strafgericht Brünn</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb833">
                      <tei:placeName>Brünn</tei:placeName>
                      <tei:location>
@@ -8699,9 +9167,11 @@
                </org>
                <org xml:id="pmb36820">
                   <tei:orgName>Kreis-Strafgericht Leitmeritz</tei:orgName>
-                  <tei:desc/>
-                  <tei:place corresp="pmb12003">
-                     <tei:placeName>Leitmeritz</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb64448">
+                     <tei:placeName>Litoměřice</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">50.53348 14.1318</tei:geo>
                      </tei:location>
@@ -8826,7 +9296,9 @@
                </org>
                <org xml:id="pmb37229">
                   <tei:orgName>Kux, Bloch &amp; Co. (Bankhaus)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i986">Bankhaus</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -8903,6 +9375,7 @@
                   <tei:orgName>Labour Party</tei:orgName>
                   <tei:desc>
                      <tei:date from="1900-01-01" from-custom="1900">1900</tei:date>
+                     <tei:gloss ana="i1022">Politische Vereinigung</tei:gloss>
                   </tei:desc>
                   <tei:place corresp="pmb34523">
                      <tei:placeName>Vereinigtes Königreich</tei:placeName>
@@ -8948,21 +9421,37 @@
                </org>
                <org xml:id="pmb36842">
                   <tei:orgName>Landesgericht für Strafsachen</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb58">
                      <tei:placeName>VIII., Josefstadt</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.21126 16.34706</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb36840">
                   <tei:orgName>Landesgericht für Strafsachen (Staatsanwaltschaft)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1242">Staatsanwaltschaft</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb58">
                      <tei:placeName>VIII., Josefstadt</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.21126 16.34706</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -8980,21 +9469,37 @@
                </org>
                <org xml:id="pmb36844">
                   <tei:orgName>Landesgericht für Zivilrechtssachen Wien</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb36830">
-                  <tei:orgName>Landesgericht I Berlin (Generalstaatsanwalt)</tei:orgName>
-                  <tei:desc/>
+                  <tei:orgName>Landesgericht I Berlin (Generalstaatsanwaltschaft)</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1242">Staatsanwaltschaft</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb36737">
                      <tei:placeName>Mitte</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.516669 13.366669</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -9025,7 +9530,9 @@
                </org>
                <org xml:id="pmb36824">
                   <tei:orgName>Landgericht Essen</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb49809">
                      <tei:placeName>Rüttenscheid</tei:placeName>
                      <tei:location>
@@ -9047,7 +9554,9 @@
                </org>
                <org xml:id="pmb36828">
                   <tei:orgName>Landgericht Hamburg</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb506">
                      <tei:placeName>Hamburg</tei:placeName>
                      <tei:location>
@@ -9057,7 +9566,9 @@
                </org>
                <org xml:id="pmb36832">
                   <tei:orgName>Landgericht I Berlin</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb36737">
                      <tei:placeName>Mitte</tei:placeName>
                      <tei:location>
@@ -9070,14 +9581,28 @@
                         <tei:geo decls="LatLng">52.5198281 13.413936</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb36834">
                   <tei:orgName>Landgericht III Berlin</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb9925">
                      <tei:placeName>Charlottenburg</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.516667 13.3</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -9095,11 +9620,19 @@
                </org>
                <org xml:id="pmb36838">
                   <tei:orgName>Landgericht Nürnberg</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb44172">
                      <tei:placeName>Nürnberg</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">49.45421 11.07752</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -9249,7 +9782,9 @@
                </org>
                <org xml:id="pmb37408">
                   <tei:orgName>Le Journal</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb182">
                      <tei:placeName>Paris</tei:placeName>
                      <tei:location>
@@ -9377,7 +9912,9 @@
                </org>
                <org xml:id="pmb37415">
                   <tei:orgName>Lidové Noviny</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb833">
                      <tei:placeName>Brünn</tei:placeName>
                      <tei:location>
@@ -9468,7 +10005,9 @@
                </org>
                <org xml:id="pmb37421">
                   <tei:orgName>Literarische Rundschau (Berliner Tageblatt)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb42708">
                   <tei:orgName>Literarisches Bureau Clemens Freyer</tei:orgName>
@@ -9735,7 +10274,7 @@
                         <tei:geo decls="LatLng">50.08333 14.46667</tei:geo>
                      </tei:location>
                   </tei:place>
-                  <tei:place corresp="pmb62748">
+                  <tei:place corresp="pmb64147">
                      <tei:placeName>London</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">51.50853 -0.12574</tei:geo>
@@ -9758,7 +10297,9 @@
                </org>
                <org xml:id="pmb37429">
                   <tei:orgName>Mannheimer Tagblatt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb29216">
                   <tei:orgName>Manz’sche Verlags- und Universitätsbuchhandlung</tei:orgName>
@@ -9899,7 +10440,9 @@
                </org>
                <org xml:id="pmb37231">
                   <tei:orgName>Melantrich Verlag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb652">
                      <tei:placeName>Prag</tei:placeName>
                      <tei:location>
@@ -9920,6 +10463,12 @@
                   </tei:place>
                   <idno type="gnd">https://d-nb.info/gnd/5325531-8/</idno>
                </org>
+               <org xml:id="pmb65574">
+                  <tei:orgName>Mesogeios</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1642">Aktiengesellschaft</tei:gloss>
+                  </tei:desc>
+               </org>
                <org xml:id="pmb29748">
                   <tei:orgName>Metro Goldwyn Mayer Filmgesellschaft</tei:orgName>
                   <tei:desc>
@@ -9929,7 +10478,9 @@
                </org>
                <org xml:id="pmb37227">
                   <tei:orgName>Militärliquidierungsamt Wien</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i984">Amt</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -10116,7 +10667,9 @@
                </org>
                <org xml:id="pmb37433">
                   <tei:orgName>Montag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i998">Wochenzeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb59">
                      <tei:placeName>IX., Alsergrund</tei:placeName>
                      <tei:location>
@@ -10126,7 +10679,9 @@
                </org>
                <org xml:id="pmb37439">
                   <tei:orgName>Montag Morgen</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i998">Wochenzeitungsredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb29326">
                   <tei:orgName>Montagsblatt der St. Petersburger Zeitung</tei:orgName>
@@ -10357,7 +10912,9 @@
                </org>
                <org xml:id="pmb37440">
                   <tei:orgName>Münchner Zeitung</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb45258">
                      <tei:placeName>München</tei:placeName>
                      <tei:location>
@@ -10377,6 +10934,7 @@
                         <tei:geo decls="LatLng">48.85341 2.3488</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <idno type="gnd">https://d-nb.info/gnd/1006837-5/</idno>
                </org>
                <org xml:id="pmb34146">
                   <tei:orgName>Musikverlag Adolph Fürstner</tei:orgName>
@@ -10433,6 +10991,19 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb65717">
+                  <tei:orgName>Nationale und Kapodistrias-Universität Athen</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1837-01-01" from-custom="1837">1837</tei:date>
+                     <tei:gloss ana="i1032">Universität</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb505">
+                     <tei:placeName>Athen</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">37.97945 23.71622</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb55007">
                   <tei:orgName>Nationalrat</tei:orgName>
                   <tei:desc>
@@ -10447,7 +11018,9 @@
                </org>
                <org xml:id="pmb37221">
                   <tei:orgName>Nationalsozialistische Arbeiterpartei</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1022">Politische Vereinigung</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -10501,7 +11074,9 @@
                </org>
                <org xml:id="pmb37447">
                   <tei:orgName>Neue Deutsche Blätter</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1766"/>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -10603,11 +11178,29 @@
                </org>
                <org xml:id="pmb37462">
                   <tei:orgName>Neuer Daimon</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb65243">
+                  <tei:orgName>Neue Revue. Wochenschrift für das öffentliche Leben</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1907-01-01"
+                               from-custom="1907"
+                               to="1909-01-01"
+                               to-custom="1909">1907–1909</tei:date>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -10735,7 +11328,9 @@
                </org>
                <org xml:id="pmb37473">
                   <tei:orgName>Neues Wiener Abendblatt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -10811,7 +11406,9 @@
                </org>
                <org xml:id="pmb37217">
                   <tei:orgName>Neue Truppe (Berlin)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i985">Theatergruppe</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb36903">
                      <tei:placeName>Kreuzberg</tei:placeName>
                      <tei:location>
@@ -10822,6 +11419,12 @@
                      <tei:placeName>Splittgerber Gasse</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.51226 13.41068</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -10935,7 +11538,9 @@
                </org>
                <org xml:id="pmb37200">
                   <tei:orgName>Niederösterreichischer Gewerbeverein</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i974">Verein</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -10996,7 +11601,9 @@
                </org>
                <org xml:id="pmb37196">
                   <tei:orgName>Nordische Bank</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i977">Bank</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb62213">
                   <tei:orgName>Nordiska musikförlaget</tei:orgName>
@@ -11091,10 +11698,6 @@
                      </tei:location>
                   </tei:place>
                </org>
-               <org xml:id="pmb60559">
-                  <tei:orgName>Oberlandesgericht (Hamm)</tei:orgName>
-                  <tei:desc/>
-               </org>
                <org xml:id="pmb51790">
                   <tei:orgName>Oberlandesgericht Graz</tei:orgName>
                   <tei:desc>
@@ -11103,11 +11706,31 @@
                </org>
                <org xml:id="pmb36846">
                   <tei:orgName>Oberlandesgericht Hamburg</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb506">
                      <tei:placeName>Hamburg</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">53.57532 10.01534</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb60559">
+                  <tei:orgName>Oberlandesgericht Hamm</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
+               </org>
+               <org xml:id="pmb65238">
+                  <tei:orgName>Oberlandesgericht Kassel</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb39640">
+                     <tei:placeName>Kassel</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">51.31667 9.5</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -11119,7 +11742,9 @@
                </org>
                <org xml:id="pmb36848">
                   <tei:orgName>Oberlandesgericht Prag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb652">
                      <tei:placeName>Prag</tei:placeName>
                      <tei:location>
@@ -11129,17 +11754,27 @@
                </org>
                <org xml:id="pmb36850">
                   <tei:orgName>Oberlandesgericht Wien</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb37484">
                   <tei:orgName>Oberösterreichische Tageszeitung</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb332">
                      <tei:placeName>Linz</tei:placeName>
                      <tei:location>
@@ -11180,7 +11815,9 @@
                </org>
                <org xml:id="pmb36852">
                   <tei:orgName>Oberstaatsanwaltschaft Essen-Ruhr</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1242">Staatsanwaltschaft</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb49970">
                      <tei:placeName>Essen</tei:placeName>
                      <tei:location>
@@ -11369,7 +12006,9 @@
                </org>
                <org xml:id="pmb37183">
                   <tei:orgName>Oper am Platz der Republik Berlin (Krolloper)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1479">Oper</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb36914">
                      <tei:placeName>Tiergarten</tei:placeName>
                      <tei:location>
@@ -11378,6 +12017,12 @@
                   </tei:place>
                   <tei:place corresp="pmb56705">
                      <tei:placeName>Platz der Republik</tei:placeName>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
                   </tei:place>
                </org>
                <org xml:id="pmb57252">
@@ -11513,7 +12158,9 @@
                </org>
                <org xml:id="pmb37172">
                   <tei:orgName>Österreichische Gesandtschaft Berlin</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1726"/>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -11563,6 +12210,16 @@
                   <tei:orgName>Österreichische Künstlerhilfe</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i978">Wohltätigkeitsverein</tei:gloss>
+                  </tei:desc>
+               </org>
+               <org xml:id="pmb65146">
+                  <tei:orgName>Österreichische Luftverkehrs AG</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1923-01-01"
+                               from-custom="1923"
+                               to="1939-01-01"
+                               to-custom="1939">1923–1939</tei:date>
+                     <tei:gloss ana="i1670">Fluggesellschaft</tei:gloss>
                   </tei:desc>
                </org>
                <org xml:id="pmb58020">
@@ -11654,7 +12311,9 @@
                </org>
                <org xml:id="pmb37488">
                   <tei:orgName>Österreichisches Abendblatt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -11682,6 +12341,9 @@
                      <tei:location>
                         <tei:geo decls="LatLng">37.97945 23.71622</tei:geo>
                      </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb65570">
+                     <tei:placeName>Rue Alexandros</tei:placeName>
                   </tei:place>
                </org>
                <org xml:id="pmb37165">
@@ -11743,8 +12405,10 @@
                   <idno type="gnd">https://d-nb.info/gnd/1072156318/</idno>
                </org>
                <org xml:id="pmb37160">
-                  <tei:orgName>Pädagogium Wien VII</tei:orgName>
-                  <tei:desc/>
+                  <tei:orgName>Pädagogium Wien VII.</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i982">Bildungseinrichtung</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb57">
                      <tei:placeName>VII., Neubau</tei:placeName>
                      <tei:location>
@@ -11783,7 +12447,9 @@
                </org>
                <org xml:id="pmb37506">
                   <tei:orgName>Pariser Kurier</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb182">
                      <tei:placeName>Paris</tei:placeName>
                      <tei:location>
@@ -11830,10 +12496,10 @@
                         <tei:geo decls="LatLng">48.19198 16.36714</tei:geo>
                      </tei:location>
                   </tei:place>
-                  <tei:place corresp="pmb36816">
+                  <tei:place corresp="pmb12562">
                      <tei:placeName>Schöneberg</tei:placeName>
                      <tei:location>
-                        <tei:geo decls="LatLng">52.46667 13.38333</tei:geo>
+                        <tei:geo decls="LatLng">52.483333 13.366667</tei:geo>
                      </tei:location>
                   </tei:place>
                   <tei:place corresp="pmb524">
@@ -11861,7 +12527,9 @@
                </org>
                <org xml:id="pmb60044">
                   <tei:orgName>Pension Duncan</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1624">Hotel</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb56816">
                   <tei:orgName>Pension Kraft</tei:orgName>
@@ -12069,7 +12737,9 @@
                </org>
                <org xml:id="pmb36860">
                   <tei:orgName>Polizeidirektion Berlin</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1240">Polizeibehörde</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -12079,7 +12749,9 @@
                </org>
                <org xml:id="pmb36862">
                   <tei:orgName>Polizeidirektion Budapest</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1240">Polizeibehörde</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb43471">
                      <tei:placeName>Budapest</tei:placeName>
                      <tei:location>
@@ -12107,7 +12779,9 @@
                </org>
                <org xml:id="pmb36865">
                   <tei:orgName>Polizeidirektion Wien</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1240">Polizeibehörde</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -12211,6 +12885,18 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb60830">
+                  <tei:orgName>Polʹza, V. Antik</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb869">
+                     <tei:placeName>Moskau</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">55.76167 37.60667</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb52633">
                   <tei:orgName>Postamt 40 Wien</tei:orgName>
                   <tei:desc>
@@ -12277,11 +12963,21 @@
                </org>
                <org xml:id="pmb37510">
                   <tei:orgName>Pragai Magyar Hirlap</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb652">
+                     <tei:placeName>Prag</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">50.08333 14.46667</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb37511">
                   <tei:orgName>Prager Mittag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb652">
                      <tei:placeName>Prag</tei:placeName>
                      <tei:location>
@@ -12291,7 +12987,9 @@
                </org>
                <org xml:id="pmb37517">
                   <tei:orgName>Prager Monatsblatt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1766"/>
+                  </tei:desc>
                   <tei:place corresp="pmb652">
                      <tei:placeName>Prag</tei:placeName>
                      <tei:location>
@@ -12368,8 +13066,8 @@
                   <tei:desc>
                      <tei:gloss ana="i1037">Gericht</tei:gloss>
                   </tei:desc>
-                  <tei:place corresp="pmb12003">
-                     <tei:placeName>Leitmeritz</tei:placeName>
+                  <tei:place corresp="pmb64448">
+                     <tei:placeName>Litoměřice</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">50.53348 14.1318</tei:geo>
                      </tei:location>
@@ -12634,6 +13332,24 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb65606">
+                  <tei:orgName>Rechtsanwaltskanzlei (Oskar Blau / Walter Gutmann)</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1629">Kanzlei</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb60070">
+                     <tei:placeName>Marc-Aurel-Straße</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.212180764407506 16.37289068286287</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb52185">
                   <tei:orgName>Rechtshilfe und Übersetzungskanzlei des Bundeskanzleramtes</tei:orgName>
                   <tei:desc/>
@@ -12824,7 +13540,9 @@
                </org>
                <org xml:id="pmb37123">
                   <tei:orgName>Renaissance Theater Berlin</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -12839,6 +13557,7 @@
                                from-custom="1923"
                                to="1934-02-14"
                                to-custom="02-1934">1923–02-1934</tei:date>
+                     <tei:gloss ana="i1022">Politische Vereinigung</tei:gloss>
                   </tei:desc>
                </org>
                <org xml:id="pmb61685">
@@ -12983,7 +13702,9 @@
                </org>
                <org xml:id="pmb37114">
                   <tei:orgName>Robert-Bühnen</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1047">Theaterunternehmen</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -12999,7 +13720,9 @@
                </org>
                <org xml:id="pmb37100">
                   <tei:orgName>Rohrer (Druckerei)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1036">Druckerei</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb833">
                      <tei:placeName>Brünn</tei:placeName>
                      <tei:location>
@@ -13113,7 +13836,9 @@
                </org>
                <org xml:id="pmb37223">
                   <tei:orgName>Rudolf Mosse Verlag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb36903">
                      <tei:placeName>Kreuzberg</tei:placeName>
                      <tei:location>
@@ -13413,7 +14138,9 @@
                </org>
                <org xml:id="pmb37070">
                   <tei:orgName>Schatzki (Buchhandlung)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1020">Buchhandlung</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb146">
                      <tei:placeName>Frankfurt am Main</tei:placeName>
                      <tei:location>
@@ -13422,7 +14149,7 @@
                   </tei:place>
                </org>
                <org xml:id="pmb55522">
-                  <tei:orgName>Schauspielhaus (Berlin)</tei:orgName>
+                  <tei:orgName>Schauspielhaus Berlin</tei:orgName>
                   <tei:desc>
                      <tei:gloss ana="i1012">Theater</tei:gloss>
                   </tei:desc>
@@ -13430,18 +14157,6 @@
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </org>
-               <org xml:id="pmb57143">
-                  <tei:orgName>Schauspielhaus (Breslau)</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i1012">Theater</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb677">
-                     <tei:placeName>Breslau</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">51.10773 17.03533</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -13454,6 +14169,18 @@
                      <tei:placeName>München</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.13743 11.57549</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
+               <org xml:id="pmb57143">
+                  <tei:orgName>Schauspielhaus Breslau</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb677">
+                     <tei:placeName>Breslau</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">51.10773 17.03533</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -13485,7 +14212,9 @@
                </org>
                <org xml:id="pmb37534">
                   <tei:orgName>Scheinwerfer</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb40227">
                   <tei:orgName>Schenker &amp; Co.</tei:orgName>
@@ -13628,9 +14357,39 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb65209">
+                  <tei:orgName>Schwarzwald-Schule</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1901-01-01"
+                               from-custom="1901"
+                               to="1938-01-01"
+                               to-custom="1938">1901–1938</tei:date>
+                     <tei:gloss ana="i1330">Schule</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb51">
+                     <tei:placeName>I., Innere Stadt</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb597">
+                     <tei:placeName>Kohlmarkt</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.208793755801 16.367626574032</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb43147">
+                     <tei:placeName>Wallnerstraße</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.209583 16.36688</tei:geo>
+                     </tei:location>
+                  </tei:place>
+               </org>
                <org xml:id="pmb37059">
                   <tei:orgName>Schweizerische Gesandtschaft in Wien</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1726"/>
+                  </tei:desc>
                   <tei:place corresp="pmb54">
                      <tei:placeName>IV., Wieden</tei:placeName>
                      <tei:location>
@@ -13640,7 +14399,9 @@
                </org>
                <org xml:id="pmb37057">
                   <tei:orgName>Schweizerische Kreditanstalt Zürich</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i977">Bank</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb484">
                      <tei:placeName>Zürich</tei:placeName>
                      <tei:location>
@@ -13650,11 +14411,15 @@
                </org>
                <org xml:id="pmb37535">
                   <tei:orgName>Sechs Uhr Abendblatt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb37055">
                   <tei:orgName>Security First National Bank Los Angeles</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i977">Bank</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb37116">
                      <tei:placeName>Los Angeles</tei:placeName>
                      <tei:location>
@@ -13749,7 +14514,9 @@
                </org>
                <org xml:id="pmb37537">
                   <tei:orgName>Silesia</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb9421">
                      <tei:placeName>Cieszyn</tei:placeName>
                      <tei:location>
@@ -13823,12 +14590,20 @@
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29343</idno>
                </org>
                <org xml:id="pmb37049">
-                  <tei:orgName>Sorbonne (Universität Paris)</tei:orgName>
-                  <tei:desc/>
+                  <tei:orgName>Sorbonne</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1420">Hochschule</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb37051">
                      <tei:placeName>15. Arrondissement (Vaugirard)</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.8412 2.3003</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb182">
+                     <tei:placeName>Paris</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.85341 2.3488</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -13848,21 +14623,23 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb38090">
+                  <tei:orgName>Sozialdemokratische Arbeiterpartei Österreichs (SDAP)</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1022">Politische Vereinigung</tei:gloss>
+                  </tei:desc>
+               </org>
                <org xml:id="pmb37047">
                   <tei:orgName>Sozialdemokratische Kunststelle</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1038">Verein für Kunstpflege</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb55">
                      <tei:placeName>V., Margareten</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.18646 16.35491</tei:geo>
                      </tei:location>
                   </tei:place>
-               </org>
-               <org xml:id="pmb38090">
-                  <tei:orgName>Sozialdemokratischen Arbeiterpartei Österreichs (SDAP)</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i1022">Politische Vereinigung</tei:gloss>
-                  </tei:desc>
                </org>
                <org xml:id="pmb57953">
                   <tei:orgName>Sozialdemokratische Partei Deutschlands (SPD)</tei:orgName>
@@ -13904,7 +14681,9 @@
                </org>
                <org xml:id="pmb37743">
                   <tei:orgName>Sozialistische Wochenzeitung</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i998">Wochenzeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -13977,7 +14756,9 @@
                </org>
                <org xml:id="pmb37045">
                   <tei:orgName>Staatliche Graphische Lehr- und Versuchsanstalt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i982">Bildungseinrichtung</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb52">
                      <tei:placeName>II., Leopoldstadt</tei:placeName>
                      <tei:location>
@@ -14009,11 +14790,19 @@
                </org>
                <org xml:id="pmb36867">
                   <tei:orgName>Staatsanwaltschaft Berlin</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1242">Staatsanwaltschaft</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb36809">
                      <tei:placeName>Moabit</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.52635 13.33903</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -14115,7 +14904,9 @@
                </org>
                <org xml:id="pmb37043">
                   <tei:orgName>Staatsoper Unter den Linden (Berlin)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1479">Oper</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb36737">
                      <tei:placeName>Mitte</tei:placeName>
                      <tei:location>
@@ -14125,11 +14916,21 @@
                </org>
                <org xml:id="pmb52101">
                   <tei:orgName>Staatsrealschule (Mährisch-Ostrau)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1330">Schule</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb41075">
+                     <tei:placeName>Ostrava</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">49.83465 18.28204</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb37041">
                   <tei:orgName>Staatstheater Dresden</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb866">
                      <tei:placeName>Dresden</tei:placeName>
                      <tei:location>
@@ -14139,7 +14940,9 @@
                </org>
                <org xml:id="pmb37039">
                   <tei:orgName>Stachelbeere (Kleinkunstbühne)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1047">Theaterunternehmen</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -14187,7 +14990,9 @@
                </org>
                <org xml:id="pmb37035">
                   <tei:orgName>Städtische Bühnen Dortmund</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb915">
                      <tei:placeName>Dortmund</tei:placeName>
                      <tei:location>
@@ -14197,7 +15002,9 @@
                </org>
                <org xml:id="pmb37033">
                   <tei:orgName>Städtische Bühnen Frankfurt am Main</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb146">
                      <tei:placeName>Frankfurt am Main</tei:placeName>
                      <tei:location>
@@ -14207,11 +15014,19 @@
                </org>
                <org xml:id="pmb37031">
                   <tei:orgName>Städtische Oper Berlin</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1479">Oper</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb9925">
                      <tei:placeName>Charlottenburg</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.516667 13.3</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -14320,7 +15135,9 @@
                </org>
                <org xml:id="pmb37029">
                   <tei:orgName>Stadttheater Essen</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb49970">
                      <tei:placeName>Essen</tei:placeName>
                      <tei:location>
@@ -14366,7 +15183,9 @@
                </org>
                <org xml:id="pmb37027">
                   <tei:orgName>Stadttheater Mannheim</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb881">
                      <tei:placeName>Mannheim</tei:placeName>
                      <tei:location>
@@ -14469,19 +15288,11 @@
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb39535</idno>
                </org>
-               <org xml:id="pmb36877">
-                  <tei:orgName>Strafbezirksgericht</tei:orgName>
-                  <tei:desc/>
-                  <tei:place corresp="pmb58">
-                     <tei:placeName>VIII., Josefstadt</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">48.21126 16.34706</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </org>
                <org xml:id="pmb36871">
                   <tei:orgName>Strafbezirksgericht Brünn</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb833">
                      <tei:placeName>Brünn</tei:placeName>
                      <tei:location>
@@ -14491,7 +15302,9 @@
                </org>
                <org xml:id="pmb36873">
                   <tei:orgName>Strafbezirksgericht Budapest</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb43471">
                      <tei:placeName>Budapest</tei:placeName>
                      <tei:location>
@@ -14504,6 +15317,12 @@
                   <tei:desc>
                      <tei:gloss ana="i1037">Gericht</tei:gloss>
                   </tei:desc>
+                  <tei:place corresp="pmb58">
+                     <tei:placeName>VIII., Josefstadt</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.21126 16.34706</tei:geo>
+                     </tei:location>
+                  </tei:place>
                   <tei:place corresp="pmb50664">
                      <tei:placeName>Schiffamtsgasse</tei:placeName>
                      <tei:location>
@@ -14711,7 +15530,9 @@
                </org>
                <org xml:id="pmb37546">
                   <tei:orgName>Tägliche Komödie. Tageszeitung für Bühne, Film, Musik, Bild, Kunst, Kabarett, Radio, Sport</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -14789,7 +15610,9 @@
                </org>
                <org xml:id="pmb37019">
                   <tei:orgName>Thaliatheater</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb506">
                      <tei:placeName>Hamburg</tei:placeName>
                      <tei:location>
@@ -14831,11 +15654,19 @@
                </org>
                <org xml:id="pmb37014">
                   <tei:orgName>Theater am Nollendorfplatz</tei:orgName>
-                  <tei:desc/>
-                  <tei:place corresp="pmb36816">
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb12562">
                      <tei:placeName>Schöneberg</tei:placeName>
                      <tei:location>
-                        <tei:geo decls="LatLng">52.46667 13.38333</tei:geo>
+                        <tei:geo decls="LatLng">52.483333 13.366667</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -14859,11 +15690,19 @@
                </org>
                <org xml:id="pmb37007">
                   <tei:orgName>Theater am Zoo (Berlin)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb9925">
                      <tei:placeName>Charlottenburg</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">52.516667 13.3</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -14960,19 +15799,6 @@
                      <tei:gloss ana="i975">Verlag</tei:gloss>
                   </tei:desc>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29223</idno>
-               </org>
-               <org xml:id="pmb57787">
-                  <tei:orgName>Theatralische Gesellschaft</tei:orgName>
-                  <tei:desc>
-                     <tei:date from="1894-01-01" from-custom="1894">1894</tei:date>
-                     <tei:gloss ana="i999">Interessensvertretung</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb34438">
-                     <tei:placeName>Russland</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">60.0 100.0</tei:geo>
-                     </tei:location>
-                  </tei:place>
                </org>
                <org xml:id="pmb60688">
                   <tei:orgName>Theatre Royal Haymarket</tei:orgName>
@@ -15077,7 +15903,9 @@
                </org>
                <org xml:id="pmb37752">
                   <tei:orgName>Theodor Knaur Nachf. Verlag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb45258">
                      <tei:placeName>München</tei:placeName>
                      <tei:location>
@@ -15186,7 +16014,9 @@
                </org>
                <org xml:id="pmb36993">
                   <tei:orgName>Tobis Film Gesellschaft</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i994">Filmproduktionsfirma</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb61673">
                   <tei:orgName>Trianon-Theater</tei:orgName>
@@ -15285,6 +16115,12 @@
                <org xml:id="pmb36981">
                   <tei:orgName>Tschechoslowakisches Pressbüro</tei:orgName>
                   <tei:desc/>
+                  <tei:place corresp="pmb38444">
+                     <tei:placeName>Tschechoslowakei</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">50.08292 14.46672</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb57809">
                   <tei:orgName>Tschechow-Kunsttheater Moskau</tei:orgName>
@@ -15387,7 +16223,9 @@
                </org>
                <org xml:id="pmb36976">
                   <tei:orgName>Ultramarin Papierfabrik</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1504">Papier- und Farbenunternehmen</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb59810">
                   <tei:orgName>Unionbank</tei:orgName>
@@ -15407,7 +16245,9 @@
                </org>
                <org xml:id="pmb36971">
                   <tei:orgName>Universal Edition</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1013">Musikalienverlag</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb864">
                      <tei:placeName>Leipzig</tei:placeName>
                      <tei:location>
@@ -15429,6 +16269,18 @@
                   <tei:desc>
                      <tei:gloss ana="i1032">Universität</tei:gloss>
                   </tei:desc>
+               </org>
+               <org xml:id="pmb65597">
+                  <tei:orgName>Universitätsbibliothek Berlin</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1007">Bibliothek</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb29353">
                   <tei:orgName>Universitätsbibliothek Salzburg</tei:orgName>
@@ -15604,9 +16456,17 @@
                      </tei:location>
                   </tei:place>
                </org>
+               <org xml:id="pmb65409">
+                  <tei:orgName>Verband deutscher Rundfunkkritiker</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i1018">Rundfunkgesellschaft</tei:gloss>
+                  </tei:desc>
+               </org>
                <org xml:id="pmb36968">
                   <tei:orgName>Verband deutsch-völkischer Vereine Deutschösterreichs</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i974">Verein</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -15676,21 +16536,49 @@
                </org>
                <org xml:id="pmb36957">
                   <tei:orgName>Verein deutscher Studenten</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i974">Verein</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.20769 16.37049</tei:geo>
                      </tei:location>
                   </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb37709">
                   <tei:orgName>Verein deutsche Volksschule</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1330">Schule</tei:gloss>
+                  </tei:desc>
+               </org>
+               <org xml:id="pmb57787">
+                  <tei:orgName>Verein dramatischer und musikalischer Autoren</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1904-01-01"
+                               from-custom="1904"
+                               to="1918-01-01"
+                               to-custom="1918">1904–1918</tei:date>
+                     <tei:gloss ana="i999">Interessensvertretung</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb433">
+                     <tei:placeName>Sankt Petersburg</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">59.93863 30.31413</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb37711">
                   <tei:orgName>Verein Freie Studentenschaft der Universität Berlin</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i974">Verein</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb168">
                      <tei:placeName>Berlin</tei:placeName>
                      <tei:location>
@@ -15808,7 +16696,9 @@
                </org>
                <org xml:id="pmb36954">
                   <tei:orgName>Verein Volksbühne Augsburg</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i974">Verein</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb868">
                      <tei:placeName>Augsburg</tei:placeName>
                      <tei:location>
@@ -15828,18 +16718,6 @@
                      </tei:location>
                   </tei:place>
                </org>
-               <org xml:id="pmb63963">
-                  <tei:orgName>Verlag "Die Aktion"</tei:orgName>
-                  <tei:desc>
-                     <tei:gloss ana="i975">Verlag</tei:gloss>
-                  </tei:desc>
-                  <tei:place corresp="pmb593">
-                     <tei:placeName>Wilmersdorf</tei:placeName>
-                     <tei:location>
-                        <tei:geo decls="LatLng">52.48333 13.31667</tei:geo>
-                     </tei:location>
-                  </tei:place>
-               </org>
                <org xml:id="pmb53508">
                   <tei:orgName>Verlag der Arbeiter-Zeitung Dr. Adler-Emmerling</tei:orgName>
                   <tei:desc>
@@ -15854,7 +16732,9 @@
                </org>
                <org xml:id="pmb36944">
                   <tei:orgName>Verlag der Schriften von Karl Kraus</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb864">
                      <tei:placeName>Leipzig</tei:placeName>
                      <tei:location>
@@ -15867,6 +16747,18 @@
                   <tei:desc>
                      <tei:gloss ana="i975">Verlag</tei:gloss>
                   </tei:desc>
+               </org>
+               <org xml:id="pmb65420">
+                  <tei:orgName>Verlag Die Fackel (Berlin)</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb43724">
                   <tei:orgName>Verlag Die Fackel (Wien)</tei:orgName>
@@ -15906,7 +16798,9 @@
                </org>
                <org xml:id="pmb37745">
                   <tei:orgName>Verlag Ed. Hölzel</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb54">
                      <tei:placeName>IV., Wieden</tei:placeName>
                      <tei:location>
@@ -15989,6 +16883,18 @@
                      <tei:gloss ana="i975">Verlag</tei:gloss>
                   </tei:desc>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29367</idno>
+               </org>
+               <org xml:id="pmb63963">
+                  <tei:orgName>Verlag „Die Aktion“</tei:orgName>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
+                  <tei:place corresp="pmb593">
+                     <tei:placeName>Wilmersdorf</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.48333 13.31667</tei:geo>
+                     </tei:location>
+                  </tei:place>
                </org>
                <org xml:id="pmb57966">
                   <tei:orgName>Verlassenschaftsgericht Wien</tei:orgName>
@@ -16081,7 +16987,9 @@
                </org>
                <org xml:id="pmb37553">
                   <tei:orgName>Volkskampf</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -16212,7 +17120,9 @@
                </org>
                <org xml:id="pmb37397">
                   <tei:orgName>Vorwärts Berlin</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb36737">
                      <tei:placeName>Mitte</tei:placeName>
                      <tei:location>
@@ -16222,11 +17132,19 @@
                </org>
                <org xml:id="pmb36936">
                   <tei:orgName>Vorwärts Verlag</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i975">Verlag</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb55">
                      <tei:placeName>V., Margareten</tei:placeName>
                      <tei:location>
                         <tei:geo decls="LatLng">48.18646 16.35491</tei:geo>
+                     </tei:location>
+                  </tei:place>
+                  <tei:place corresp="pmb50">
+                     <tei:placeName>Wien</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">48.2066 16.37341</tei:geo>
                      </tei:location>
                   </tei:place>
                </org>
@@ -16312,11 +17230,11 @@
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29232</idno>
                </org>
                <org xml:id="pmb37675">
-                  <tei:orgName>Weigl's Antoniussaal</tei:orgName>
+                  <tei:orgName>Weigl’s Antoniussaal</tei:orgName>
                   <tei:desc/>
                </org>
                <org xml:id="pmb37678">
-                  <tei:orgName>Weigl's Dreherpark</tei:orgName>
+                  <tei:orgName>Weigl’s Dreherpark</tei:orgName>
                   <tei:desc/>
                   <tei:place corresp="pmb62">
                      <tei:placeName>XII., Meidling</tei:placeName>
@@ -16370,7 +17288,9 @@
                </org>
                <org xml:id="pmb37557">
                   <tei:orgName>Welt im Wort</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb40036">
                   <tei:orgName>Wenzel Swatek</tei:orgName>
@@ -16398,6 +17318,16 @@
                      </tei:location>
                   </tei:place>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41229</idno>
+               </org>
+               <org xml:id="pmb65241">
+                  <tei:orgName>Westermanns Monatshefte</tei:orgName>
+                  <tei:desc>
+                     <tei:date from="1856-10-01"
+                               from-custom="Oktober 1856"
+                               to="1987-02-01"
+                               to-custom="Februar 1987">Oktober 1856 – Februar 1987</tei:date>
+                     <tei:gloss ana="i973">Zeitschriftenredaktion</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb60785">
                   <tei:orgName>Westnik Jewropy</tei:orgName>
@@ -16524,7 +17454,9 @@
                </org>
                <org xml:id="pmb37683">
                   <tei:orgName>Wiener Bürgertheater</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1012">Theater</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb53">
                      <tei:placeName>III., Landstraße</tei:placeName>
                      <tei:location>
@@ -16554,7 +17486,9 @@
                </org>
                <org xml:id="pmb37685">
                   <tei:orgName>Wiener Frauenverein zum Schutze armer verlassener Kinder</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -16664,7 +17598,9 @@
                </org>
                <org xml:id="pmb37563">
                   <tei:orgName>Wiener Mittagsblatt</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -16674,7 +17610,9 @@
                </org>
                <org xml:id="pmb37560">
                   <tei:orgName>Wiener Mittags-Zeitung</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1039">Zeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -16741,7 +17679,9 @@
                </org>
                <org xml:id="pmb37566">
                   <tei:orgName>Wiener Neueste Nachrichten</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i972">Tageszeitungsredaktion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -16905,7 +17845,9 @@
                </org>
                <org xml:id="pmb36924">
                   <tei:orgName>Wiener Stadt- und Landesbibliothek</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1007">Bibliothek</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb51">
                      <tei:placeName>I., Innere Stadt</tei:placeName>
                      <tei:location>
@@ -17068,7 +18010,9 @@
                </org>
                <org xml:id="pmb37697">
                   <tei:orgName>Winterhilfe</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                </org>
                <org xml:id="pmb36916">
                   <tei:orgName>WIPAG (Wiener Plakatierungs und Anzeigen Gesellschaft)</tei:orgName>
@@ -17094,7 +18038,9 @@
                </org>
                <org xml:id="pmb36913">
                   <tei:orgName>Wolff &amp; Sachs (Konzertdirektion)</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1542">Konzertdirektion</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb36914">
                      <tei:placeName>Tiergarten</tei:placeName>
                      <tei:location>
@@ -17102,7 +18048,13 @@
                      </tei:location>
                   </tei:place>
                   <tei:place corresp="pmb55203">
-                     <tei:placeName>Linkstrasse</tei:placeName>
+                     <tei:placeName>Linkstraße</tei:placeName>
+                  </tei:place>
+                  <tei:place corresp="pmb168">
+                     <tei:placeName>Berlin</tei:placeName>
+                     <tei:location>
+                        <tei:geo decls="LatLng">52.52437 13.41053</tei:geo>
+                     </tei:location>
                   </tei:place>
                </org>
                <org xml:id="pmb57327">
@@ -17163,7 +18115,9 @@
                </org>
                <org xml:id="pmb36894">
                   <tei:orgName>Zentraleuropäische Länderbank</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i977">Bank</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb53">
                      <tei:placeName>III., Landstraße</tei:placeName>
                      <tei:location>
@@ -17173,7 +18127,9 @@
                </org>
                <org xml:id="pmb36897">
                   <tei:orgName>Zentralmeldeamt Wien</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i984">Amt</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb50">
                      <tei:placeName>Wien</tei:placeName>
                      <tei:location>
@@ -17212,7 +18168,9 @@
                </org>
                <org xml:id="pmb36890">
                   <tei:orgName>Zentral-Tax- und Gebührenbemessungsamt Wien</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i984">Amt</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb53">
                      <tei:placeName>III., Landstraße</tei:placeName>
                      <tei:location>
@@ -17234,7 +18192,9 @@
                </org>
                <org xml:id="pmb37666">
                   <tei:orgName>Zentralverband der deutsch-österreichischen Kriegsbeschädigten</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1417">Hilfsorganisation</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb58">
                      <tei:placeName>VIII., Josefstadt</tei:placeName>
                      <tei:location>
@@ -17288,7 +18248,9 @@
                </org>
                <org xml:id="pmb36883">
                   <tei:orgName>Zivilgericht Basel</tei:orgName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i1037">Gericht</tei:gloss>
+                  </tei:desc>
                   <tei:place corresp="pmb854">
                      <tei:placeName>Basel</tei:placeName>
                      <tei:location>
