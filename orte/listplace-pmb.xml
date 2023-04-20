@@ -19,7 +19,7 @@
          </tei:titleStmt>
          <tei:publicationStmt>
             <tei:publisher>ACDH-CH</tei:publisher>
-            <tei:date>25.03.2022</tei:date>
+            <tei:date>25.05.2022</tei:date>
             <tei:idno type="URI">https://id.acdh.oeaw.ac.at/arthur-schnitzler-briefe/v1/indices/listplace.xml</tei:idno>
          </tei:publicationStmt>
          <tei:sourceDesc>
@@ -1001,7 +1001,7 @@
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb85</idno>
                </place>
                <place xml:id="pmb86">
-                  <tei:placeName>Backhausen Joh. &amp; Söhne</tei:placeName>
+                  <tei:placeName>Backhausen Joh. &amp;amp; Söhne</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i29">Geschäft</tei:gloss>
                   </tei:desc>
@@ -1116,7 +1116,7 @@
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb95</idno>
                </place>
                <place xml:id="pmb96">
-                  <tei:placeName>Meissl &amp; Schadn</tei:placeName>
+                  <tei:placeName>Meissl &amp;amp; Schadn</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
@@ -6150,7 +6150,7 @@
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb609</idno>
                </place>
                <place xml:id="pmb610">
-                  <tei:placeName>Théâtre Antoine</tei:placeName>
+                  <tei:placeName>Théâtre Antoine-Simone Berriau</tei:placeName>
                   <tei:desc>
                      <tei:date from="1897-07-02"
                                from-custom="1897"
@@ -13022,10 +13022,6 @@
                   <tei:placeName>Endenich</tei:placeName>
                   <tei:desc/>
                </place>
-               <place xml:id="pmb12782">
-                  <tei:placeName>Horic</tei:placeName>
-                  <tei:desc/>
-               </place>
                <place xml:id="pmb12805">
                   <tei:placeName>Sidcup</tei:placeName>
                   <tei:desc/>
@@ -14071,10 +14067,6 @@
                   <tei:placeName>Bally Longford</tei:placeName>
                   <tei:desc/>
                </place>
-               <place xml:id="pmb19392">
-                  <tei:placeName>Zsambokret Neutra</tei:placeName>
-                  <tei:desc/>
-               </place>
                <place xml:id="pmb19543">
                   <tei:placeName>Steinberg</tei:placeName>
                   <tei:desc/>
@@ -14278,10 +14270,6 @@
                </place>
                <place xml:id="pmb20549">
                   <tei:placeName>Mattersdorf</tei:placeName>
-                  <tei:desc/>
-               </place>
-               <place xml:id="pmb20556">
-                  <tei:placeName>Papa</tei:placeName>
                   <tei:desc/>
                </place>
                <place xml:id="pmb20568">
@@ -15075,10 +15063,6 @@
                </place>
                <place xml:id="pmb25620">
                   <tei:placeName>Ungarisch Hradisch</tei:placeName>
-                  <tei:desc/>
-               </place>
-               <place xml:id="pmb25624">
-                  <tei:placeName>Ingolstadt</tei:placeName>
                   <tei:desc/>
                </place>
                <place xml:id="pmb25669">
@@ -26018,7 +26002,7 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb43052</idno>
                </place>
                <place xml:id="pmb43055">
-                  <tei:placeName>Hôtel du Parc &amp; Bristol</tei:placeName>
+                  <tei:placeName>Hôtel du Parc &amp;amp; Bristol</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
@@ -26801,11 +26785,6 @@
                      <tei:geo decls="LatLng">50.230849 7.58992</tei:geo>
                   </tei:location>
                   <idno type="gnd">https://d-nb.info/gnd/4007708-1/</idno>
-               </place>
-               <place xml:id="pmb43800">
-                  <tei:placeName>Saint-Josse-ten-Noode</tei:placeName>
-                  <tei:desc/>
-                  <idno type="gnd">https://d-nb.info/gnd/4580805-3/</idno>
                </place>
                <place xml:id="pmb43805">
                   <tei:placeName>Vilshofen</tei:placeName>
@@ -33779,7 +33758,7 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb47566</idno>
                </place>
                <place xml:id="pmb47570">
-                  <tei:placeName>Hotel &amp; Pension Bavaria</tei:placeName>
+                  <tei:placeName>Hotel &amp;amp; Pension Bavaria</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i12">Hotel</tei:gloss>
                   </tei:desc>
@@ -41254,6 +41233,9 @@
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
                   </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.20574 16.38566</tei:geo>
+                  </tei:location>
                </place>
                <place xml:id="pmb50532">
                   <tei:placeName>Gestettengasse</tei:placeName>
@@ -41450,6 +41432,9 @@
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
                   </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.17992 16.36028</tei:geo>
+                  </tei:location>
                </place>
                <place xml:id="pmb50739">
                   <tei:placeName>Hotel Fürstenhof</tei:placeName>
@@ -42201,10 +42186,13 @@
                   </tei:location>
                </place>
                <place xml:id="pmb51263">
-                  <tei:placeName>Mauerkirchenstraße</tei:placeName>
+                  <tei:placeName>Mauerkircherstraße</tei:placeName>
                   <tei:desc>
                      <tei:gloss ana="i26">Straße</tei:gloss>
                   </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.16602 11.618</tei:geo>
+                  </tei:location>
                </place>
                <place xml:id="pmb51272">
                   <tei:placeName>Glaser’s Gasthaus</tei:placeName>
@@ -42995,7 +42983,12 @@
                </place>
                <place xml:id="pmb51904">
                   <tei:placeName>Hardenbergstraße</tei:placeName>
-                  <tei:desc/>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.50768 13.3294</tei:geo>
+                  </tei:location>
                </place>
                <place xml:id="pmb51915">
                   <tei:placeName>Josefstädter Straße</tei:placeName>
@@ -46124,6 +46117,7 @@
                      <tei:geo decls="LatLng">50.26487 28.67669</tei:geo>
                   </tei:location>
                   <idno type="geonames">https://www.geonames.org/686967/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4381146-2/</idno>
                </place>
                <place xml:id="pmb54140">
                   <tei:placeName>Poitiers</tei:placeName>
@@ -57567,16 +57561,6 @@
                   </tei:location>
                   <idno type="geonames">https://www.geonames.org/2890473/</idno>
                </place>
-               <place xml:id="pmb64195">
-                  <tei:placeName>Venice</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1415">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">45.43713 12.33265</tei:geo>
-                  </tei:location>
-                  <idno type="geonames">https://www.geonames.org/3164603/</idno>
-               </place>
                <place xml:id="pmb64197">
                   <tei:placeName>Brandenburg</tei:placeName>
                   <tei:desc>
@@ -59008,16 +58992,6 @@
                   </tei:location>
                   <idno type="geonames">https://www.geonames.org/2945024/</idno>
                </place>
-               <place xml:id="pmb64503">
-                  <tei:placeName>Frankfurt am Main</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1410">Besiedelter Ort</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">50.11552 8.68417</tei:geo>
-                  </tei:location>
-                  <idno type="geonames">https://www.geonames.org/2925533/</idno>
-               </place>
                <place xml:id="pmb64507">
                   <tei:placeName>Ullsteinstraße</tei:placeName>
                   <tei:desc>
@@ -59615,16 +59589,6 @@
                      <tei:geo decls="LatLng">59.92932 10.67027</tei:geo>
                   </tei:location>
                   <idno type="geonames">https://www.geonames.org/9609462/</idno>
-               </place>
-               <place xml:id="pmb64666">
-                  <tei:placeName>Norway</tei:placeName>
-                  <tei:desc>
-                     <tei:gloss ana="i1411">Land</tei:gloss>
-                  </tei:desc>
-                  <tei:location>
-                     <tei:geo decls="LatLng">62.0 10.0</tei:geo>
-                  </tei:location>
-                  <idno type="geonames">https://www.geonames.org/3144096/</idno>
                </place>
                <place xml:id="pmb64669">
                   <tei:placeName>Løten</tei:placeName>
@@ -60870,6 +60834,495 @@
                   <tei:desc/>
                   <tei:location>
                      <tei:geo decls="LatLng">54.0887 12.140489</tei:geo>
+                  </tei:location>
+                  <idno type="gnd">https://d-nb.info/gnd/4050610-1/</idno>
+               </place>
+               <place xml:id="pmb87727">
+                  <tei:placeName>Kobrova</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.074615249597045 14.397697655743734</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb87733">
+                  <tei:placeName>Arsiero</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">45.803205662918124 11.355583719213817</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb87735">
+                  <tei:placeName>Cârlibaba</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.57798032243568 25.122051838121433</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb87737">
+                  <tei:placeName>Vatra Dornei</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i14">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.34655000537399 25.362276753794678</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb87739">
+                  <tei:placeName>Vámházkőrut</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.4880264034108 19.05896704031207</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb87774">
+                  <tei:placeName>Höchberg</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">49.78446 9.88223</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2903327/</idno>
+               </place>
+               <place xml:id="pmb87780">
+                  <tei:placeName>Place de la Bourse</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i21">Platz</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.8657 2.3414</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb87802">
+                  <tei:placeName>Almsee</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1618">See</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.7526 13.95658</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782762/</idno>
+               </place>
+               <place xml:id="pmb87808">
+                  <tei:placeName>Petit Trianon</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1928"/>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.81545 2.10976</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/6284982/</idno>
+               </place>
+               <place xml:id="pmb87811">
+                  <tei:placeName>Grand Trianon</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1928"/>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.81449 2.10478</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/6284981/</idno>
+               </place>
+               <place xml:id="pmb87814">
+                  <tei:placeName>rue Monceau</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.87552 2.30671</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb87859">
+                  <tei:placeName>Sebastopol</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1415">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">44.60795 33.52134</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/694423/</idno>
+               </place>
+               <place xml:id="pmb87928">
+                  <tei:placeName>Meiningenallee</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.52057412424277 13.258884240493146</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb87939">
+                  <tei:placeName>Kleistpark</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i19">Park</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.49208 13.35898</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb87951">
+                  <tei:placeName>Stevenage</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">51.90224 -0.20256</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2636940/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4302806-8/</idno>
+               </place>
+               <place xml:id="pmb87971">
+                  <tei:placeName>Rue Saint-Joseph</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.8649 2.3444</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88002">
+                  <tei:placeName>Épernay</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1410">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">49.04 3.95922</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3020062/</idno>
+               </place>
+               <place xml:id="pmb88087">
+                  <tei:placeName>Čížkovice</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.48418 14.02839</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3077359/</idno>
+               </place>
+               <place xml:id="pmb88115">
+                  <tei:placeName>Baden bei Wien</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1410">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.00543 16.23264</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2782067/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4004168-2/</idno>
+               </place>
+               <place xml:id="pmb88117">
+                  <tei:placeName>Brno</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1415">Land</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">49.19522 16.60796</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3078610/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4008456-5/</idno>
+               </place>
+               <place xml:id="pmb88130">
+                  <tei:placeName>Angers</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1419">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.47156 -0.55202</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3037656/</idno>
+               </place>
+               <place xml:id="pmb88140">
+                  <tei:placeName>Vennecy</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.95465 2.05459</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2970068/</idno>
+               </place>
+               <place xml:id="pmb88143">
+                  <tei:placeName>Tavers</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.75921 1.61267</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2973257/</idno>
+               </place>
+               <place xml:id="pmb88157">
+                  <tei:placeName>Chuhuyiv</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1419">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">49.83538 36.6865</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/710374/</idno>
+               </place>
+               <place xml:id="pmb88164">
+                  <tei:placeName>Vasilishki</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">53.78073 24.84888</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/620412/</idno>
+               </place>
+               <place xml:id="pmb88169">
+                  <tei:placeName>Shau Kei Wan</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1519">Ortsteil</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">22.27771 114.22864</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/1818911/</idno>
+               </place>
+               <place xml:id="pmb88187">
+                  <tei:placeName>Mürren</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">46.5588 7.8929</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2659530/</idno>
+               </place>
+               <place xml:id="pmb88200">
+                  <tei:placeName>Ismailowoer Park</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i19">Park</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">55.777222 37.789444</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88217">
+                  <tei:placeName>Bayerstraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.139426529373075 11.557733898004901</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88250">
+                  <tei:placeName>Husova</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.085739102787194 14.418213511568819</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88253">
+                  <tei:placeName>Václavské nám.</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i21">Platz</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.08121915207808 14.428080752907253</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88259">
+                  <tei:placeName>Úzká</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.08687288336325 14.330824982733784</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88294">
+                  <tei:placeName>Pápa</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1419">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.33004 17.4674</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3046686/</idno>
+               </place>
+               <place xml:id="pmb88392">
+                  <tei:placeName>Traunkirchen</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.84462 13.78939</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2763414/</idno>
+               </place>
+               <place xml:id="pmb88399">
+                  <tei:placeName>Capua</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1410">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">41.10519 14.21269</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/3180601/</idno>
+               </place>
+               <place xml:id="pmb88403">
+                  <tei:placeName>Berlinchen</tei:placeName>
+                  <tei:desc/>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.994639 15.21864</tei:geo>
+                  </tei:location>
+                  <idno type="gnd">https://d-nb.info/gnd/4225270-2/</idno>
+               </place>
+               <place xml:id="pmb88409">
+                  <tei:placeName>Haberlandstraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.4909724 13.3384055</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88413">
+                  <tei:placeName>Pension Bleckmann</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i12">Hotel</tei:gloss>
+                  </tei:desc>
+               </place>
+               <place xml:id="pmb88424">
+                  <tei:placeName>Saint-Josse-ten-Noode</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.8538 4.37282</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2787387/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4580805-3/</idno>
+               </place>
+               <place xml:id="pmb88429">
+                  <tei:placeName>Gastwirtschaft Schiedlbauer</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i17">Gastgewerbegebäude</tei:gloss>
+                  </tei:desc>
+               </place>
+               <place xml:id="pmb88435">
+                  <tei:placeName>Hotel Koschel</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i12">Hotel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">52.49378412539491 13.33615678971174</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88452">
+                  <tei:placeName>Ingolstadt</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1410">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">48.76508 11.42372</tei:geo>
+                  </tei:location>
+                  <idno type="geonames">https://www.geonames.org/2895992/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4026991-7/</idno>
+               </place>
+               <place xml:id="pmb88479">
+                  <tei:placeName>rue des Plantes</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.85783 4.36234</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88528">
+                  <tei:placeName>Herrliberg</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1434">Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.29716 8.63018</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88595">
+                  <tei:placeName>Rossertstraße</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i26">Straße</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.12251914288161 8.66005043060461</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88597">
+                  <tei:placeName>Central-Hotel</tei:placeName>
+                  <tei:desc>
+                     <tei:date when="1887-07-02" when-custom="1887">1887</tei:date>
+                     <tei:gloss ana="i12">Hotel</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.11036 8.67595</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88636">
+                  <tei:placeName>Faberhäuser</tei:placeName>
+                  <tei:desc>
+                     <tei:date when="1874-07-02" when-custom="1874">1874</tei:date>
+                     <tei:gloss ana="i36">Wohngebäude</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">47.806642253828755 13.042522714449998</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88642">
+                  <tei:placeName>Bagsværd</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">55.76095 12.45317</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88646">
+                  <tei:placeName>Østermarie</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1412">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">55.14067 15.01247</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88657">
+                  <tei:placeName>Łańcut</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1419">Besiedelter Ort</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.06871 22.22912</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88722">
+                  <tei:placeName>Wallonia</tei:placeName>
+                  <tei:desc>
+                     <tei:gloss ana="i1484">Region</tei:gloss>
+                  </tei:desc>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.5 4.75</tei:geo>
+                  </tei:location>
+               </place>
+               <place xml:id="pmb88726">
+                  <tei:placeName>Laeken</tei:placeName>
+                  <tei:desc/>
+                  <tei:location>
+                     <tei:geo decls="LatLng">50.875849 4.34844</tei:geo>
                   </tei:location>
                </place>
                <place xml:id="pmb">

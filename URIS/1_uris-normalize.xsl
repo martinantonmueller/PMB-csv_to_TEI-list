@@ -54,14 +54,14 @@
     <xsl:function name="foo:wikidata-normalize">
         <xsl:param name="entry" as="xs:string"/>
         <xsl:choose>
-            <xsl:when test="contains($entry,'www.wikidata.org')">
+            <xsl:when test="contains($entry,'www.wikidata.org/wiki/')">
                 <xsl:variable name="kuerzel">
                     <xsl:choose>
                         <xsl:when test="ends-with($entry, '/')">
-                            <xsl:value-of select="substring-after($entry, 'www.wikidata.org/')"/>
+                            <xsl:value-of select="substring-after($entry, 'www.wikidata.org/wiki/')"/>
                         </xsl:when>
                         <xsl:otherwise>
-                            <xsl:value-of select="concat(substring-after($entry, 'www.wikidata.org/'), '/')"/>
+                            <xsl:value-of select="concat(substring-after($entry, 'www.wikidata.org/wiki/'), '/')"/>
                         </xsl:otherwise>
                     </xsl:choose>
                 </xsl:variable>
@@ -201,6 +201,22 @@
                     <xsl:element name="URL">
                         <xsl:attribute name="type">
                             <xsl:text>schnitzler-lektueren</xsl:text>
+                        </xsl:attribute>
+                        <xsl:value-of select="URL"/>
+                    </xsl:element>
+                    <xsl:element name="Entity_ID">
+                        <xsl:value-of select="Entity_ID"/>
+                    </xsl:element>
+                    <xsl:element name="Entity">
+                        <xsl:value-of select="Entity"/>
+                    </xsl:element>
+                </xsl:element>
+            </xsl:for-each>
+            <xsl:for-each select="item[starts-with(URL/.,'https://pmb.')]">
+                <xsl:element name="item">
+                    <xsl:element name="URL">
+                        <xsl:attribute name="type">
+                            <xsl:text>pmb</xsl:text>
                         </xsl:attribute>
                         <xsl:value-of select="URL"/>
                     </xsl:element>
